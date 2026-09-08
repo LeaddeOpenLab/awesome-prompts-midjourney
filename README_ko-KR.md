@@ -29,18 +29,9 @@
 
 ### 스타일
 
-[사진술](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>사진술 · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- 사진술 · 0
 - 시네마틱 / 영화 스틸컷 · 0
 - 애니메이션 / 만화 · 0
 - 일러스트레이션 · 0
@@ -59,7 +50,7 @@
 
 ### 본문
 
-[동물 / 생명체](#category-animal-creature) · [건축 / 인테리어](#category-architecture-interior)
+[동물 / 생명체](#category-animal-creature)
 
 - 인물 사진 / 셀카 · 0
 - 인플루언서 / 모델 · 0
@@ -79,16 +70,7 @@
 </details>
 
 - 차량 · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>건축 / 인테리어 · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- 건축 / 인테리어 · 0
 - 풍경 / 자연 · 0
 - 도시 풍경 / 거리 · 0
 - 다이어그램 / 차트 · 0
@@ -105,7 +87,7 @@
 
 작성자：[@Ror\_Fly](https://x.com/Ror_Fly) · [원본 게시물](https://x.com/Ror_Fly/status/2096629184512610370)
 
-사진술 · 동물 / 생명체 · 건축 / 인테리어 · 배포 대기
+동물 / 생명체 · 배포 대기
 
 **요약:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

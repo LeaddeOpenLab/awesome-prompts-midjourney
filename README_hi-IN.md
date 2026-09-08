@@ -29,18 +29,9 @@
 
 ### शैली
 
-[फोटोग्राफी](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>फोटोग्राफी · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- फोटोग्राफी · 0
 - सिनेमैटिक / फ़िल्म स्टिल · 0
 - एनिमे / मंगा · 0
 - चित्रण · 0
@@ -59,7 +50,7 @@
 
 ### मुख्य सामग्री
 
-[पशु / जीव](#category-animal-creature) · [आर्किटेक्चर / इंटीरियर](#category-architecture-interior)
+[पशु / जीव](#category-animal-creature)
 
 - पोर्ट्रेट / सेल्फ़ी · 0
 - इन्फ्लुएंसर / मॉडल · 0
@@ -79,16 +70,7 @@
 </details>
 
 - वाहन · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>आर्किटेक्चर / इंटीरियर · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- आर्किटेक्चर / इंटीरियर · 0
 - लैंडस्केप / प्रकृति · 0
 - शहर का नज़ारा / सड़क · 0
 - आरेख / चार्ट · 0
@@ -105,7 +87,7 @@
 
 लेखक：[@Ror\_Fly](https://x.com/Ror_Fly) · [मूल पोस्ट](https://x.com/Ror_Fly/status/2096629184512610370)
 
-फोटोग्राफी · पशु / जीव · आर्किटेक्चर / इंटीरियर · प्रकाशन लंबित
+पशु / जीव · प्रकाशन लंबित
 
 **सारांश:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

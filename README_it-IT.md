@@ -29,18 +29,9 @@
 
 ### Stile
 
-[Fotografia](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotografia · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Fotografia · 0
 - Fermo immagine cinematografico / Still fotografico · 0
 - Anime / Manga · 0
 - Illustrazione · 0
@@ -59,7 +50,7 @@
 
 ### Contenuto principale
 
-[Animale / Creatura](#category-animal-creature) · [Architettura / Interni](#category-architecture-interior)
+[Animale / Creatura](#category-animal-creature)
 
 - Ritratto / Selfie · 0
 - Influencer / Modello/a · 0
@@ -79,16 +70,7 @@
 </details>
 
 - Veicolo · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>Architettura / Interni · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Architettura / Interni · 0
 - Paesaggio / Natura · 0
 - Paesaggio urbano / Strada · 0
 - Diagramma / Grafico · 0
@@ -105,7 +87,7 @@
 
 Autore：[@Ror\_Fly](https://x.com/Ror_Fly) · [Post originale](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Fotografia · Animale / Creatura · Architettura / Interni · Distribuzione in attesa
+Animale / Creatura · Distribuzione in attesa
 
 **Riepilogo:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

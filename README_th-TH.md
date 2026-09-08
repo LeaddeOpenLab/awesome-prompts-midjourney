@@ -29,18 +29,9 @@
 
 ### สไตล์
 
-[การถ่ายภาพ](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>การถ่ายภาพ · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- การถ่ายภาพ · 0
 - ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 0
 - อนิเมะ / มังงะ · 0
 - ภาพประกอบ · 0
@@ -59,7 +50,7 @@
 
 ### เนื้อหาหลัก
 
-[สัตว์ / สิ่งมีชีวิต](#category-animal-creature) · [สถาปัตยกรรม / การตกแต่งภายใน](#category-architecture-interior)
+[สัตว์ / สิ่งมีชีวิต](#category-animal-creature)
 
 - ภาพบุคคล / เซลฟี่ · 0
 - อินฟลูเอนเซอร์ / นางแบบ · 0
@@ -79,16 +70,7 @@
 </details>
 
 - ยานพาหนะ · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>สถาปัตยกรรม / การตกแต่งภายใน · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- สถาปัตยกรรม / การตกแต่งภายใน · 0
 - ทิวทัศน์ / ธรรมชาติ · 0
 - ทิวทัศน์เมือง / ถนน · 0
 - แผนภาพ / แผนภูมิ · 0
@@ -105,7 +87,7 @@
 
 ผู้เขียน：[@Ror\_Fly](https://x.com/Ror_Fly) · [โพสต์ต้นฉบับ](https://x.com/Ror_Fly/status/2096629184512610370)
 
-การถ่ายภาพ · สัตว์ / สิ่งมีชีวิต · สถาปัตยกรรม / การตกแต่งภายใน · รอเผยแพร่
+สัตว์ / สิ่งมีชีวิต · รอเผยแพร่
 
 **สรุป:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

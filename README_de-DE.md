@@ -29,18 +29,9 @@
 
 ### Stil
 
-[Fotografie](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotografie · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Fotografie · 0
 - Kinematisch / Filmstill · 0
 - Anime / Manga · 0
 - Illustration · 0
@@ -59,7 +50,7 @@
 
 ### Hauptinhalt
 
-[Tier / Kreatur](#category-animal-creature) · [Architektur / Interieur](#category-architecture-interior)
+[Tier / Kreatur](#category-animal-creature)
 
 - Porträt / Selfie · 0
 - Influencer / Model · 0
@@ -79,16 +70,7 @@
 </details>
 
 - Fahrzeug · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>Architektur / Interieur · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Architektur / Interieur · 0
 - Landschaft / Natur · 0
 - Stadtbild / Straße · 0
 - Diagramm / Grafik · 0
@@ -105,7 +87,7 @@
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Originalbeitrag](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Fotografie · Tier / Kreatur · Architektur / Interieur · Verteilung ausstehend
+Tier / Kreatur · Verteilung ausstehend
 
 **Zusammenfassung:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

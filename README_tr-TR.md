@@ -29,18 +29,9 @@
 
 ### Tarz
 
-[Fotoğrafçılık](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotoğrafçılık · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Fotoğrafçılık · 0
 - Sinematik / Film Karesi · 0
 - Anime / Manga · 0
 - İllüstrasyon · 0
@@ -59,7 +50,7 @@
 
 ### Ana İçerik
 
-[Hayvan / Yaratık](#category-animal-creature) · [Mimari / İç Mekan](#category-architecture-interior)
+[Hayvan / Yaratık](#category-animal-creature)
 
 - Portre / Selfie · 0
 - Influencer / Model · 0
@@ -79,16 +70,7 @@
 </details>
 
 - Araç · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>Mimari / İç Mekan · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Mimari / İç Mekan · 0
 - Manzara / Doğa · 0
 - Şehir Manzarası / Sokak · 0
 - Diyagram / Grafik · 0
@@ -105,7 +87,7 @@
 
 Yazar：[@Ror\_Fly](https://x.com/Ror_Fly) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Fotoğrafçılık · Hayvan / Yaratık · Mimari / İç Mekan · Dağıtım bekliyor
+Hayvan / Yaratık · Dağıtım bekliyor
 
 **Özet:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

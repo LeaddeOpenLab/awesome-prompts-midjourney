@@ -29,18 +29,9 @@
 
 ### 風格
 
-[攝影](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>攝影 · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- 攝影 · 0
 - 電影感 / 電影劇照 · 0
 - 動畫 / 漫畫 · 0
 - 插圖 · 0
@@ -59,7 +50,7 @@
 
 ### 主體
 
-[動物 / 生物](#category-animal-creature) · [建築 / 室內設計](#category-architecture-interior)
+[動物 / 生物](#category-animal-creature)
 
 - 人像 / 自拍 · 0
 - 網紅 / 模特兒 · 0
@@ -79,16 +70,7 @@
 </details>
 
 - 車輛 · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>建築 / 室內設計 · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- 建築 / 室內設計 · 0
 - 風景 / 大自然 · 0
 - 城市景觀 / 街道 · 0
 - 圖表 · 0
@@ -105,7 +87,7 @@
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [查看 X 原帖](https://x.com/Ror_Fly/status/2096629184512610370)
 
-攝影 · 動物 / 生物 · 建築 / 室內設計 · 待推送
+動物 / 生物 · 待推送
 
 **概括:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

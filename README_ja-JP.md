@@ -29,18 +29,9 @@
 
 ### スタイル
 
-[写真撮影](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>写真撮影 · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- 写真撮影 · 0
 - シネマティック / フィルムスチル · 0
 - アニメ / 漫画 · 0
 - イラスト · 0
@@ -59,7 +50,7 @@
 
 ### 本文
 
-[動物 / 生き物](#category-animal-creature) · [建築 / インテリア](#category-architecture-interior)
+[動物 / 生き物](#category-animal-creature)
 
 - ポートレート / セルフィー · 0
 - インフルエンサー / モデル · 0
@@ -79,16 +70,7 @@
 </details>
 
 - 車両 · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>建築 / インテリア · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- 建築 / インテリア · 0
 - 風景 / 自然 · 0
 - 街並み / ストリート · 0
 - 図 / チャート · 0
@@ -105,7 +87,7 @@
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [元の投稿](https://x.com/Ror_Fly/status/2096629184512610370)
 
-写真撮影 · 動物 / 生き物 · 建築 / インテリア · 配信待ち
+動物 / 生き物 · 配信待ち
 
 **概要:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 

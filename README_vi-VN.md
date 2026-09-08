@@ -29,18 +29,9 @@
 
 ### Phong cách
 
-[Nhiếp ảnh](#category-photography)
 
 
-<a name="category-photography"></a>
-
-<details open>
-<summary>Nhiếp ảnh · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Nhiếp ảnh · 0
 - Điện ảnh / Ảnh tĩnh từ phim · 0
 - Anime / Manga · 0
 - Minh họa · 0
@@ -59,7 +50,7 @@
 
 ### Nội dung chính
 
-[Động vật / Sinh vật](#category-animal-creature) · [Kiến trúc / Nội thất](#category-architecture-interior)
+[Động vật / Sinh vật](#category-animal-creature)
 
 - Chân dung / Ảnh tự chụp · 0
 - Người có ảnh hưởng / Người mẫu · 0
@@ -79,16 +70,7 @@
 </details>
 
 - Phương tiện · 0
-
-<a name="category-architecture-interior"></a>
-
-<details open>
-<summary>Kiến trúc / Nội thất · 1</summary>
-
-- [A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.](#prompt-2096629184512610370) · [@Ror\_Fly](https://x.com/Ror_Fly)
-
-</details>
-
+- Kiến trúc / Nội thất · 0
 - Phong cảnh / Thiên nhiên · 0
 - Quang cảnh thành phố / Đường phố · 0
 - Sơ đồ / Biểu đồ · 0
@@ -105,7 +87,7 @@
 
 Tác giả：[@Ror\_Fly](https://x.com/Ror_Fly) · [Bài gốc](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Nhiếp ảnh · Động vật / Sinh vật · Kiến trúc / Nội thất · Chờ phân phối
+Động vật / Sinh vật · Chờ phân phối
 
 **Tóm tắt:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 
