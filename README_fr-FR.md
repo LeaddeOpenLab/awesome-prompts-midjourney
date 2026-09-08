@@ -30,13 +30,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### Une pensée visualisée sous la forme d'un délicat organisme transparent doté d'une lumière ambrée incandescente et de fins filaments d'argent se déployant dans une chambre noire.
 
 Auteur：[@Ror\_Fly](https://x.com/Ror_Fly) · [Publication originale](https://x.com/Ror_Fly/status/2096629184512610370)
 
 Animal / Créature · Diffusion en attente
 
-**Résumé:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**Résumé:** Une pensée visualisée sous la forme d'un délicat organisme transparent doté d'une lumière ambrée incandescente et de fins filaments d'argent se déployant dans une chambre noire.
 
 <img src="images/2096629184512610370-1.jpg" alt="Image 1" width="480" />
 
@@ -49,7 +49,7 @@ Animal / Créature · Diffusion en attente
 **Consigne**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+Une pensée avant qu'elle ne devienne une phrase. Un petit organisme transparent suspendu au centre d'une immense chambre noire inachevée, son corps un nœud complexe de capillaires clairs abritant une unique lumière ambrée chaude. Des milliers de filaments d'argent fins comme des cheveux s'en déploient comme les branchies d'un papillon de verre, se ramifiant vers l'extérieur en arches à demi formées, en pages translucides pliées et en pâles géométries botaniques ; la plupart se dissolvent dans l'obscurité avant de devenir des objets. Les fils les plus proches sont douloureusement nets, la structure lointaine à peine suggérée. Une minuscule flaque de lumière chaude sous la créature, un vaste espace négatif bleu froid au-dessus. Poussière de porcelaine, délicat maillage de silice, subtils contacts de cuivre, une structure prise sur le fait de s'assembler elle-même. Photomicrographie sur fond noir avec l'échelle impossible de la photographie d'architecture, rétrodiffusion volumétrique, bords réfractifs exquis, cyan discret, ivoire et braise orange. Fragile, provisoire, intensément attentif. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ Retour aux catégories](#catalog)

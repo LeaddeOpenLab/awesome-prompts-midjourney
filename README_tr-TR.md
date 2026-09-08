@@ -30,13 +30,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### Karanlık bir odada parlayan kehribar bir ışık ve yayılan ince gümüş filamentlerle narin, şeffaf bir organizma olarak görselleştirilmiş bir düşünce.
 
 Yazar：[@Ror\_Fly](https://x.com/Ror_Fly) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2096629184512610370)
 
 Hayvan / Yaratık · Dağıtım bekliyor
 
-**Özet:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**Özet:** Karanlık bir odada parlayan kehribar bir ışık ve yayılan ince gümüş filamentlerle narin, şeffaf bir organizma olarak görselleştirilmiş bir düşünce.
 
 <img src="images/2096629184512610370-1.jpg" alt="Görsel 1" width="480" />
 
@@ -49,7 +49,7 @@ Hayvan / Yaratık · Dağıtım bekliyor
 **İstem**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+Bir cümleye dönüşmeden önceki bir düşünce. Tamamlanmamış devasa karanlık bir odanın ortasında asılı duran küçük, şeffaf bir organizma; gövdesi, tek bir sıcak kehribar ışığı tutan berrak kılcal damarlardan oluşan karmaşık bir düğüm. Binlerce saç teli inceliğinde gümüş filament, bir cam güvesinin solungaçları gibi ondan açılarak dışarı doğru yarı biçimlenmiş kemerlere, katlanmış yarı saydam sayfalara ve belirsiz botanik geometrilere doğru dallanıyor; çoğu nesneye dönüşmeden önce karanlıkta kayboluyor. En yakın iplikler acı verecek kadar keskin, uzaktaki yapı zar zor seziliyor. Yaratığın altında küçücük bir sıcak ışık birikintisi, üzerinde engin soğuk mavi negatif alan. Porselen tozu, narin silika örgü, ince bakır kontaklar, kendini bir araya getirme eylemi sırasında yakalanmış bir yapı. Mimari fotoğrafçılığın imkansız ölçeğine sahip karanlık alan fotomikrografisi, hacimsel geri saçılma, enfes kırılma kenarları, ölçülü camgöbeği, fildişi ve köz turuncusu. Kırılgan, geçici, yoğun bir şekilde dikkatli. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ Kategorilere dön](#catalog)

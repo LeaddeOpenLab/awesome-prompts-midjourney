@@ -30,13 +30,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### ความคิดที่ถูกถ่ายทอดเป็นสิ่งมีชีวิตโปร่งใสอันละเอียดอ่อน พร้อมแสงสีอำพันเปล่งประกายและเส้นใยเงินละเอียดที่คลี่ตัวออกในห้องมืด
 
 ผู้เขียน：[@Ror\_Fly](https://x.com/Ror_Fly) · [โพสต์ต้นฉบับ](https://x.com/Ror_Fly/status/2096629184512610370)
 
 สัตว์ / สิ่งมีชีวิต · รอเผยแพร่
 
-**สรุป:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**สรุป:** ความคิดที่ถูกถ่ายทอดเป็นสิ่งมีชีวิตโปร่งใสอันละเอียดอ่อน พร้อมแสงสีอำพันเปล่งประกายและเส้นใยเงินละเอียดที่คลี่ตัวออกในห้องมืด
 
 <img src="images/2096629184512610370-1.jpg" alt="รูปภาพ 1" width="480" />
 
@@ -49,7 +49,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 **พรอมต์**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+ความคิดก่อนที่มันจะกลายเป็นประโยค สิ่งมีชีวิตโปร่งใสขนาดเล็กตัวหนึ่งลอยเคว้งอยู่ตรงกลางห้องมืดมหึมาที่ยังสร้างไม่เสร็จ ร่างกายของมันคือปมร่างแหเส้นเลือดฝอยใสที่ซับซ้อน โอบอุ้มแสงสีอำพันอันอบอุ่นไว้เพียงดวงเดียว เส้นใยเงินบางละเอียดดุจเส้นผมหลายพันเส้นคลี่ตัวออกจากมันราวกับเหงือกของผีเสื้อกลางคืนแก้ว แตกแขนงออกไปเป็นซุ้มโค้งรูปทรงครึ่งๆ กลางๆ แผ่นกระดาษกึ่งโปร่งแสงที่พับทับซ้อน และเรขาคณิตพฤกษศาสตร์จางๆ ส่วนใหญ่สลายหายไปในความมืดก่อนที่จะกลายเป็นวัตถุ เส้นใยที่ใกล้ที่สุดมีความคมชัดอย่างเจ็บปวด โครงสร้างที่อยู่ไกลออกไปเห็นเพียงเค้าโครงจางๆ แอ่งแสงอบอุ่นเล็กๆ ใต้สิ่งมีชีวิต พื้นที่ว่างสีน้ำเงินเย็นยะเยือกอันกว้างใหญ่เบื้องบน ผงพอร์ซเลน ตาข่ายซิลิกาบอบบาง จุดสัมผัสทองแดงเร้นลับ โครงสร้างที่ถูกจับภาพไว้ในขณะที่กำลังประกอบตัวเอง ภาพถ่ายจุลทรรศน์แบบลานมืดที่มีสเกลอันเหลือเชื่อของการถ่ายภาพสถาปัตยกรรม การกระเจิงแสงด้านหลังเชิงปริมาตร ขอบหักเหแสงอันวิจิตร สีฟ้าไซแอน งาช้าง และสีส้มถ่านคุที่ควบคุมโทนอย่างประณีต เปราะบาง ชั่วคราว และจดจ่ออย่างเข้มข้น --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

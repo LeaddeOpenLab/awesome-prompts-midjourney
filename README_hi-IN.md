@@ -30,13 +30,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### एक अंधेरे कक्ष में चमकती एम्बर रोशनी और महीन चांदी के तंतुओं को बिखेरते हुए एक नाजुक पारदर्शी जीव के रूप में परिकल्पित विचार।
 
 लेखक：[@Ror\_Fly](https://x.com/Ror_Fly) · [मूल पोस्ट](https://x.com/Ror_Fly/status/2096629184512610370)
 
 पशु / जीव · प्रकाशन लंबित
 
-**सारांश:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**सारांश:** एक अंधेरे कक्ष में चमकती एम्बर रोशनी और महीन चांदी के तंतुओं को बिखेरते हुए एक नाजुक पारदर्शी जीव के रूप में परिकल्पित विचार।
 
 <img src="images/2096629184512610370-1.jpg" alt="चित्र 1" width="480" />
 
@@ -49,7 +49,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 **प्रॉम्प्ट**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+एक विचार, इससे पहले कि वह एक वाक्य बने। एक विशाल अधूरे अंधेरे कक्ष के केंद्र में निलंबित एक छोटा पारदर्शी जीव, उसका शरीर स्पष्ट केशिकाओं की एक जटिल गाँठ है जो एक गर्म एम्बर प्रकाश को थामे हुए है। कांच के पतंगे के गलफड़ों की तरह हजारों बाल-जैसे महीन चांदी के तंतु उसमें से खुलते हैं, जो आधे-बने मेहराबों, मुड़े हुए अर्धपारदर्शी पन्नों और हल्की वानस्पतिक ज्यामितियों में बाहर की ओर शाखाएं बनाते हैं; अधिकांश वस्तु बनने से पहले ही अंधेरे में विलीन हो जाते हैं। निकटतम धागे अत्यधिक तीखे और स्पष्ट हैं, दूर की संरचना मुश्किल से आभासित होती है। जीव के नीचे गर्म रोशनी का एक छोटा सा कुंड, ऊपर विशाल ठंडा नीला नकारात्मक स्थान। चीनी मिट्टी की धूल, नाजुक सिलिका जाल, सूक्ष्म तांबे के संपर्क, खुद को जोड़ने के कार्य में फंसी एक संरचना। वास्तुशिल्प फोटोग्राफी के असंभव पैमाने के साथ डार्क-फील्ड फोटोमाइक्रोग्राफ, वॉल्यूमेट्रिक बैकस्कैटर, उत्तम अपवर्तक किनारे, संयमित सियान, हाथीदांत और अंगारे जैसा नारंगी। नाजुक, अस्थायी, तीव्रता से सचेत। --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

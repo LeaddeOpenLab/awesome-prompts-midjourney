@@ -30,13 +30,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### 어두운 방에서 은은한 호박색 빛과 가느다란 은빛 필라멘트를 펼쳐내는 섬세한 투명 생명체로 시각화된 생각.
 
 작성자：[@Ror\_Fly](https://x.com/Ror_Fly) · [원본 게시물](https://x.com/Ror_Fly/status/2096629184512610370)
 
 동물 / 생명체 · 배포 대기
 
-**요약:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**요약:** 어두운 방에서 은은한 호박색 빛과 가느다란 은빛 필라멘트를 펼쳐내는 섬세한 투명 생명체로 시각화된 생각.
 
 <img src="images/2096629184512610370-1.jpg" alt="이미지 1" width="480" />
 
@@ -49,7 +49,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **프롬프트**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+문장이 되기 전의 한 줄기 생각. 미완의 거대한 어두운 방 중앙에 떠 있는 작고 투명한 생명체 하나, 그 몸은 투명한 모세관들이 복잡하게 얽힌 매듭으로 이루어져 한 줄기 따스한 호박색 빛을 품고 있다. 유리나방의 아가미처럼 수천 가닥의 머리카락처럼 가는 은빛 필라멘트가 펼쳐지며, 반쯤 형성된 아치, 접힌 반투명한 종이, 희미한 식물 기하학 형태로 뻗어나간다. 대부분은 사물이 되기 전에 어둠 속으로 녹아내린다. 가장 가까운 실들은 고통스러울 만큼 선명하고, 먼 곳의 구조는 거의 암시만 될 뿐이다. 생명체 아래에는 작고 따스한 웅덩이 같은 빛이, 그 위로는 광대하고 차가운 푸른 여백이 펼쳐져 있다. 도자기 먼지, 섬세한 실리카 메시, 미세한 구리 접점, 스스로를 조립해 가는 순간에 포착된 구조. 건축 사진의 불가능한 공간감을 지닌 암시야 현미경 사진, 볼륨 후방 산란, 정교한 굴절 가장자리, 절제된 시안, 아이보리, 잔불의 오렌지색. 부서지기 쉽고, 잠정적이며, 극도로 집중된. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

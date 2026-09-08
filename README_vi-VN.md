@@ -30,13 +30,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### Một ý nghĩ được hình tượng hóa thành sinh vật trong suốt tinh xảo với ánh sáng hổ phách rực rỡ và những sợi tơ bạc mịn màng xòe ra trong căn phòng tối.
 
 Tác giả：[@Ror\_Fly](https://x.com/Ror_Fly) · [Bài gốc](https://x.com/Ror_Fly/status/2096629184512610370)
 
 Động vật / Sinh vật · Chờ phân phối
 
-**Tóm tắt:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**Tóm tắt:** Một ý nghĩ được hình tượng hóa thành sinh vật trong suốt tinh xảo với ánh sáng hổ phách rực rỡ và những sợi tơ bạc mịn màng xòe ra trong căn phòng tối.
 
 <img src="images/2096629184512610370-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -49,7 +49,7 @@ Tác giả：[@Ror\_Fly](https://x.com/Ror_Fly) · [Bài gốc](https://x.com/Ro
 **Câu lệnh**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+Một ý nghĩ trước khi trở thành một câu hoàn chỉnh. Một sinh vật trong suốt nhỏ bé lơ lửng ở trung tâm của một căn phòng tối tăm đồ sộ chưa hoàn thiện, cơ thể nó là một nút thắt phức tạp của những mao mạch trong suốt ôm lấy một đốm sáng hổ phách ấm áp duy nhất. Hàng ngàn sợi tơ bạc mảnh như sợi tóc xòe ra từ nó như mang của loài bướm đêm bằng thủy tinh, phân nhánh ra ngoài thành những vòm bán định hình, những trang giấy mờ gấp lại và những hình học thực vật mờ nhạt; hầu hết tan biến vào bóng tối trước khi trở thành vật thể. Những sợi tơ gần nhất sắc nét đến nhức nhối, cấu trúc ở xa chỉ được gợi mở lờ mờ. Một vũng sáng ấm áp nhỏ bên dưới sinh vật, không gian âm màu xanh lam lạnh lẽo bao la phía trên. Bụi sứ, lưới silica tinh xảo, những điểm tiếp xúc bằng đồng tinh tế, một cấu trúc bị bắt trọn ngay trong khoảnh khắc đang tự lắp ráp. Ảnh hiển vi trường tối mang tỷ lệ không tưởng của nhiếp ảnh kiến trúc, tán xạ ngược thể tích, những cạnh khúc xạ tinh xảo, sắc lục lam, màu ngà và cam than hồng được tiết chế. Mong manh, tạm thời, chăm chú cao độ. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ Về danh mục](#catalog)

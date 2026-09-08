@@ -30,13 +30,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2096629184512610370"></a>
 
-### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+### Ein Gedanke, visualisiert als zarter transparenter Organismus mit glühendem bernsteinfarbenem Licht und feinen Silberfäden, die sich in einer dunklen Kammer entfalten.
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Originalbeitrag](https://x.com/Ror_Fly/status/2096629184512610370)
 
 Tier / Kreatur · Verteilung ausstehend
 
-**Zusammenfassung:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
+**Zusammenfassung:** Ein Gedanke, visualisiert als zarter transparenter Organismus mit glühendem bernsteinfarbenem Licht und feinen Silberfäden, die sich in einer dunklen Kammer entfalten.
 
 <img src="images/2096629184512610370-1.jpg" alt="Bild 1" width="480" />
 
@@ -49,7 +49,7 @@ Tier / Kreatur · Verteilung ausstehend
 **Prompt**
 
 ```text
-A thought before it becomes a sentence. One small transparent organism suspended in the centre of an immense unfinished dark chamber, its body an intricate knot of clear capillaries holding a single warm amber light. Thousands of hair-fine silver filaments unfurl from it like the gills of a glass moth, branching outward into half-formed arches, folded translucent pages and faint botanical geometries; most dissolve into darkness before becoming objects. The nearest threads are painfully sharp, the distant structure barely suggested. A tiny pool of warm light beneath the creature, vast cold blue negative space above. Porcelain dust, delicate silica mesh, subtle copper contacts, a structure caught in the act of assembling itself. Dark-field photomicrograph with the impossible scale of architectural photography, volumetric backscatter, exquisite refractive edges, restrained cyan ivory and ember orange. Fragile, provisional, intensely attentive. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
+Ein Gedanke, bevor er zu einem Satz wird. Ein kleiner transparenter Organismus, der in der Mitte einer riesigen unvollendeten dunklen Kammer schwebt, sein Körper ein verschlungener Knoten aus klaren Kapillaren, die ein einzelnes warmes bernsteinfarbenes Licht bergen. Tausende haardünne Silberfäden entfalten sich aus ihm wie die Kiemen einer Glasmotte, verzweigen sich nach außen in halb geformte Bögen, gefaltete durchscheinende Seiten und zarte botanische Geometrien; die meisten lösen sich in Dunkelheit auf, bevor sie zu Objekten werden. Die nächsten Fäden sind schmerzhaft scharf, die entfernte Struktur kaum angedeutet. Eine winzige Lache warmen Lichts unter der Kreatur, riesiger kalter blauer Negativraum darüber. Porzellanstaub, zartes Siliziumdioxid-Geflecht, subtile Kupferkontakte, eine Struktur, die auf frischer Tat ertappt wurde, wie sie sich selbst zusammenbaut. Dunkelfeld-Mikrofotografie mit dem unmöglichen Maßstab von Architekturfotografie, volumetrische Rückstreuung, exquisite lichtbrechende Kanten, zurückhaltendes Cyan, Elfenbein und Glut-Orange. Zerbrechlich, provisorisch, intensiv aufmerksam. --chaos 28 --ar 3:2 --profile mc9ebw2 hkb2ane qpfs1tj 2nqm1xw --stylize 800 --hd
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
