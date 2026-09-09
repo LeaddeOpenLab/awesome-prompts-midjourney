@@ -34,7 +34,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Originalbeitrag](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Tier / Kreatur · Verteilung ausstehend
+Tier / Kreatur · Veröffentlicht
 
 **Zusammenfassung:** Ein Gedanke, visualisiert als zarter transparenter Organismus mit glühendem bernsteinfarbenem Licht und feinen Silberfäden, die sich in einer dunklen Kammer entfalten.
 
@@ -57,5 +57,3 @@ Ein Gedanke, bevor er zu einem Satz wird. Ein kleiner transparenter Organismus, 
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

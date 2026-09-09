@@ -34,7 +34,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ผู้เขียน：[@Ror\_Fly](https://x.com/Ror_Fly) · [โพสต์ต้นฉบับ](https://x.com/Ror_Fly/status/2096629184512610370)
 
-สัตว์ / สิ่งมีชีวิต · รอเผยแพร่
+สัตว์ / สิ่งมีชีวิต · เผยแพร่แล้ว
 
 **สรุป:** ความคิดที่ถูกถ่ายทอดเป็นสิ่งมีชีวิตโปร่งใสอันละเอียดอ่อน พร้อมแสงสีอำพันเปล่งประกายและเส้นใยเงินละเอียดที่คลี่ตัวออกในห้องมืด
 
@@ -57,5 +57,3 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

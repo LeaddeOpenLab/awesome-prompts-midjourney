@@ -34,7 +34,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [元の投稿](https://x.com/Ror_Fly/status/2096629184512610370)
 
-動物 / 生き物 · 配信待ち
+動物 / 生き物 · 配信済み
 
 **概要:** 暗い空間で琥珀色の光を放ち、細い銀のフィラメントを広げる繊細で透明な生命体として視覚化された思考。
 
@@ -57,5 +57,3 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

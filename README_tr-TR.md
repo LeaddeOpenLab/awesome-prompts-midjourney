@@ -34,7 +34,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 Yazar：[@Ror\_Fly](https://x.com/Ror_Fly) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Hayvan / Yaratık · Dağıtım bekliyor
+Hayvan / Yaratık · Yayımlandı
 
 **Özet:** Karanlık bir odada parlayan kehribar bir ışık ve yayılan ince gümüş filamentlerle narin, şeffaf bir organizma olarak görselleştirilmiş bir düşünce.
 
@@ -57,5 +57,3 @@ Bir cümleye dönüşmeden önceki bir düşünce. Tamamlanmamış devasa karanl
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

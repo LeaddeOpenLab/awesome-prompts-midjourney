@@ -34,7 +34,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Publicação original](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animal / Criatura · Distribuição pendente
+Animal / Criatura · Publicado
 
 **Resumo:** Um pensamento visualizado como um delicado organismo transparente com uma brilhante luz âmbar e finos filamentos prateados se desenrolando em uma câmara escura.
 
@@ -57,5 +57,3 @@ Um pensamento antes de se tornar uma frase. Um pequeno organismo transparente su
 ---
 
 [Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

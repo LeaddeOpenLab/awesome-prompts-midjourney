@@ -34,7 +34,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@Ror\_Fly](https://x.com/Ror_Fly) · [원본 게시물](https://x.com/Ror_Fly/status/2096629184512610370)
 
-동물 / 생명체 · 배포 대기
+동물 / 생명체 · 배포 완료
 
 **요약:** 어두운 방에서 은은한 호박색 빛과 가느다란 은빛 필라멘트를 펼쳐내는 섬세한 투명 생명체로 시각화된 생각.
 
@@ -57,5 +57,3 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

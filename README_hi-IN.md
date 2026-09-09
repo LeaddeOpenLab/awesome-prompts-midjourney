@@ -34,7 +34,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 लेखक：[@Ror\_Fly](https://x.com/Ror_Fly) · [मूल पोस्ट](https://x.com/Ror_Fly/status/2096629184512610370)
 
-पशु / जीव · प्रकाशन लंबित
+पशु / जीव · प्रकाशित
 
 **सारांश:** एक अंधेरे कक्ष में चमकती एम्बर रोशनी और महीन चांदी के तंतुओं को बिखेरते हुए एक नाजुक पारदर्शी जीव के रूप में परिकल्पित विचार।
 
@@ -57,5 +57,3 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

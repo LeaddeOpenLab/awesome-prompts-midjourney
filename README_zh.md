@@ -34,7 +34,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [查看 X 原帖](https://x.com/Ror_Fly/status/2096629184512610370)
 
-动物 / 生物 · 待推流
+动物 / 生物 · 已推流
 
 **概括:** 一个被具象化为精致透明生物的念头，散发着琥珀色光芒，纤细的银丝在黑暗厅堂中舒展开来。
 
@@ -57,5 +57,3 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

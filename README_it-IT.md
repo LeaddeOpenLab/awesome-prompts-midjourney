@@ -34,7 +34,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 Autore：[@Ror\_Fly](https://x.com/Ror_Fly) · [Post originale](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animale / Creatura · Distribuzione in attesa
+Animale / Creatura · Pubblicato
 
 **Riepilogo:** Un pensiero visualizzato come un delicato organismo trasparente con una calda luce ambrata e sottili filamenti d'argento che si dispiegano in una camera oscura.
 
@@ -57,5 +57,3 @@ Un pensiero prima di diventare una frase. Un piccolo organismo trasparente sospe
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

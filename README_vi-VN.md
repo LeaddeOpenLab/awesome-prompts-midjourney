@@ -34,7 +34,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 Tác giả：[@Ror\_Fly](https://x.com/Ror_Fly) · [Bài gốc](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Động vật / Sinh vật · Chờ phân phối
+Động vật / Sinh vật · Đã xuất bản
 
 **Tóm tắt:** Một ý nghĩ được hình tượng hóa thành sinh vật trong suốt tinh xảo với ánh sáng hổ phách rực rỡ và những sợi tơ bạc mịn màng xòe ra trong căn phòng tối.
 
@@ -57,5 +57,3 @@ Một ý nghĩ trước khi trở thành một câu hoàn chỉnh. Một sinh v�
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
