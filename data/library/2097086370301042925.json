@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:19:45.913Z",
+  "model": "midjourney",
+  "prompt": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image",
+  "promptTranslations": {
+    "en": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image"
+  },
+  "summaryTranslations": {
+    "en": "Corn wizard character concept blending Merlin and apprentice styles with corn background."
+  },
+  "translationVersion": 2,
+  "summary": "Corn wizard character concept blending Merlin and apprentice styles with corn background.",
+  "summaryEn": "Corn wizard character concept blending Merlin and apprentice styles with corn background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097086370301042925",
+    "canonicalUrl": "https://x.com/teedubya/status/2097086370301042925",
+    "author": {
+      "username": "teedubya",
+      "displayName": "Travis Wright",
+      "profileUrl": "https://x.com/teedubya"
+    },
+    "publishedAt": "2026-09-07T22:15:27.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "4 years ago today...  my first prompt on Midjourney 3.  \n\n\"the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image\"\n\nToday I building an entire simulated Cornytopia world full of agents running around living out the book and the episodes I wrote back in 2022.  \n\nChatGPT Astra is like magic, bruh.  @badcryptopod",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRo3plpbEAA5r-B.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRo3plpbEAA5r-B.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRo4U-UW8AAr15k.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRo4U-UW8AAr15k.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 142,
+      "repostCount": 34,
+      "replyCount": 67,
+      "quoteCount": 0,
+      "viewCount": 6125
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/teedubya/status/2097086370301042925",
+  "coverUrl": "https://pbs.twimg.com/media/HRo3plpbEAA5r-B.jpg",
+  "coverPath": "images/2097086370301042925-1.jpg",
+  "imagePaths": [
+    "images/2097086370301042925-1.jpg",
+    "images/2097086370301042925-2.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRo3plpbEAA5r-B",
+    "x-image:/media/HRo4U-UW8AAr15k",
+    "x-post:2097086370301042925"
+  ],
+  "analysis": {
+    "summary": "Corn wizard character concept blending Merlin and apprentice styles with corn background.",
+    "summaryEn": "Corn wizard character concept blending Merlin and apprentice styles with corn background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the corn wizard subject and corn ear elements depicted in both images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image",
+    "sourceRange": {
+      "start": 59,
+      "end": 260
+    },
+    "translations": {
+      "zh": "玉米巫师。迪士尼学徒遇上魔法师梅林。极多细节。虚幻引擎。8k。神秘、宏大，标志性图像中央的玉米人巫师身后簇拥着最多的玉米棒",
+      "en": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "character-design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Disney"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
