@@ -30,13 +30,13 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2097086370301042925"></a>
 
-### Traducción en curso
+### Concepto de personaje del mago del maíz que combina los estilos de Merlín y aprendiz con un fondo de maíz.
 
 Autor：[@teedubya](https://x.com/teedubya) · [Publicación original](https://x.com/teedubya/status/2097086370301042925)
 
-Personaje · Resumen / Antecedentes · Pendiente de distribución
+Personaje · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Concepto de personaje del mago del maíz que combina los estilos de Merlín y aprendiz con un fondo de maíz.
 
 <img src="images/2097086370301042925-1.jpg" alt="Imagen 1" width="480" />
 
@@ -45,7 +45,7 @@ Personaje · Resumen / Antecedentes · Pendiente de distribución
 **Prompt**
 
 ```text
-Traducción en curso
+el mago del maíz. El aprendiz de Disney se encuentra con Merlín el mago. Mucho trabajo. Unreal Engine. 8k. Misterioso, magnánimo, máxima cantidad de mazorcas de maíz detrás del hombre mago de maíz en el centro de la imagen icónica
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -58,7 +58,7 @@ Traducción en curso
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Publicación original](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animal / Criatura · Pendiente de distribución
+Animal / Criatura · Publicado
 
 **Resumen:** Un pensamiento visualizado como un delicado organismo transparente con una brillante luz ámbar y finos filamentos plateados desplegándose en una cámara oscura.
 
@@ -81,5 +81,3 @@ Un pensamiento antes de convertirse en oración. Un pequeño organismo transpare
 ---
 
 [Explora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Referencia de navegación: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

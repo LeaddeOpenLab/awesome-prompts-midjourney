@@ -30,13 +30,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097086370301042925"></a>
 
-### Đang dịch
+### Ý tưởng nhân vật pháp sư ngô pha trộn phong cách Merlin và người học việc với bối cảnh ngô.
 
 Tác giả：[@teedubya](https://x.com/teedubya) · [Bài gốc](https://x.com/teedubya/status/2097086370301042925)
 
-Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
+Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ý tưởng nhân vật pháp sư ngô pha trộn phong cách Merlin và người học việc với bối cảnh ngô.
 
 <img src="images/2097086370301042925-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -45,7 +45,7 @@ Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
 **Câu lệnh**
 
 ```text
-Đang dịch
+pháp sư ngô. Phong cách Người học việc của Disney kết hợp pháp sư Merlin. Rất nhiều chi tiết công phu. Unreal Engine. 8k. Bí ẩn, hào hiệp, số lượng bắp ngô tối đa phía sau pháp sư người ngô ở trung tâm của hình ảnh mang tính biểu tượng
 ```
 
 [↑ Về danh mục](#catalog)
@@ -58,7 +58,7 @@ Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
 
 Tác giả：[@Ror\_Fly](https://x.com/Ror_Fly) · [Bài gốc](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Động vật / Sinh vật · Chờ phân phối
+Động vật / Sinh vật · Đã xuất bản
 
 **Tóm tắt:** Một ý nghĩ được hình tượng hóa thành sinh vật trong suốt tinh xảo với ánh sáng hổ phách rực rỡ và những sợi tơ bạc mịn màng xòe ra trong căn phòng tối.
 
@@ -81,5 +81,3 @@ Một ý nghĩ trước khi trở thành một câu hoàn chỉnh. Một sinh v�
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

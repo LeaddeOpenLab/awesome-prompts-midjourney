@@ -30,13 +30,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097086370301042925"></a>
 
-### Çeviri sürüyor
+### Merlin ve çırak tarzlarını mısır arka planıyla harmanlayan mısır büyücüsü karakter konsepti.
 
 Yazar：[@teedubya](https://x.com/teedubya) · [Orijinal gönderi](https://x.com/teedubya/status/2097086370301042925)
 
-Karakter · Özet / Arka Plan · Dağıtım bekliyor
+Karakter · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Merlin ve çırak tarzlarını mısır arka planıyla harmanlayan mısır büyücüsü karakter konsepti.
 
 <img src="images/2097086370301042925-1.jpg" alt="Görsel 1" width="480" />
 
@@ -45,7 +45,7 @@ Karakter · Özet / Arka Plan · Dağıtım bekliyor
 **İstem**
 
 ```text
-Çeviri sürüyor
+mısır büyücüsü. Disney Çırağı, büyücü Merlin ile buluşuyor. Çok fazla emek. Unreal Engine. 8k. Gizemli, cömert, ikonik görüntünün merkezindeki mısır adam büyücünün arkasında maksimum sayıda mısır koçanı
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -58,7 +58,7 @@ Karakter · Özet / Arka Plan · Dağıtım bekliyor
 
 Yazar：[@Ror\_Fly](https://x.com/Ror_Fly) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Hayvan / Yaratık · Dağıtım bekliyor
+Hayvan / Yaratık · Yayımlandı
 
 **Özet:** Karanlık bir odada parlayan kehribar bir ışık ve yayılan ince gümüş filamentlerle narin, şeffaf bir organizma olarak görselleştirilmiş bir düşünce.
 
@@ -81,5 +81,3 @@ Bir cümleye dönüşmeden önceki bir düşünce. Tamamlanmamış devasa karanl
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

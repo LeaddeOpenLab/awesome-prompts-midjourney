@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@teedubya](https://x.com/teedubya) · [Source](https://x.com/teedubya/status/2097086370301042925)
 
-Character · Abstract / Background · Pending distribution
+Character · Abstract / Background · Published
 
 **Summary:** Corn wizard character concept blending Merlin and apprentice styles with corn background.
 
@@ -58,7 +58,7 @@ the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unre
 
 Author：[@Ror\_Fly](https://x.com/Ror_Fly) · [Source](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animal / Creature · Pending distribution
+Animal / Creature · Published
 
 **Summary:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 
@@ -81,5 +81,3 @@ A thought before it becomes a sentence. One small transparent organism suspended
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

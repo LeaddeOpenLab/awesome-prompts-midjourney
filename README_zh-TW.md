@@ -30,13 +30,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097086370301042925"></a>
 
-### 翻譯中
+### 融合梅林與學徒風格並帶有玉米背景的玉米巫師角色概念設計。
 
 作者：[@teedubya](https://x.com/teedubya) · [查看 X 原帖](https://x.com/teedubya/status/2097086370301042925)
 
-角色 · 摘要 / 背景 · 待推送
+角色 · 摘要 / 背景 · 已推流
 
-**概括:** 翻譯中
+**概括:** 融合梅林與學徒風格並帶有玉米背景的玉米巫師角色概念設計。
 
 <img src="images/2097086370301042925-1.jpg" alt="圖片 1" width="480" />
 
@@ -45,7 +45,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **提示詞**
 
 ```text
-翻譯中
+玉米巫師。迪士尼魔法學徒遇上魔術師梅林。極多細節。虛幻引擎。8k。神秘、寬宏大度，在標誌性圖像中心的玉米人巫師身後有著數量極其繁多的玉米穗
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -58,7 +58,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [查看 X 原帖](https://x.com/Ror_Fly/status/2096629184512610370)
 
-動物 / 生物 · 待推送
+動物 / 生物 · 已推流
 
 **概括:** 一個被具象化為精緻透明生物的念頭，散發著琥珀色光芒，纖細的銀絲在黑暗廳堂中舒展開來。
 
@@ -81,5 +81,3 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-目錄參考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

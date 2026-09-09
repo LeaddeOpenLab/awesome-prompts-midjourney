@@ -30,13 +30,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097086370301042925"></a>
 
-### 翻訳中
+### マーリンと見習いスタイルを融合し、トウモロコシの背景を配したトウモロコシ魔法使いのキャラクターコンセプト。
 
 作者：[@teedubya](https://x.com/teedubya) · [元の投稿](https://x.com/teedubya/status/2097086370301042925)
 
-キャラクター · 要旨 / 背景 · 配信待ち
+キャラクター · 要旨 / 背景 · 配信済み
 
-**概要:** 翻訳中
+**概要:** マーリンと見習いスタイルを融合し、トウモロコシの背景を配したトウモロコシ魔法使いのキャラクターコンセプト。
 
 <img src="images/2097086370301042925-1.jpg" alt="画像 1" width="480" />
 
@@ -45,7 +45,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **プロンプト**
 
 ```text
-翻訳中
+トウモロコシの魔法使い。ディズニーの魔法使いの弟子と魔術師マーリンの融合。緻密な作り込み。Unreal Engine。8k。神秘的、寛大、象徴的な画像の中央にいるトウモロコシ男の魔法使いの後ろには最大限に敷き詰められたトウモロコシの穂
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -58,7 +58,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [元の投稿](https://x.com/Ror_Fly/status/2096629184512610370)
 
-動物 / 生き物 · 配信待ち
+動物 / 生き物 · 配信済み
 
 **概要:** 暗い空間で琥珀色の光を放ち、細い銀のフィラメントを広げる繊細で透明な生命体として視覚化された思考。
 
@@ -81,5 +81,3 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

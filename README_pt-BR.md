@@ -30,13 +30,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097086370301042925"></a>
 
-### Tradução em andamento
+### Conceito de personagem do mago do milho misturando os estilos de Merlin e aprendiz com fundo de milho.
 
 Autor：[@teedubya](https://x.com/teedubya) · [Publicação original](https://x.com/teedubya/status/2097086370301042925)
 
-Personagem · Resumo / Contexto · Distribuição pendente
+Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Conceito de personagem do mago do milho misturando os estilos de Merlin e aprendiz com fundo de milho.
 
 <img src="images/2097086370301042925-1.jpg" alt="Imagem 1" width="480" />
 
@@ -45,7 +45,7 @@ Personagem · Resumo / Contexto · Distribuição pendente
 **Prompt**
 
 ```text
-Tradução em andamento
+o mago do milho. Aprendiz da Disney encontra Merlin, o mago. Muito trabalho. Unreal Engine. 8k. Misterioso, magnânimo, quantidade máxima de espigas de milho atrás do homem mago do milho no centro da imagem icônica
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -58,7 +58,7 @@ Tradução em andamento
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Publicação original](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animal / Criatura · Distribuição pendente
+Animal / Criatura · Publicado
 
 **Resumo:** Um pensamento visualizado como um delicado organismo transparente com uma brilhante luz âmbar e finos filamentos prateados se desenrolando em uma câmara escura.
 
@@ -81,5 +81,3 @@ Um pensamento antes de se tornar uma frase. Um pequeno organismo transparente su
 ---
 
 [Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

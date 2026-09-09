@@ -30,13 +30,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097086370301042925"></a>
 
-### 번역 중
+### 멀린과 견습생 스타일을 혼합하고 옥수수 배경을 더한 옥수수 마법사 캐릭터 콘셉트.
 
 작성자：[@teedubya](https://x.com/teedubya) · [원본 게시물](https://x.com/teedubya/status/2097086370301042925)
 
-캐릭터 · 초록 / 배경 · 배포 대기
+캐릭터 · 초록 / 배경 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 멀린과 견습생 스타일을 혼합하고 옥수수 배경을 더한 옥수수 마법사 캐릭터 콘셉트.
 
 <img src="images/2097086370301042925-1.jpg" alt="이미지 1" width="480" />
 
@@ -45,7 +45,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **프롬프트**
 
 ```text
-번역 중
+옥수수 마법사. 디즈니 마법사의 제자가 마법사 멀린을 만난 스타일. 정교한 디테일. 언리얼 엔진. 8k. 신비롭고 관대함, 상징적인 이미지 중앙에 있는 옥수수 인간 마법사 뒤로 최대한 가득 찬 옥수수 이삭들
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -58,7 +58,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@Ror\_Fly](https://x.com/Ror_Fly) · [원본 게시물](https://x.com/Ror_Fly/status/2096629184512610370)
 
-동물 / 생명체 · 배포 대기
+동물 / 생명체 · 배포 완료
 
 **요약:** 어두운 방에서 은은한 호박색 빛과 가느다란 은빛 필라멘트를 펼쳐내는 섬세한 투명 생명체로 시각화된 생각.
 
@@ -81,5 +81,3 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

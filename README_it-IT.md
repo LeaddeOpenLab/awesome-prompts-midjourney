@@ -30,13 +30,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097086370301042925"></a>
 
-### Traduzione in corso
+### Concept per il personaggio del mago del mais che fonde lo stile di Merlino e dell'apprendista con uno sfondo di mais.
 
 Autore：[@teedubya](https://x.com/teedubya) · [Post originale](https://x.com/teedubya/status/2097086370301042925)
 
-Personaggio · Abstract / Contesto · Distribuzione in attesa
+Personaggio · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Concept per il personaggio del mago del mais che fonde lo stile di Merlino e dell'apprendista con uno sfondo di mais.
 
 <img src="images/2097086370301042925-1.jpg" alt="Immagine 1" width="480" />
 
@@ -45,7 +45,7 @@ Personaggio · Abstract / Contesto · Distribuzione in attesa
 **Prompt**
 
 ```text
-Traduzione in corso
+il mago del mais. L'apprendista Disney incontra Mago Merlino. Molto lavoro. Unreal Engine. 8k. Misterioso, magnanimo, il massimo delle spighe di mais dietro l'uomo mago del mais al centro dell'immagine iconica
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -58,7 +58,7 @@ Traduzione in corso
 
 Autore：[@Ror\_Fly](https://x.com/Ror_Fly) · [Post originale](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animale / Creatura · Distribuzione in attesa
+Animale / Creatura · Pubblicato
 
 **Riepilogo:** Un pensiero visualizzato come un delicato organismo trasparente con una calda luce ambrata e sottili filamenti d'argento che si dispiegano in una camera oscura.
 
@@ -81,5 +81,3 @@ Un pensiero prima di diventare una frase. Un piccolo organismo trasparente sospe
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

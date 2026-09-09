@@ -30,13 +30,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097086370301042925"></a>
 
-### Übersetzung läuft
+### Charakterkonzept eines Mais-Zauberers, das die Stile von Merlin und dem Zauberlehrling mit einem Mais-Hintergrund verbindet.
 
 Autor：[@teedubya](https://x.com/teedubya) · [Originalbeitrag](https://x.com/teedubya/status/2097086370301042925)
 
-Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
+Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Charakterkonzept eines Mais-Zauberers, das die Stile von Merlin und dem Zauberlehrling mit einem Mais-Hintergrund verbindet.
 
 <img src="images/2097086370301042925-1.jpg" alt="Bild 1" width="480" />
 
@@ -45,7 +45,7 @@ Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
 **Prompt**
 
 ```text
-Übersetzung läuft
+Der Mais-Zauberer. Disney-Lehrling trifft auf Merlin den Zauberer. Viel Arbeit. Unreal Engine. 8k. Geheimnisvoll, großmütig, maximale Maiskolben hinter dem Mais-Mann-Zauberer im Zentrum des ikonischen Bildes
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -58,7 +58,7 @@ Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Originalbeitrag](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Tier / Kreatur · Verteilung ausstehend
+Tier / Kreatur · Veröffentlicht
 
 **Zusammenfassung:** Ein Gedanke, visualisiert als zarter transparenter Organismus mit glühendem bernsteinfarbenem Licht und feinen Silberfäden, die sich in einer dunklen Kammer entfalten.
 
@@ -81,5 +81,3 @@ Ein Gedanke, bevor er zu einem Satz wird. Ein kleiner transparenter Organismus, 
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
-
-Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
