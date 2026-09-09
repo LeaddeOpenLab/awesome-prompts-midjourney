@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**1** Prompt · Son eklenen: **2026-09-08**
+**2** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Diğer
 
+<a name="prompt-2097086370301042925"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@teedubya](https://x.com/teedubya) · [Orijinal gönderi](https://x.com/teedubya/status/2097086370301042925)
+
+Karakter · Özet / Arka Plan · Dağıtım bekliyor
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097086370301042925-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### Karanlık bir odada parlayan kehribar bir ışık ve yayılan ince gümüş filamentlerle narin, şeffaf bir organizma olarak görselleştirilmiş bir düşünce.
 
 Yazar：[@Ror\_Fly](https://x.com/Ror_Fly) · [Orijinal gönderi](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Hayvan / Yaratık · Yayımlandı
+Hayvan / Yaratık · Dağıtım bekliyor
 
 **Özet:** Karanlık bir odada parlayan kehribar bir ışık ve yayılan ince gümüş filamentlerle narin, şeffaf bir organizma olarak görselleştirilmiş bir düşünce.
 
@@ -57,3 +81,5 @@ Bir cümleye dönüşmeden önceki bir düşünce. Tamamlanmamış devasa karanl
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

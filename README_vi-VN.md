@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**1** Prompt · Bổ sung mới nhất: **2026-09-08**
+**2** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Khác
 
+<a name="prompt-2097086370301042925"></a>
+
+### Đang dịch
+
+Tác giả：[@teedubya](https://x.com/teedubya) · [Bài gốc](https://x.com/teedubya/status/2097086370301042925)
+
+Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097086370301042925-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### Một ý nghĩ được hình tượng hóa thành sinh vật trong suốt tinh xảo với ánh sáng hổ phách rực rỡ và những sợi tơ bạc mịn màng xòe ra trong căn phòng tối.
 
 Tác giả：[@Ror\_Fly](https://x.com/Ror_Fly) · [Bài gốc](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Động vật / Sinh vật · Đã xuất bản
+Động vật / Sinh vật · Chờ phân phối
 
 **Tóm tắt:** Một ý nghĩ được hình tượng hóa thành sinh vật trong suốt tinh xảo với ánh sáng hổ phách rực rỡ và những sợi tơ bạc mịn màng xòe ra trong căn phòng tối.
 
@@ -57,3 +81,5 @@ Một ý nghĩ trước khi trở thành một câu hoàn chỉnh. Một sinh v�
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

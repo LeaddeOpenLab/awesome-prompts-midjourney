@@ -14,7 +14,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**1** Prompt · Ultima aggiunta: **2026-09-08**
+**2** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Altro
 
+<a name="prompt-2097086370301042925"></a>
+
+### Traduzione in corso
+
+Autore：[@teedubya](https://x.com/teedubya) · [Post originale](https://x.com/teedubya/status/2097086370301042925)
+
+Personaggio · Abstract / Contesto · Distribuzione in attesa
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097086370301042925-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### Un pensiero visualizzato come un delicato organismo trasparente con una calda luce ambrata e sottili filamenti d'argento che si dispiegano in una camera oscura.
 
 Autore：[@Ror\_Fly](https://x.com/Ror_Fly) · [Post originale](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animale / Creatura · Pubblicato
+Animale / Creatura · Distribuzione in attesa
 
 **Riepilogo:** Un pensiero visualizzato come un delicato organismo trasparente con una calda luce ambrata e sottili filamenti d'argento che si dispiegano in una camera oscura.
 
@@ -57,3 +81,5 @@ Un pensiero prima di diventare una frase. Un piccolo organismo trasparente sospe
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

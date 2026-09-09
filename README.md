@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**1** Prompts · Latest addition: **2026-09-08**
+**2** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 ## Other
 
+<a name="prompt-2097086370301042925"></a>
+
+### Corn wizard character concept blending Merlin and apprentice styles with corn background.
+
+Author：[@teedubya](https://x.com/teedubya) · [Source](https://x.com/teedubya/status/2097086370301042925)
+
+Character · Abstract / Background · Pending distribution
+
+**Summary:** Corn wizard character concept blending Merlin and apprentice styles with corn background.
+
+<img src="images/2097086370301042925-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 
 Author：[@Ror\_Fly](https://x.com/Ror_Fly) · [Source](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animal / Creature · Published
+Animal / Creature · Pending distribution
 
 **Summary:** A thought visualized as a delicate transparent organism with glowing amber light and fine silver filaments unfurling in a dark chamber.
 
@@ -57,3 +81,5 @@ A thought before it becomes a sentence. One small transparent organism suspended
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

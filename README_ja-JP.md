@@ -14,7 +14,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**1** 件 · 最新の追加: **2026-09-08**
+**2** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ## その他
 
+<a name="prompt-2097086370301042925"></a>
+
+### 翻訳中
+
+作者：[@teedubya](https://x.com/teedubya) · [元の投稿](https://x.com/teedubya/status/2097086370301042925)
+
+キャラクター · 要旨 / 背景 · 配信待ち
+
+**概要:** 翻訳中
+
+<img src="images/2097086370301042925-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### 暗い空間で琥珀色の光を放ち、細い銀のフィラメントを広げる繊細で透明な生命体として視覚化された思考。
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [元の投稿](https://x.com/Ror_Fly/status/2096629184512610370)
 
-動物 / 生き物 · 配信済み
+動物 / 生き物 · 配信待ち
 
 **概要:** 暗い空間で琥珀色の光を放ち、細い銀のフィラメントを広げる繊細で透明な生命体として視覚化された思考。
 
@@ -57,3 +81,5 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

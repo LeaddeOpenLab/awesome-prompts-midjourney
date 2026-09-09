@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**1** Prompts · Dernier ajout: **2026-09-08**
+**2** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Autres
 
+<a name="prompt-2097086370301042925"></a>
+
+### Traduction en cours
+
+Auteur：[@teedubya](https://x.com/teedubya) · [Publication originale](https://x.com/teedubya/status/2097086370301042925)
+
+Personnage · Résumé / Contexte · Diffusion en attente
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097086370301042925-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### Une pensée visualisée sous la forme d'un délicat organisme transparent doté d'une lumière ambrée incandescente et de fins filaments d'argent se déployant dans une chambre noire.
 
 Auteur：[@Ror\_Fly](https://x.com/Ror_Fly) · [Publication originale](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Animal / Créature · Publié
+Animal / Créature · Diffusion en attente
 
 **Résumé:** Une pensée visualisée sous la forme d'un délicat organisme transparent doté d'une lumière ambrée incandescente et de fins filaments d'argent se déployant dans une chambre noire.
 
@@ -57,3 +81,5 @@ Une pensée avant qu'elle ne devienne une phrase. Un petit organisme transparent
 ---
 
 [Explorer Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+Référence de navigation: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

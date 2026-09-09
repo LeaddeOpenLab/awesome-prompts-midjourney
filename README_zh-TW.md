@@ -14,7 +14,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**1** 筆內容 · 最新收錄: **2026-09-08**
+**2** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ## 其他
 
+<a name="prompt-2097086370301042925"></a>
+
+### 翻譯中
+
+作者：[@teedubya](https://x.com/teedubya) · [查看 X 原帖](https://x.com/teedubya/status/2097086370301042925)
+
+角色 · 摘要 / 背景 · 待推送
+
+**概括:** 翻譯中
+
+<img src="images/2097086370301042925-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### 一個被具象化為精緻透明生物的念頭，散發著琥珀色光芒，纖細的銀絲在黑暗廳堂中舒展開來。
 
 作者：[@Ror\_Fly](https://x.com/Ror_Fly) · [查看 X 原帖](https://x.com/Ror_Fly/status/2096629184512610370)
 
-動物 / 生物 · 已推流
+動物 / 生物 · 待推送
 
 **概括:** 一個被具象化為精緻透明生物的念頭，散發著琥珀色光芒，纖細的銀絲在黑暗廳堂中舒展開來。
 
@@ -57,3 +81,5 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+目錄參考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

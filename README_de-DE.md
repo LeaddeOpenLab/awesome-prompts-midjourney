@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**1** Prompts · Zuletzt hinzugefügt: **2026-09-08**
+**2** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Sonstige
 
+<a name="prompt-2097086370301042925"></a>
+
+### Übersetzung läuft
+
+Autor：[@teedubya](https://x.com/teedubya) · [Originalbeitrag](https://x.com/teedubya/status/2097086370301042925)
+
+Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097086370301042925-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097086370301042925-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2096629184512610370"></a>
 
 ### Ein Gedanke, visualisiert als zarter transparenter Organismus mit glühendem bernsteinfarbenem Licht und feinen Silberfäden, die sich in einer dunklen Kammer entfalten.
 
 Autor：[@Ror\_Fly](https://x.com/Ror_Fly) · [Originalbeitrag](https://x.com/Ror_Fly/status/2096629184512610370)
 
-Tier / Kreatur · Veröffentlicht
+Tier / Kreatur · Verteilung ausstehend
 
 **Zusammenfassung:** Ein Gedanke, visualisiert als zarter transparenter Organismus mit glühendem bernsteinfarbenem Licht und feinen Silberfäden, die sich in einer dunklen Kammer entfalten.
 
@@ -57,3 +81,5 @@ Ein Gedanke, bevor er zu einem Satz wird. Ein kleiner transparenter Organismus, 
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=midjourney)
+
+Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
