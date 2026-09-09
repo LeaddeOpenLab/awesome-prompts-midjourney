@@ -4,10 +4,40 @@
   "model": "midjourney",
   "prompt": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image",
   "promptTranslations": {
-    "en": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image"
+    "en": "the corn wizard. Disney Apprentice meets Merlin the magician. Lots of work. Unreal Engine. 8k. Mysterious, Magnanamous, maximum ears of corn behind the corn man wizard in the center of the iconic image",
+    "zh": "玉米巫师。迪士尼魔法学徒遇上魔术师梅林。极多细节。虚幻引擎。8k。神秘、宽宏大量，在标志性图像中心的玉米人巫师身后有着数量极其繁多的玉米棒",
+    "zh-TW": "玉米巫師。迪士尼魔法學徒遇上魔術師梅林。極多細節。虛幻引擎。8k。神秘、寬宏大度，在標誌性圖像中心的玉米人巫師身後有著數量極其繁多的玉米穗",
+    "ja-JP": "トウモロコシの魔法使い。ディズニーの魔法使いの弟子と魔術師マーリンの融合。緻密な作り込み。Unreal Engine。8k。神秘的、寛大、象徴的な画像の中央にいるトウモロコシ男の魔法使いの後ろには最大限に敷き詰められたトウモロコシの穂",
+    "ko-KR": "옥수수 마법사. 디즈니 마법사의 제자가 마법사 멀린을 만난 스타일. 정교한 디테일. 언리얼 엔진. 8k. 신비롭고 관대함, 상징적인 이미지 중앙에 있는 옥수수 인간 마법사 뒤로 최대한 가득 찬 옥수수 이삭들",
+    "th-TH": "พ่อมดข้าวโพด ศิษย์เอกดิสนีย์พบกับพ่อมดเมอร์ลิน รายละเอียดประณีตมาก Unreal Engine ความละเอียด 8k ลึกลับ ใจกว้าง ฝักข้าวโพดจำนวนมากที่สุดอยู่ด้านหลังพ่อมดมนุษย์ข้าวโพดตรงกลางภาพอันเป็นเอกลักษณ์",
+    "vi-VN": "pháp sư ngô. Phong cách Người học việc của Disney kết hợp pháp sư Merlin. Rất nhiều chi tiết công phu. Unreal Engine. 8k. Bí ẩn, hào hiệp, số lượng bắp ngô tối đa phía sau pháp sư người ngô ở trung tâm của hình ảnh mang tính biểu tượng",
+    "hi-IN": "मक्के का जादूगर। डिज़्नी का जादूगर प्रशिक्षु जादूगर मर्लिन से मिलता है। अत्यधिक विस्तृत कार्य। अवास्तविक इंजन (Unreal Engine)। 8k। रहस्यमय, उदार, प्रतिष्ठित छवि के केंद्र में मक्के के मानव जादूगर के पीछे मक्के के भुट्टों की अधिकतम संख्या",
+    "es-ES": "el mago del maíz. El aprendiz de Disney se encuentra con el mago Merlín. Mucho trabajo de detalle. Unreal Engine. 8k. Misterioso, magnánimo, un máximo de mazorcas de maíz detrás del hombre mago de maíz en el centro de la imagen icónica",
+    "es-419": "el mago del maíz. El aprendiz de Disney se encuentra con Merlín el mago. Mucho trabajo. Unreal Engine. 8k. Misterioso, magnánimo, máxima cantidad de mazorcas de maíz detrás del hombre mago de maíz en el centro de la imagen icónica",
+    "de-DE": "Der Mais-Zauberer. Disney-Lehrling trifft auf Merlin den Zauberer. Viel Arbeit. Unreal Engine. 8k. Geheimnisvoll, großmütig, maximale Maiskolben hinter dem Mais-Mann-Zauberer im Zentrum des ikonischen Bildes",
+    "fr-FR": "le sorcier du maïs. L'Apprenti de Disney rencontre Merlin l'enchanteur. Beaucoup de travail. Unreal Engine. 8k. Mystérieux, magnanime, un maximum d'épis de maïs derrière l'homme sorcier du maïs au centre de l'image emblématique",
+    "it-IT": "il mago del mais. L'apprendista Disney incontra Mago Merlino. Molto lavoro. Unreal Engine. 8k. Misterioso, magnanimo, il massimo delle spighe di mais dietro l'uomo mago del mais al centro dell'immagine iconica",
+    "pt-BR": "o mago do milho. Aprendiz da Disney encontra Merlin, o mago. Muito trabalho. Unreal Engine. 8k. Misterioso, magnânimo, quantidade máxima de espigas de milho atrás do homem mago do milho no centro da imagem icônica",
+    "pt-PT": "o feiticeiro do milho. Aprendiz da Disney encontra Merlin, o mágico. Muito trabalho. Unreal Engine. 8k. Misterioso, magnânimo, quantidade máxima de espigas de milho atrás do homem feiticeiro do milho no centro da imagem icónica",
+    "tr-TR": "mısır büyücüsü. Disney Çırağı, büyücü Merlin ile buluşuyor. Çok fazla emek. Unreal Engine. 8k. Gizemli, cömert, ikonik görüntünün merkezindeki mısır adam büyücünün arkasında maksimum sayıda mısır koçanı"
   },
   "summaryTranslations": {
-    "en": "Corn wizard character concept blending Merlin and apprentice styles with corn background."
+    "en": "Corn wizard character concept blending Merlin and apprentice styles with corn background.",
+    "zh": "融合梅林与学徒风格并带有玉米背景的玉米巫师角色概念设计。",
+    "zh-TW": "融合梅林與學徒風格並帶有玉米背景的玉米巫師角色概念設計。",
+    "ja-JP": "マーリンと見習いスタイルを融合し、トウモロコシの背景を配したトウモロコシ魔法使いのキャラクターコンセプト。",
+    "ko-KR": "멀린과 견습생 스타일을 혼합하고 옥수수 배경을 더한 옥수수 마법사 캐릭터 콘셉트.",
+    "th-TH": "คอนเซปต์ตัวละครพ่อมดข้าวโพดที่ผสมผสานสไตล์เมอร์ลินและเด็กฝึกงานเข้ากับพื้นหลังข้าวโพด",
+    "vi-VN": "Ý tưởng nhân vật pháp sư ngô pha trộn phong cách Merlin và người học việc với bối cảnh ngô.",
+    "hi-IN": "मर्लिन और प्रशिक्षु शैलियों को मक्के की पृष्ठभूमि के साथ मिश्रित करने वाला मकई जादूगर चरित्र संकल्पना।",
+    "es-ES": "Concepto de personaje de mago del maíz que combina los estilos de Merlín y aprendiz con un fondo de maíz.",
+    "es-419": "Concepto de personaje del mago del maíz que combina los estilos de Merlín y aprendiz con un fondo de maíz.",
+    "de-DE": "Charakterkonzept eines Mais-Zauberers, das die Stile von Merlin und dem Zauberlehrling mit einem Mais-Hintergrund verbindet.",
+    "fr-FR": "Concept de personnage de sorcier du maïs mêlant les styles de Merlin et de l'apprenti avec un arrière-plan de maïs.",
+    "it-IT": "Concept per il personaggio del mago del mais che fonde lo stile di Merlino e dell'apprendista con uno sfondo di mais.",
+    "pt-BR": "Conceito de personagem do mago do milho misturando os estilos de Merlin e aprendiz com fundo de milho.",
+    "pt-PT": "Conceito de personagem do feiticeiro do milho combinando os estilos de Merlin e aprendiz com fundo de milho.",
+    "tr-TR": "Merlin ve çırak tarzlarını mısır arka planıyla harmanlayan mısır büyücüsü karakter konsepti."
   },
   "translationVersion": 2,
   "summary": "Corn wizard character concept blending Merlin and apprentice styles with corn background.",
@@ -58,7 +88,7 @@
     "images/2097086370301042925-2.jpg"
   ],
   "distribution": {
-    "status": "pending_push"
+    "status": "pushed"
   },
   "modelStatus": "identified",
   "mediaCategory": "image",
