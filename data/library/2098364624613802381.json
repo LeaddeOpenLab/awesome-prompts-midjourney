@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:24:41.298Z",
+  "model": "midjourney",
+  "prompt": "女主角转头看向镜头，微微一笑，又娇羞地转过去，风吹过来，梨花飘扬，头发和衣服飘扬",
+  "promptTranslations": {
+    "en": "The female protagonist turns her head to look at the camera, gives a gentle smile, and then shyly turns away; the wind blows, pear blossoms drift in the air, and her hair and clothes flutter in the breeze."
+  },
+  "summaryTranslations": {
+    "en": "The female protagonist looks back with a smile under the pear blossom tree and shyly turns away, as the wind blows petals, fluttering her clothes and hair."
+  },
+  "translationVersion": 2,
+  "summary": "女主角在梨花树下微笑回眸并娇羞转头，伴随风吹花瓣与衣发飘动。",
+  "summaryEn": "The heroine turns to smile at the camera then shyly turns away amidst drifting pear blossoms.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098321856168398953",
+      "canonicalUrl": "https://x.com/PixelAigc/status/2098321856168398953",
+      "author": {
+        "username": "PixelAigc",
+        "displayName": "PixelAIGC",
+        "profileUrl": "https://x.com/PixelAigc"
+      },
+      "originalText": "太惊艳了！\nMJ + H3 是绝配\n用H3的图生视频，在人物微表情把握上非常细腻\n基本上可以不写怎么写提示词就可以出来很好的效果\n\nprmpt  图生视频视频提示词如下：\n\n生成视频，自然，有风 https://t.co/NrDXav0GlM"
+    },
+    "id": "2098364624613802381",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2098364624613802381",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-11T10:54:46.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "zh",
+    "originalText": "太惊艳了！\n梨花少女游春图\nMJ + H3的绝配\n有了MJ图片的基础，H3就能非常稳定地把视频做出来。\n提示词也非常简单了\n\nprompt 视频提示词如下：\n\n女主角转头看向镜头，微微一笑，又娇羞地转过去，风吹过来，梨花飘扬，头发和衣服飘扬\n\nMJ生图提示词见引用 https://t.co/LG1bEeoJPc",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2098364624613802381",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098364437979918336/img/CJb3hCWQGV9lW0nf.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2098364624613802381"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2098364624613802381",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098321809573888000/img/tU7SwVtB5rXL99MR.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2098364624613802381",
+        "sourcePostId": "2098321856168398953"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 177
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2098364624613802381",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098364437979918336/img/CJb3hCWQGV9lW0nf.jpg",
+  "coverPath": "covers/2098364624613802381.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098364437979918336",
+    "x-video:2098321809573888000",
+    "x-post:2098364624613802381",
+    "x-post:2098321856168398953"
+  ],
+  "analysis": {
+    "summary": "女主角在梨花树下微笑回眸并娇羞转头，伴随风吹花瓣与衣发飘动。",
+    "summaryEn": "The heroine turns to smile at the camera then shyly turns away amidst drifting pear blossoms.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中女子转头微笑、羞涩偏头，周围梨花与发丝、衣裙随风飘拂，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "女主角转头看向镜头，微微一笑，又娇羞地转过去，风吹过来，梨花飘扬，头发和衣服飘扬",
+    "sourceRange": {
+      "start": 80,
+      "end": 120
+    },
+    "translations": {
+      "zh": "女主角转头看向镜头，微微一笑，又娇羞地转过去，风吹过来，梨花飘扬，头发和衣服飘扬",
+      "en": "The female protagonist turns to look at the camera, smiles faintly, then turns away shyly; wind blows, pear blossoms drift, and her hair and clothes flutter."
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "image-to-video",
+    "useCase": "视频动态生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
