@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098364624613802381"></a>
 
-### Tradução em andamento
+### A protagonista sorri ao olhar para trás sob uma pereira e se vira timidamente, acompanhada por pétalas levadas pelo vento e cabelos e roupas esvoaçantes.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Fotografia · Publicado
 
 Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Resumo:** Tradução em andamento
+**Resumo:** A protagonista sorri ao olhar para trás sob uma pereira e se vira timidamente, acompanhada por pétalas levadas pelo vento e cabelos e roupas esvoaçantes.
 
 <img src="covers/2098364624613802381.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+A protagonista vira a cabeça em direção à câmera, dá um leve sorriso e se vira novamente com timidez; o vento sopra, flores de pereira flutuam no ar, e seus cabelos e roupas esvoaçam
 ```
 
 [↑ Voltar às categorias](#catalog)

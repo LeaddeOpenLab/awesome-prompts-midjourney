@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098364624613802381"></a>
 
-### Đang dịch
+### Nữ chính dưới tán cây lê mỉm cười ngoảnh lại rồi thẹn thùng quay đi, cùng những cánh hoa bay trong gió và tà áo mái tóc tung bay.
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Nhiếp ảnh · Đã xuất bản
 
 Bài gốc：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nữ chính dưới tán cây lê mỉm cười ngoảnh lại rồi thẹn thùng quay đi, cùng những cánh hoa bay trong gió và tà áo mái tóc tung bay.
 
 <img src="covers/2098364624613802381.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi lại thẹn thùng quay đi, gió thổi tới, hoa lê bay lượn, tóc và áo tung bay theo gió
 ```
 
 [↑ Về danh mục](#catalog)

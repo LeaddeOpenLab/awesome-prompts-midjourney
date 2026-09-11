@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098364624613802381"></a>
 
-### Traduction en cours
+### L'héroïne sourit en se retournant sous un poirier puis se détourne timidement, accompagnée de pétales portés par le vent et de vêtements et cheveux flottants.
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Photographie · Publié
 
 Publication originale：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Résumé:** Traduction en cours
+**Résumé:** L'héroïne sourit en se retournant sous un poirier puis se détourne timidement, accompagnée de pétales portés par le vent et de vêtements et cheveux flottants.
 
 <img src="covers/2098364624613802381.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se détourne timidement ; le vent souffle, les fleurs de poirier tourbillonnent, ses cheveux et ses vêtements flottent au vent
 ```
 
 [↑ Retour aux catégories](#catalog)

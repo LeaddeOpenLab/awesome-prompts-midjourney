@@ -35,7 +35,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098364624613802381"></a>
 
-### Traducción en curso
+### La protagonista sonríe al mirar atrás bajo un peral y se vuelve tímidamente, acompañada por pétalos que vuelan con el viento y ropa y cabello ondeando.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Fotografía · Publicado
 
 Publicación original：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Resumen:** Traducción en curso
+**Resumen:** La protagonista sonríe al mirar atrás bajo un peral y se vuelve tímidamente, acompañada por pétalos que vuelan con el viento y ropa y cabello ondeando.
 
 <img src="covers/2098364624613802381.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve tímidamente; sopla el viento, flotan flores de peral y su pelo y su ropa ondean con la brisa
 ```
 
 [↑ Volver a categorías](#catalog)

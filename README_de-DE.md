@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098364624613802381"></a>
 
-### Übersetzung läuft
+### Die weibliche Hauptfigur blickt unter einem Birnenbaum lächelnd zurück und dreht sich schüchtern weg, begleitet von im Wind wehenden Blütenblättern sowie flatterndem Haar und Gewand.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Fotografie · Veröffentlicht
 
 Originalbeitrag：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Die weibliche Hauptfigur blickt unter einem Birnenbaum lächelnd zurück und dreht sich schüchtern weg, begleitet von im Wind wehenden Blütenblättern sowie flatterndem Haar und Gewand.
 
 <img src="covers/2098364624613802381.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet sich dann schüchtern wieder ab; der Wind weht, Birnenblüten wirbeln durch die Luft, Haar und Kleidung wehen im Wind
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

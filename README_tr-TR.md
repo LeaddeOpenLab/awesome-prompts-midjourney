@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098364624613802381"></a>
 
-### Çeviri sürüyor
+### Armut ağacının altında gülümseyerek arkasına bakan ve utangaçça başını çeviren kadın başrol, rüzgarda uçuşan taç yapraklar ile dalgalanan saç ve giysiler eşliğinde.
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Fotoğrafçılık · Yayımlandı
 
 Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Armut ağacının altında gülümseyerek arkasına bakan ve utangaçça başını çeviren kadın başrol, rüzgarda uçuşan taç yapraklar ile dalgalanan saç ve giysiler eşliğinde.
 
 <img src="covers/2098364624613802381.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından utangaç bir şekilde yeniden yüzünü döner; rüzgar eser, armut çiçekleri havada süzülür, saçları ve kıyafetleri rüzgarda dalgalanır
 ```
 
 [↑ Kategorilere dön](#catalog)

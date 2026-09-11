@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098364624613802381"></a>
 
-### Traduzione in corso
+### La protagonista si volta sorridendo sotto un pero e poi gira timidamente il capo, accompagnata da petali nel vento e da vesti e capelli che fluttuano.
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2098364624613802381)
 
@@ -43,14 +43,14 @@ Fotografia · Pubblicato
 
 Post originale：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2098321856168398953)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** La protagonista si volta sorridendo sotto un pero e poi gira timidamente il capo, accompagnata da petali nel vento e da vesti e capelli che fluttuano.
 
 <img src="covers/2098364624613802381.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si volta di nuovo con timidezza; soffia il vento, i fiori di pero volteggiano nell'aria, capelli e vestiti fluttuano
 ```
 
 [↑ Torna alle categorie](#catalog)
