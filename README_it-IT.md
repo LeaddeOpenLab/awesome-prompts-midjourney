@@ -63,13 +63,13 @@ La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si v
 
 <a name="prompt-2098392368487485484"></a>
 
-### Traduzione in corso
+### Ritratto cinematografico di una donna dell'Asia orientale con illuminazione in chiaroscuro ad alto contrasto e abito in seta bianca ricamata.
 
 Autore：[@woleswoosh](https://x.com/woleswoosh) · [Post originale](https://x.com/woleswoosh/status/2098392368487485484)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto cinematografico di una donna dell'Asia orientale con illuminazione in chiaroscuro ad alto contrasto e abito in seta bianca ricamata.
 
 <img src="images/2098392368487485484-1.jpg" alt="Immagine 1" width="480" />
 
@@ -82,7 +82,11 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Perso
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto cinematografico in primo piano di una giovane donna dell'Asia orientale con pelle pallida di porcellana e lunghi capelli neri lisci e lucidi che le ricadono sul lato sinistro del viso, con diverse ciocche che le coprono parzialmente l'occhio sinistro. Guarda direttamente verso l'obiettivo con un'espressione calma e leggermente misteriosa. Labbra morbide di colore rosso-rosato, sopracciglia scure e definite, trucco sobrio. Indossa un elegante capo monospalla in raso o seta bianca con delicati ricami floreali in pizzo che catturano la luce. Un lungo orecchino pendente di cristallo o gioiello pende dal suo orecchio destro visibile.
+
+Illuminazione drammatica ad alto contrasto (chiaroscuro / stile Rembrandt): un'unica sorgente luminosa direzionale da sinistra illumina il lato destro del viso, la curva della guancia, le labbra e la lucentezza dei capelli, mentre il resto del viso e l'intero sfondo sprofondano in un'ombra nera profonda e vellutata. Sfondo scuro, quasi nero ossidiana, senza dettagli visibili. Atmosfera suggestiva, elegante e intima. Fotorealistico, texture della pelle ultra-dettagliata, singole ciocche di capelli, lucentezza del tessuto e ricami, color grading cinematografico con ombre fredde e riflessi caldi sulla pelle.
+
+Parole chiave di stile: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -63,13 +63,13 @@ Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi 
 
 <a name="prompt-2098392368487485484"></a>
 
-### Đang dịch
+### Chân dung điện ảnh của một phụ nữ Đông Á với ánh sáng chiaroscuro tương phản cao và váy lụa trắng thêu hoa.
 
 Tác giả：[@woleswoosh](https://x.com/woleswoosh) · [Bài gốc](https://x.com/woleswoosh/status/2098392368487485484)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung điện ảnh của một phụ nữ Đông Á với ánh sáng chiaroscuro tương phản cao và váy lụa trắng thêu hoa.
 
 <img src="images/2098392368487485484-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -82,7 +82,11 @@ Tác giả：[@woleswoosh](https://x.com/woleswoosh) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức chân dung cận cảnh đậm chất điện ảnh của một phụ nữ trẻ Đông Á với làn da trắng mịn như sứ và mái tóc đen dài thẳng mượt, bóng bẩy buông lơi che một phần bên trái khuôn mặt, vài lọn tóc che nhẹ mắt trái. Cô nhìn thẳng vào máy ảnh với biểu cảm điềm tĩnh, phảng phất nét bí ẩn. Đôi môi màu hồng đỏ mềm mại, hàng lông mày sẫm màu rõ nét, trang điểm tinh tế. Cô mặc một bộ trang phục lệch vai thanh lịch bằng vải satin hoặc lụa màu trắng với các họa tiết ren hoa thêu tinh xảo bắt sáng. Một chiếc khuyên tai pha lê hoặc nạm ngọc dáng dài lấp lánh rủ xuống từ bên tai phải lộ rõ.
+
+Ánh sáng tương phản cao đầy kịch tính (phong cách chiaroscuro / phong cách Rembrandt): một nguồn sáng định hướng duy nhất từ bên trái chiếu rọi nửa mặt bên phải, đường cong của má, đôi môi và độ bóng của mái tóc, trong khi phần còn lại của khuôn mặt và toàn bộ hậu cảnh chìm vào bóng tối đen tuyền sâu thẳm như nhung. Hậu cảnh tối đen gần như đá obsidian, không có chi tiết nào nhìn thấy được. Bầu không khí đầy tâm trạng, thanh lịch, thân mật. Chân thực như ảnh chụp, chi tiết kết cấu da siêu mịn, từng sợi tóc riêng biệt, độ bóng của vải và hoa văn thêu, chỉnh màu điện ảnh với bóng đổ tông lạnh và vùng sáng tông ấm trên da.
+
+Từ khóa phong cách: chân dung dark academia, chụp ảnh thời trang cao cấp (high-fashion editorial), ánh sáng low-key, độ sâu trường ảnh nông, hiệu ứng ống kính 85mm, kiệt tác, 8k, độ chi tiết cao.
 ```
 
 [↑ Về danh mục](#catalog)

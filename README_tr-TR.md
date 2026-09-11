@@ -63,13 +63,13 @@ Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından
 
 <a name="prompt-2098392368487485484"></a>
 
-### Çeviri sürüyor
+### Yüksek kontrastlı chiaroscuro aydınlatmalı ve işlemeli beyaz ipek elbiseli Doğu Asyalı bir kadının sinematik portresi.
 
 Yazar：[@woleswoosh](https://x.com/woleswoosh) · [Orijinal gönderi](https://x.com/woleswoosh/status/2098392368487485484)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüksek kontrastlı chiaroscuro aydınlatmalı ve işlemeli beyaz ipek elbiseli Doğu Asyalı bir kadının sinematik portresi.
 
 <img src="images/2098392368487485484-1.jpg" alt="Görsel 1" width="480" />
 
@@ -82,7 +82,11 @@ Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Soluk porselen tenli, uzun, düz, parlak siyah saçları yüzünün sol tarafına dökülen ve birkaç tutamı sol gözünü kısmen kapatan genç bir Doğu Asyalı kadının sinematik yakın plan portresi. Sakin ve hafif gizemli bir ifadeyle doğrudan kameraya bakıyor. Yumuşak pembe-kırmızı dudaklar, belirgin koyu kaşlar, zarif bir makyaj. Işığı yakalayan narin işlemeli çiçeksi dantel desenlerine sahip, beyaz saten veya ipekten zarif, tek omuzlu bir giysi giyiyor. Görünür olan sağ kulağından sarkan uzun, taşlı veya kristallere sahip sallantılı bir küpe asılı.
+
+Dramatik yüksek kontrastlı aydınlatma (chiaroscuro / Rembrandt tarzı): soldan gelen tek bir yönlü ışık kaynağı yüzünün sağ tarafını, yanağının kıvrımını, dudaklarını ve saçının parlaklığını aydınlatırken, yüzünün geri kalanı ve tüm arka plan derin, kadifemsi siyah gölgelere gömülüyor. Görünür hiçbir detayı olmayan koyu, neredeyse obsidyen siyahı arka plan. Duygu yüklü, zarif ve samimi bir atmosfer. Fotogerçekçi, ultra detaylı cilt dokusu, tek tek saç telleri, kumaş parlaklığı ve nakış, cilt üzerinde soğuk gölgeler ve sıcak vurgular içeren sinematik renk derecelendirmesi.
+
+Stil anahtar kelimeleri: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.
 ```
 
 [↑ Kategorilere dön](#catalog)

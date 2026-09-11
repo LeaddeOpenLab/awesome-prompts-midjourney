@@ -63,13 +63,13 @@ Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet si
 
 <a name="prompt-2098392368487485484"></a>
 
-### Übersetzung läuft
+### Filmisches Porträt einer ostasiatischen Frau mit kontrastreicher Chiaroscuro-Beleuchtung und besticktem weißem Seidenkleid.
 
 Autor：[@woleswoosh](https://x.com/woleswoosh) · [Originalbeitrag](https://x.com/woleswoosh/status/2098392368487485484)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmisches Porträt einer ostasiatischen Frau mit kontrastreicher Chiaroscuro-Beleuchtung und besticktem weißem Seidenkleid.
 
 <img src="images/2098392368487485484-1.jpg" alt="Bild 1" width="480" />
 
@@ -82,7 +82,11 @@ Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Ver�
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein filmisches Nahaufnahme-Porträt einer jungen ostasiatischen Frau mit blasser Porzellanhaut und langem, glattem, glänzendem schwarzem Haar, das über die linke Seite ihres Gesichts fällt, wobei einige Strähnen ihr linkes Auge teilweise bedecken. Sie blickt mit einem ruhigen, leicht geheimnisvollen Ausdruck direkt in die Kamera. Sanfte rosa-rote Lippen, definierte dunkle Brauen, dezentes Make-up. Sie trägt ein elegantes One-Shoulder-Gewand aus weißem Satin oder Seide mit zarten bestickten floralen Spitzenmustern, die das Licht einfangen. Ein langer, baumelnder Kristall- oder Edelsteinohrring hängt an ihrem sichtbaren rechten Ohr.
+
+Dramatische kontrastreiche Beleuchtung (Chiaroscuro / Rembrandt-Stil): Eine einzelne gerichtete Lichtquelle von links beleuchtet die rechte Seite ihres Gesichts, die Kurve ihrer Wange, die Lippen und den Glanz ihres Haares, während der Rest ihres Gesichts und der gesamte Hintergrund in tiefen, samtigen schwarzen Schatten versinken. Dunkler, fast obsidian-schwarzer Hintergrund ohne sichtbare Details. Stimmungsvolle, elegante, intime Atmosphäre. Fotorealistisch, extrem detaillierte Hauttextur, einzelne Haarsträhnen, Stoffglanz und Stickerei, filmisches Color Grading mit kühlen Schatten und warmen Glanzlichtern auf der Haut.
+
+Stil-Schlüsselwörter: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

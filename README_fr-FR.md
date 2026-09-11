@@ -63,13 +63,13 @@ L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se
 
 <a name="prompt-2098392368487485484"></a>
 
-### Traduction en cours
+### Portrait cinématographique d'une femme est-asiatique avec un éclairage en clair-obscur à fort contraste et une robe en soie blanche brodée.
 
 Auteur：[@woleswoosh](https://x.com/woleswoosh) · [Publication originale](https://x.com/woleswoosh/status/2098392368487485484)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait cinématographique d'une femme est-asiatique avec un éclairage en clair-obscur à fort contraste et une robe en soie blanche brodée.
 
 <img src="images/2098392368487485484-1.jpg" alt="Image 1" width="480" />
 
@@ -82,7 +82,11 @@ Image cinématographique / Photogramme de film · Portrait / Selfie · Personnag
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait cinématographique en gros plan d'une jeune femme est-asiatique à la peau de porcelaine pâle et aux longs cheveux noirs, raides et brillants tombant sur le côté gauche de son visage, plusieurs mèches couvrant partiellement son œil gauche. Elle regarde directement l'objectif avec une expression calme et légèrement mystérieuse. Lèvres rouge-rose doux, sourcils sombres bien dessinés, maquillage subtil. Elle porte un élégant vêtement asymétrique en satin ou en soie blanche orné de délicats motifs de dentelle florale brodée qui captent la lumière. Une longue boucle d'oreille pendante en cristal ou ornée de bijoux est suspendue à son oreille droite visible.
+
+Éclairage dramatique à fort contraste (clair-obscur / style Rembrandt) : une source de lumière directionnelle unique venant de la gauche illumine le côté droit de son visage, la courbe de sa joue, ses lèvres et le lustre de ses cheveux, tandis que le reste de son visage et tout l'arrière-plan tombent dans une ombre noire, profonde et veloutée. Arrière-plan sombre, presque noir obsidienne, sans aucun détail visible. Atmosphère envoûtante, élégante et intime. Photoréaliste, texture de peau ultra-détaillée, mèches de cheveux individuelles, éclat du tissu et broderie, étalonnage des couleurs cinématographique avec des ombres froides et des reflets chauds sur la peau.
+
+Mots-clés de style : dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.
 ```
 
 [↑ Retour aux catégories](#catalog)

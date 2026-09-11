@@ -63,13 +63,13 @@ A protagonista vira a cabeça para a câmara, dá um leve sorriso e volta-se de 
 
 <a name="prompt-2098392368487485484"></a>
 
-### Tradução em curso
+### Retrato cinematográfico de uma mulher do leste asiático com iluminação chiaroscuro de alto contraste e vestido de seda branca bordada.
 
 Autor：[@woleswoosh](https://x.com/woleswoosh) · [Publicação original](https://x.com/woleswoosh/status/2098392368487485484)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato cinematográfico de uma mulher do leste asiático com iluminação chiaroscuro de alto contraste e vestido de seda branca bordada.
 
 <img src="images/2098392368487485484-1.jpg" alt="Imagem 1" width="480" />
 
@@ -82,7 +82,11 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · 
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato cinematográfico em grande plano de uma jovem mulher do leste asiático com pele pálida de porcelana e cabelos pretos compridos, lisos e brilhantes a cair sobre o lado esquerdo do seu rosto, com várias mechas a cobrir parcialmente o seu olho esquerdo. Olha diretamente para a câmara com uma expressão calma e ligeiramente misteriosa. Lábios em tom vermelho-rosado suave, sobrancelhas escuras e definidas, maquilhagem subtil. Veste uma elegante peça de um ombro só em cetim ou seda branca com delicados padrões de renda floral bordada que captam a luz. Um brinco comprido e pendente de cristal ou joias pende da sua orelha direita visível.
+
+Iluminação dramática de alto contraste (chiaroscuro / estilo Rembrandt): uma única fonte de luz direcional vinda da esquerda ilumina o lado direito do seu rosto, a curva da sua face, os lábios e o brilho do seu cabelo, enquanto o restante do seu rosto e todo o fundo mergulham numa sombra preta profunda e aveludada. Fundo escuro, quase preto-obsidiana, sem pormenores visíveis. Atmosfera melancólica, elegante e íntima. Fotorrealista, textura de pele ultradetalhada, fios de cabelo individuais, brilho do tecido e bordados, gradação de cor cinematográfica com sombras frias e realces quentes na pele.
+
+Palavras-chave de estilo: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.
 ```
 
 [↑ Voltar às categorias](#catalog)
