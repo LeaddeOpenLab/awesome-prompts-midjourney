@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**4** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**5** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Anime / Manga](#category-anime-manga) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Originalbeitrag：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](htt
 
 ```text
 Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet sich dann schüchtern wieder ab; der Wind weht, Birnenblüten wirbeln durch die Luft, Haar und Kleidung wehen im Wind
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Kinematisch / Filmstill
+
+<a name="prompt-2098392368487485484"></a>
+
+### Übersetzung läuft
+
+Autor：[@woleswoosh](https://x.com/woleswoosh) · [Originalbeitrag](https://x.com/woleswoosh/status/2098392368487485484)
+
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098392368487485484-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**4** 条内容 · 最新收录: **2026-09-11**
+**5** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [动漫 / 漫画](#category-anime-manga) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 女主角转头看向镜头，微微一笑，又娇羞地转过去，风吹过来，梨花飘扬，头发和衣服飘扬
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## 电影 / 电影剧照
+
+<a name="prompt-2098392368487485484"></a>
+
+### 翻译中
+
+作者：[@woleswoosh](https://x.com/woleswoosh) · [查看 X 原帖](https://x.com/woleswoosh/status/2098392368487485484)
+
+电影 / 电影剧照 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098392368487485484-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

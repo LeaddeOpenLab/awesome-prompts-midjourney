@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**4** 개 · 최근 추가: **2026-09-11**
+**5** 개 · 최근 추가: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [애니메이션 / 만화](#category-anime-manga) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ```text
 여주인공이 카메라를 돌아보며 살짝 미소 짓고는 다시 수줍게 고개를 돌린다. 바람이 불어와 배꽃이 흩날리고 머리카락과 옷자락이 바람에 나부낀다
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## 시네마틱 / 영화 스틸컷
+
+<a name="prompt-2098392368487485484"></a>
+
+### 번역 중
+
+작성자：[@woleswoosh](https://x.com/woleswoosh) · [원본 게시물](https://x.com/woleswoosh/status/2098392368487485484)
+
+시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098392368487485484-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

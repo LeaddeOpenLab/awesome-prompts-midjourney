@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**4** Prompts · Latest addition: **2026-09-11**
+**5** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Anime / Manga](#category-anime-manga) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Source：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAi
 
 ```text
 The female protagonist turns her head to look at the camera, gives a gentle smile, and then shyly turns away; the wind blows, pear blossoms drift in the air, and her hair and clothes flutter in the breeze.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Cinematic / Film Still
+
+<a name="prompt-2098392368487485484"></a>
+
+### Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress.
+
+Author：[@woleswoosh](https://x.com/woleswoosh) · [Source](https://x.com/woleswoosh/status/2098392368487485484)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress.
+
+<img src="images/2098392368487485484-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+A cinematic close-up portrait of a young East Asian woman with pale porcelain skin and long, straight, glossy black hair falling over the left side of her face, several strands partially covering her left eye. She gazes directly at the camera with a calm, slightly mysterious expression. Soft pink-red lips, defined dark brows, subtle makeup. She wears an elegant white satin or silk one-shoulder garment with delicate embroidered floral lace patterns that catch the light. A long dangling crystal or jeweled earring hangs from her visible right ear.\n\nDramatic high-contrast lighting (chiaroscuro / Rembrandt-style): a single directional light source from the left illuminates the right side of her face, the curve of her cheek, lips, and the sheen of her hair, while the rest of her face and the entire background fall into deep, velvety black shadow. Dark, almost obsidian-black background with no visible details. Moody, elegant, intimate atmosphere. Photorealistic, ultra-detailed skin texture, individual hair strands, fabric sheen and embroidery, cinematic color grading with cool shadows and warm highlights on the skin.\n\nStyle keywords: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.
 ```
 
 [↑ Back to categories](#catalog)

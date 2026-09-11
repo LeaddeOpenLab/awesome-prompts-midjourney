@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**4** Prompts · Última incorporación: **2026-09-11**
+**5** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Anime / Manga](#category-anime-manga) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Publicación original：[@PixelAigc](https://x.com/PixelAigc) · [Publicación o
 
 ```text
 La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve tímidamente; sopla el viento, flotan flores de peral y su cabello y su ropa ondean con la brisa
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Cine / Fotograma
+
+<a name="prompt-2098392368487485484"></a>
+
+### Traducción en curso
+
+Autor：[@woleswoosh](https://x.com/woleswoosh) · [Publicación original](https://x.com/woleswoosh/status/2098392368487485484)
+
+Cine / Fotograma · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098392368487485484-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

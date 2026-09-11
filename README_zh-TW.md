@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**4** 筆內容 · 最新收錄: **2026-09-11**
+**5** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [動畫 / 漫畫](#category-anime-manga) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 女主角轉頭看向鏡頭，微微一笑，又嬌羞地轉過去，風吹過來，梨花飄揚，頭髮和衣服飄揚
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## 電影感 / 電影劇照
+
+<a name="prompt-2098392368487485484"></a>
+
+### 翻譯中
+
+作者：[@woleswoosh](https://x.com/woleswoosh) · [查看 X 原帖](https://x.com/woleswoosh/status/2098392368487485484)
+
+電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098392368487485484-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

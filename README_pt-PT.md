@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**4** Prompts · Adição mais recente: **2026-09-11**
+**5** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Anime / Mangá](#category-anime-manga) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação o
 
 ```text
 A protagonista vira a cabeça para a câmara, dá um leve sorriso e volta-se de novo timidamente; o vento sopra, as flores de pereira esvoaçam, e os cabelos e as roupas ondulam ao vento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Cena de Cinema / Fotograma
+
+<a name="prompt-2098392368487485484"></a>
+
+### Tradução em curso
+
+Autor：[@woleswoosh](https://x.com/woleswoosh) · [Publicação original](https://x.com/woleswoosh/status/2098392368487485484)
+
+Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098392368487485484-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

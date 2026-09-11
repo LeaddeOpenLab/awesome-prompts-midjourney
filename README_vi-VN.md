@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**4** Prompt · Bổ sung mới nhất: **2026-09-11**
+**5** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Anime / Manga](#category-anime-manga) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Bài gốc：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com
 
 ```text
 Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi lại thẹn thùng quay đi, gió thổi tới, hoa lê bay lượn, tóc và áo tung bay theo gió
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098392368487485484"></a>
+
+### Đang dịch
+
+Tác giả：[@woleswoosh](https://x.com/woleswoosh) · [Bài gốc](https://x.com/woleswoosh/status/2098392368487485484)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098392368487485484-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

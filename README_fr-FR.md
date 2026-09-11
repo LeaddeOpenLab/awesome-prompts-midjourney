@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**4** Prompts · Dernier ajout: **2026-09-11**
+**5** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Anime / Manga](#category-anime-manga) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Publication originale：[@PixelAigc](https://x.com/PixelAigc) · [Publication or
 
 ```text
 L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se détourne timidement ; le vent souffle, les fleurs de poirier tourbillonnent, ses cheveux et ses vêtements flottent au vent
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098392368487485484"></a>
+
+### Traduction en cours
+
+Auteur：[@woleswoosh](https://x.com/woleswoosh) · [Publication originale](https://x.com/woleswoosh/status/2098392368487485484)
+
+Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098392368487485484-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

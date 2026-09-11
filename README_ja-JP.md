@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**4** 件 · 最新の追加: **2026-09-11**
+**5** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [アニメ / 漫画](#category-anime-manga) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ```text
 ヒロインがカメラの方を振り返って微笑み、恥ずかしそうに再び顔を背ける。風が吹き抜け、梨の花びらが舞い散り、髪と服が風になびいている
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## シネマティック / フィルムスチル
+
+<a name="prompt-2098392368487485484"></a>
+
+### 翻訳中
+
+作者：[@woleswoosh](https://x.com/woleswoosh) · [元の投稿](https://x.com/woleswoosh/status/2098392368487485484)
+
+シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098392368487485484-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

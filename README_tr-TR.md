@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**4** Prompt · Son eklenen: **2026-09-11**
+**5** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Anime / Manga](#category-anime-manga) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi]
 
 ```text
 Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından utangaç bir şekilde yeniden yüzünü döner; rüzgar eser, armut çiçekleri havada süzülür, saçları ve kıyafetleri rüzgarda dalgalanır
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Sinematik / Film Karesi
+
+<a name="prompt-2098392368487485484"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@woleswoosh](https://x.com/woleswoosh) · [Orijinal gönderi](https://x.com/woleswoosh/status/2098392368487485484)
+
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098392368487485484-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**4** Prompt · Ultima aggiunta: **2026-09-11**
+**5** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Anime / Manga](#category-anime-manga) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,38 @@ Post originale：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https
 
 ```text
 La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si volta di nuovo con timidezza; soffia il vento, i fiori di pero volteggiano nell'aria, capelli e vestiti fluttuano
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-cinematic-film-still"></a>
+
+## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098392368487485484"></a>
+
+### Traduzione in corso
+
+Autore：[@woleswoosh](https://x.com/woleswoosh) · [Post originale](https://x.com/woleswoosh/status/2098392368487485484)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098392368487485484-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098392368487485484-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098392368487485484-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098392368487485484-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
