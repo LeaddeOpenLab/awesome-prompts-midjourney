@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**5** Prompts · Adição mais recente: **2026-09-11**
+**6** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Banda desenhada / Storyboard · Anime / Mangá · Publicado
 
 ```text
 obra-prima de anime, plano de ação dinâmico, 2 irmãs deusas chinesas, corpo voluptuoso e curvilíneo, qipao cheongsam de seda com racha subida, roupas danificadas pelo combate, salpicos de sangue, olhos brilhantes, iluminação cinematográfica, sombras dramáticas, estilo ufotable, 8k --ar 9:16 --v 6.0
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Ilustração
+
+<a name="prompt-2098456570678149630"></a>
+
+### Tradução em curso
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2098456570678149630)
+
+Ilustração · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098456570678149630-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

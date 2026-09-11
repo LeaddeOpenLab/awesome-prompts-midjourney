@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**5** 개 · 최근 추가: **2026-09-11**
+**6** 개 · 최근 추가: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ```text
 애니메이션 걸작, 역동적인 액션 샷, 2명의 중국 여신 자매, 볼륨감 넘치는 굴곡진 몸매, 깊게 트인 실크 치파오, 전투로 손상된 옷, 튀는 혈흔, 빛나는 눈, 영화 같은 조명, 극적인 그림자, ufotable 스타일, 8k --ar 9:16 --v 6.0
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 일러스트레이션
+
+<a name="prompt-2098456570678149630"></a>
+
+### 번역 중
+
+작성자：[@airina\_xyz](https://x.com/airina_xyz) · [원본 게시물](https://x.com/airina_xyz/status/2098456570678149630)
+
+일러스트레이션 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098456570678149630-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

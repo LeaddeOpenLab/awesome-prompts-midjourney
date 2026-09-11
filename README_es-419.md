@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**5** Prompts · Última incorporación: **2026-09-11**
+**6** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Cómic / Guion gráfico · Anime / Manga · Publicado
 
 ```text
 obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuerpo curvilíneo y voluptuoso, qipao cheongsam de seda con abertura alta, ropa dañada por la batalla, salpicaduras de sangre, ojos brillantes, iluminación cinematográfica, sombras dramáticas, estilo ufotable, 8k --ar 9:16 --v 6.0
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Ilustración
+
+<a name="prompt-2098456570678149630"></a>
+
+### Traducción en curso
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2098456570678149630)
+
+Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098456570678149630-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**5** Prompt · Bổ sung mới nhất: **2026-09-11**
+**6** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Truyện tranh / Bảng phân cảnh · Anime / Manga · Đã xuất bản
 
 ```text
 kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Trung Hoa, vóc dáng đẫy đà gợi cảm, sườn xám lụa xẻ tà cao, trang phục rách tả tơi do chiến đấu, vết máu bắn tung tóe, đôi mắt phát sáng, ánh sáng điện ảnh, bóng đổ kịch tính, phong cách ufotable, 8k --ar 9:16 --v 6.0
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Minh họa
+
+<a name="prompt-2098456570678149630"></a>
+
+### Đang dịch
+
+Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2098456570678149630)
+
+Minh họa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098456570678149630-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

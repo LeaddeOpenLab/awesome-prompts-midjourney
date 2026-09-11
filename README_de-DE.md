@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**5** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**6** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Comic / Storyboard · Anime / Manga · Veröffentlicht
 
 ```text
 Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schwestern, üppiger kurviger Körper, Seiden-Qipao-Cheongsam mit hohem Schlitz, kampfbeschädigte Kleidung, Blutspritzer, leuchtende Augen, filmische Beleuchtung, dramatische Schatten, ufotable-Stil, 8k --ar 9:16 --v 6.0
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2098456570678149630"></a>
+
+### Übersetzung läuft
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2098456570678149630)
+
+Illustration · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098456570678149630-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

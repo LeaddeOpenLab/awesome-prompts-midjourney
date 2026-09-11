@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**5** 件 · 最新の追加: **2026-09-11**
+**6** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ```text
 アニメの傑作、ダイナミックなアクションショット、2人の中国の女神の姉妹、豊満で曲線美のある体つき、スリットの深いシルクのチャイナドレス（旗袍）、戦闘で破損した衣装、飛び散る血痕、輝く瞳、シネマティックライティング、ドラマチックな影、ufotableスタイル、8k --ar 9:16 --v 6.0
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## イラスト
+
+<a name="prompt-2098456570678149630"></a>
+
+### 翻訳中
+
+作者：[@airina\_xyz](https://x.com/airina_xyz) · [元の投稿](https://x.com/airina_xyz/status/2098456570678149630)
+
+イラスト · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098456570678149630-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

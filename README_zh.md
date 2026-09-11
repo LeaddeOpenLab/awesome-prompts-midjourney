@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**5** 条内容 · 最新收录: **2026-09-11**
+**6** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 动漫杰作，动态动作镜头，2位中国女神姐妹，性感曼妙身材，高开衩真丝旗袍，战损衣物，血迹飞溅，发光的眼睛，电影级光影，戏剧性阴影，ufotable风格，8k --ar 9:16 --v 6.0
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 插画
+
+<a name="prompt-2098456570678149630"></a>
+
+### 翻译中
+
+作者：[@airina\_xyz](https://x.com/airina_xyz) · [查看 X 原帖](https://x.com/airina_xyz/status/2098456570678149630)
+
+插画 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098456570678149630-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

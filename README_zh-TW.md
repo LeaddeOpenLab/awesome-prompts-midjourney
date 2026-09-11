@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**5** 筆內容 · 最新收錄: **2026-09-11**
+**6** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 動漫傑作，動態動作鏡頭，2位中國女神姊妹，性感曼妙身材，高衩真絲旗袍，戰損衣物，血跡飛濺，發光的眼睛，電影級光影，戲劇性陰影，ufotable風格，8k --ar 9:16 --v 6.0
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 插圖
+
+<a name="prompt-2098456570678149630"></a>
+
+### 翻譯中
+
+作者：[@airina\_xyz](https://x.com/airina_xyz) · [查看 X 原帖](https://x.com/airina_xyz/status/2098456570678149630)
+
+插圖 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098456570678149630-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

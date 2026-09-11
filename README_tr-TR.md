@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**5** Prompt · Son eklenen: **2026-09-11**
+**6** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Yazar：[@asgam1ngx](https://x.com/asgam1ngx) · [Orijinal gönderi](https://x.c
 
 ```text
 anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, kıvrımlı dolgun vücut, yüksek yırtmaçlı ipek çipao cheongsam, savaşta hasar görmüş giysiler, kan sıçramaları, parlayan gözler, sinematik aydınlatma, dramatik gölgeler, ufotable tarzı, 8k --ar 9:16 --v 6.0
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## İllüstrasyon
+
+<a name="prompt-2098456570678149630"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2098456570678149630)
+
+İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098456570678149630-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
