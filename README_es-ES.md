@@ -63,20 +63,20 @@ La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve t
 
 <a name="prompt-2098385016896336030"></a>
 
-### Traducción en curso
+### Una escena de acción dinámica al estilo anime de ufotable que muestra a dos hermanas diosas chinas vestidas con qipaos de abertura alta dañados en combate luchando a muerte entre llamas azules y rojas.
 
 Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Publicación original](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Cómic / Guion gráfico · Anime / Manga · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una escena de acción dinámica al estilo anime de ufotable que muestra a dos hermanas diosas chinas vestidas con qipaos de abertura alta dañados en combate luchando a muerte entre llamas azules y rojas.
 
 <img src="covers/2098385016896336030.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuerpo curvilíneo y voluptuoso, qipao cheongsam de seda con abertura alta, ropa dañada por la batalla, salpicaduras de sangre, ojos brillantes, iluminación cinematográfica, sombras dramáticas, estilo ufotable, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Volver a categorías](#catalog)

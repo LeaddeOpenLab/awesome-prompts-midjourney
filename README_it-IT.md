@@ -63,20 +63,20 @@ La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si v
 
 <a name="prompt-2098385016896336030"></a>
 
-### Traduzione in corso
+### Una scena d'azione dinamica nello stile anime di ufotable che ritrae due sorelle dee cinesi vestite con qipao dallo spacco alto danneggiati dalla battaglia in un combattimento all'ultimo sangue tra fiamme blu e rosse.
 
 Autore：[@asgam1ngx](https://x.com/asgam1ngx) · [Post originale](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Fumetto / Storyboard · Anime / Manga · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una scena d'azione dinamica nello stile anime di ufotable che ritrae due sorelle dee cinesi vestite con qipao dallo spacco alto danneggiati dalla battaglia in un combattimento all'ultimo sangue tra fiamme blu e rosse.
 
 <img src="covers/2098385016896336030.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo voluttuoso e formoso, qipao cheongsam di seta con spacco alto, abiti danneggiati dalla battaglia, schizzi di sangue, occhi luminosi, illuminazione cinematografica, ombre drammatiche, stile ufotable, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Torna alle categorie](#catalog)

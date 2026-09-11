@@ -63,20 +63,20 @@ A protagonista vira a cabeça para a câmara, dá um leve sorriso e volta-se de 
 
 <a name="prompt-2098385016896336030"></a>
 
-### Tradução em curso
+### Uma cena de ação dinâmica no estilo de anime da ufotable que retrata duas irmãs deusas chinesas vestidas com qipaos de racha subida danificados pela batalha num combate mortal entre chamas azuis e vermelhas.
 
 Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Publicação original](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Banda desenhada / Storyboard · Anime / Mangá · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma cena de ação dinâmica no estilo de anime da ufotable que retrata duas irmãs deusas chinesas vestidas com qipaos de racha subida danificados pela batalha num combate mortal entre chamas azuis e vermelhas.
 
 <img src="covers/2098385016896336030.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+obra-prima de anime, plano de ação dinâmico, 2 irmãs deusas chinesas, corpo voluptuoso e curvilíneo, qipao cheongsam de seda com racha subida, roupas danificadas pelo combate, salpicos de sangue, olhos brilhantes, iluminação cinematográfica, sombras dramáticas, estilo ufotable, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Voltar às categorias](#catalog)

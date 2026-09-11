@@ -63,20 +63,20 @@ Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından
 
 <a name="prompt-2098385016896336030"></a>
 
-### Çeviri sürüyor
+### ufotable anime tarzında, savaşta yıpranmış yüksek yırtmaçlı çipao giymiş iki Çinli tanrıça kız kardeşin mavi ve kırmızı alevler içinde bir ölüm kalım mücadelesini tasvir eden dinamik bir aksiyon sahnesi.
 
 Yazar：[@asgam1ngx](https://x.com/asgam1ngx) · [Orijinal gönderi](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Çizgi Roman / Hikaye Taslağı · Anime / Manga · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** ufotable anime tarzında, savaşta yıpranmış yüksek yırtmaçlı çipao giymiş iki Çinli tanrıça kız kardeşin mavi ve kırmızı alevler içinde bir ölüm kalım mücadelesini tasvir eden dinamik bir aksiyon sahnesi.
 
 <img src="covers/2098385016896336030.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, kıvrımlı dolgun vücut, yüksek yırtmaçlı ipek çipao cheongsam, savaşta hasar görmüş giysiler, kan sıçramaları, parlayan gözler, sinematik aydınlatma, dramatik gölgeler, ufotable tarzı, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Kategorilere dön](#catalog)

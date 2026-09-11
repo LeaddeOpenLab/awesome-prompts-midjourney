@@ -63,20 +63,20 @@ Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi 
 
 <a name="prompt-2098385016896336030"></a>
 
-### Đang dịch
+### Cảnh hành động sống động theo phong cách anime ufotable miêu tả hai chị em nữ thần Trung Hoa mặc sườn xám xẻ cao rách nát sau trận chiến, đang tử chiến giữa biển lửa xanh đỏ.
 
 Tác giả：[@asgam1ngx](https://x.com/asgam1ngx) · [Bài gốc](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Truyện tranh / Bảng phân cảnh · Anime / Manga · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh hành động sống động theo phong cách anime ufotable miêu tả hai chị em nữ thần Trung Hoa mặc sườn xám xẻ cao rách nát sau trận chiến, đang tử chiến giữa biển lửa xanh đỏ.
 
 <img src="covers/2098385016896336030.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Trung Hoa, vóc dáng đẫy đà gợi cảm, sườn xám lụa xẻ tà cao, trang phục rách tả tơi do chiến đấu, vết máu bắn tung tóe, đôi mắt phát sáng, ánh sáng điện ảnh, bóng đổ kịch tính, phong cách ufotable, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Về danh mục](#catalog)

@@ -63,20 +63,20 @@ Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet si
 
 <a name="prompt-2098385016896336030"></a>
 
-### Übersetzung läuft
+### Eine dynamische Actionszene im ufotable-Anime-Stil, die zwei chinesische Göttinnen-Schwestern in kampfbeschädigtem Qipao mit hohem Schlitz bei einem Kampf auf Leben und Tod inmitten blauer und roter Flammen darstellt.
 
 Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Originalbeitrag](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Comic / Storyboard · Anime / Manga · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine dynamische Actionszene im ufotable-Anime-Stil, die zwei chinesische Göttinnen-Schwestern in kampfbeschädigtem Qipao mit hohem Schlitz bei einem Kampf auf Leben und Tod inmitten blauer und roter Flammen darstellt.
 
 <img src="covers/2098385016896336030.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schwestern, üppiger kurviger Körper, Seiden-Qipao-Cheongsam mit hohem Schlitz, kampfbeschädigte Kleidung, Blutspritzer, leuchtende Augen, filmische Beleuchtung, dramatische Schatten, ufotable-Stil, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

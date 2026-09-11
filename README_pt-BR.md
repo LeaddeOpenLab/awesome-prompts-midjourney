@@ -63,20 +63,20 @@ A protagonista vira a cabeça em direção à câmera, dá um leve sorriso e se 
 
 <a name="prompt-2098385016896336030"></a>
 
-### Tradução em andamento
+### Uma cena de ação dinâmica no estilo de anime da ufotable retratando duas irmãs deusas chinesas vestindo qipaos com fenda alta danificados por batalha em uma luta mortal em meio a chamas azuis e vermelhas.
 
 Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Publicação original](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Quadrinhos / Storyboard · Anime / Mangá · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma cena de ação dinâmica no estilo de anime da ufotable retratando duas irmãs deusas chinesas vestindo qipaos com fenda alta danificados por batalha em uma luta mortal em meio a chamas azuis e vermelhas.
 
 <img src="covers/2098385016896336030.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+obra-prima do anime, cena de ação dinâmica, 2 irmãs deusas chinesas, corpo voluptuoso com curvas, qipao cheongsam de seda com fenda alta, roupas danificadas pela batalha, respingos de sangue, olhos brilhantes, iluminação cinematográfica, sombras dramáticas, estilo ufotable, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Voltar às categorias](#catalog)

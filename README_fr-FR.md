@@ -63,20 +63,20 @@ L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se
 
 <a name="prompt-2098385016896336030"></a>
 
-### Traduction en cours
+### Une scène d'action dynamique dans le style anime d'ufotable dépeignant deux sœurs déesses chinoises vêtues de qipaos fendus endommagés par le combat, se livrant un duel à mort au milieu de flammes bleues et rouges.
 
 Auteur：[@asgam1ngx](https://x.com/asgam1ngx) · [Publication originale](https://x.com/asgam1ngx/status/2098385016896336030)
 
 Bande dessinée / Storyboard · Anime / Manga · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une scène d'action dynamique dans le style anime d'ufotable dépeignant deux sœurs déesses chinoises vêtues de qipaos fendus endommagés par le combat, se livrant un duel à mort au milieu de flammes bleues et rouges.
 
 <img src="covers/2098385016896336030.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+chef-d'œuvre anime, plan d'action dynamique, 2 sœurs déesses chinoises, corps voluptueux et tout en courbes, qipao cheongsam en soie à fente haute, vêtements endommagés par le combat, éclaboussures de sang, yeux brillants, éclairage cinématographique, ombres dramatiques, style ufotable, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Retour aux catégories](#catalog)
