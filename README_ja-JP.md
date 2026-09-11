@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**3** 件 · 最新の追加: **2026-09-11**
+**4** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [その他](#category-other)
+[写真撮影](#category-photography) · [アニメ / 漫画](#category-anime-manga) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ```text
 ヒロインがカメラの方を振り返って微笑み、恥ずかしそうに再び顔を背ける。風が吹き抜け、梨の花びらが舞い散り、髪と服が風になびいている
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## アニメ / 漫画
+
+<a name="prompt-2098385016896336030"></a>
+
+### 翻訳中
+
+作者：[@asgam1ngx](https://x.com/asgam1ngx) · [元の投稿](https://x.com/asgam1ngx/status/2098385016896336030)
+
+コミック / ストーリーボード · アニメ / 漫画 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098385016896336030.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

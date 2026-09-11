@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**3** Prompt · Bổ sung mới nhất: **2026-09-11**
+**4** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Anime / Manga](#category-anime-manga) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Bài gốc：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com
 
 ```text
 Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi lại thẹn thùng quay đi, gió thổi tới, hoa lê bay lượn, tóc và áo tung bay theo gió
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098385016896336030"></a>
+
+### Đang dịch
+
+Tác giả：[@asgam1ngx](https://x.com/asgam1ngx) · [Bài gốc](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Truyện tranh / Bảng phân cảnh · Anime / Manga · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098385016896336030.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

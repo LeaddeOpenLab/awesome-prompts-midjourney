@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**3** Prompts · Última adição: **2026-09-11**
+**4** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Anime / Mangá](#category-anime-manga) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação o
 
 ```text
 A protagonista vira a cabeça em direção à câmera, dá um leve sorriso e se vira novamente com timidez; o vento sopra, flores de pereira flutuam no ar, e seus cabelos e roupas esvoaçam
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Mangá
+
+<a name="prompt-2098385016896336030"></a>
+
+### Tradução em andamento
+
+Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Publicação original](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Quadrinhos / Storyboard · Anime / Mangá · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098385016896336030.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

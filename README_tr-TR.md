@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**3** Prompt · Son eklenen: **2026-09-11**
+**4** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Anime / Manga](#category-anime-manga) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi]
 
 ```text
 Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından utangaç bir şekilde yeniden yüzünü döner; rüzgar eser, armut çiçekleri havada süzülür, saçları ve kıyafetleri rüzgarda dalgalanır
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098385016896336030"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@asgam1ngx](https://x.com/asgam1ngx) · [Orijinal gönderi](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Çizgi Roman / Hikaye Taslağı · Anime / Manga · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098385016896336030.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

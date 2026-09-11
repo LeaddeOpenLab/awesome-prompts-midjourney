@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**3** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**4** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Anime / Manga](#category-anime-manga) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Originalbeitrag：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](htt
 
 ```text
 Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet sich dann schüchtern wieder ab; der Wind weht, Birnenblüten wirbeln durch die Luft, Haar und Kleidung wehen im Wind
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098385016896336030"></a>
+
+### Übersetzung läuft
+
+Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Originalbeitrag](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Comic / Storyboard · Anime / Manga · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098385016896336030.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

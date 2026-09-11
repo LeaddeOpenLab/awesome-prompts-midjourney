@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**3** Prompts · Latest addition: **2026-09-11**
+**4** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Other](#category-other)
+[Photography](#category-photography) · [Anime / Manga](#category-anime-manga) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Source：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAi
 
 ```text
 The female protagonist turns her head to look at the camera, gives a gentle smile, and then shyly turns away; the wind blows, pear blossoms drift in the air, and her hair and clothes flutter in the breeze.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098385016896336030"></a>
+
+### A dynamic action scene depicting two Chinese goddess sisters wearing battle-damaged high-slit qipaos engaged in a deadly fight amidst blue and red flames, in ufotable anime style.
+
+Author：[@asgam1ngx](https://x.com/asgam1ngx) · [Source](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Comic / Storyboard · Anime / Manga · Published
+
+**Summary:** A dynamic action scene depicting two Chinese goddess sisters wearing battle-damaged high-slit qipaos engaged in a deadly fight amidst blue and red flames, in ufotable anime style.
+
+<img src="covers/2098385016896336030.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+anime masterpiece, dynamic action shot, 2 Chinese goddess sisters, voluptuous curvy body, high-slit silk qipao cheongsam, battle damaged clothing, blood splatters, glowing eyes, cinematic lighting, dramatic shadows, ufotable style, 8k --ar 9:16 --v 6.0
 ```
 
 [↑ Back to categories](#catalog)

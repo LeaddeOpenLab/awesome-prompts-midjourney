@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**3** 筆內容 · 最新收錄: **2026-09-11**
+**4** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [其他](#category-other)
+[攝影](#category-photography) · [動畫 / 漫畫](#category-anime-manga) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 女主角轉頭看向鏡頭，微微一笑，又嬌羞地轉過去，風吹過來，梨花飄揚，頭髮和衣服飄揚
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## 動畫 / 漫畫
+
+<a name="prompt-2098385016896336030"></a>
+
+### 翻譯中
+
+作者：[@asgam1ngx](https://x.com/asgam1ngx) · [查看 X 原帖](https://x.com/asgam1ngx/status/2098385016896336030)
+
+漫畫 / 分鏡腳本 · 動畫 / 漫畫 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098385016896336030.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

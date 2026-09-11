@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**3** 条内容 · 最新收录: **2026-09-11**
+**4** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [其他](#category-other)
+[摄影](#category-photography) · [动漫 / 漫画](#category-anime-manga) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 女主角转头看向镜头，微微一笑，又娇羞地转过去，风吹过来，梨花飘扬，头发和衣服飘扬
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## 动漫 / 漫画
+
+<a name="prompt-2098385016896336030"></a>
+
+### 翻译中
+
+作者：[@asgam1ngx](https://x.com/asgam1ngx) · [查看 X 原帖](https://x.com/asgam1ngx/status/2098385016896336030)
+
+漫画 / 故事板 · 动漫 / 漫画 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098385016896336030.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**3** Prompts · Dernier ajout: **2026-09-11**
+**4** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Autres](#category-other)
+[Photographie](#category-photography) · [Anime / Manga](#category-anime-manga) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Publication originale：[@PixelAigc](https://x.com/PixelAigc) · [Publication or
 
 ```text
 L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se détourne timidement ; le vent souffle, les fleurs de poirier tourbillonnent, ses cheveux et ses vêtements flottent au vent
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098385016896336030"></a>
+
+### Traduction en cours
+
+Auteur：[@asgam1ngx](https://x.com/asgam1ngx) · [Publication originale](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Bande dessinée / Storyboard · Anime / Manga · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098385016896336030.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**3** Prompts · Última incorporación: **2026-09-11**
+**4** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Anime / Manga](#category-anime-manga) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -51,6 +51,32 @@ Publicación original：[@PixelAigc](https://x.com/PixelAigc) · [Publicación o
 
 ```text
 La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve tímidamente; sopla el viento, flotan flores de peral y su pelo y su ropa ondean con la brisa
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2098385016896336030"></a>
+
+### Traducción en curso
+
+Autor：[@asgam1ngx](https://x.com/asgam1ngx) · [Publicación original](https://x.com/asgam1ngx/status/2098385016896336030)
+
+Cómic / Guion gráfico · Anime / Manga · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098385016896336030.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
