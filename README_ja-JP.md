@@ -19,15 +19,43 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**2** 件 · 最新の追加: **2026-09-09**
+**3** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[その他](#category-other)
+[写真撮影](#category-photography) · [その他](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 写真撮影
+
+<a name="prompt-2098364624613802381"></a>
+
+### 翻訳中
+
+作者：[@PixelAigc](https://x.com/PixelAigc) · [元の投稿](https://x.com/PixelAigc/status/2098364624613802381)
+
+写真撮影 · 配信済み
+
+元の投稿：[@PixelAigc](https://x.com/PixelAigc) · [元の投稿](https://x.com/PixelAigc/status/2098321856168398953)
+
+**概要:** 翻訳中
+
+<img src="covers/2098364624613802381.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="category-other"></a>
 

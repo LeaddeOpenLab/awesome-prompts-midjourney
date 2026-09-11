@@ -19,15 +19,43 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**2** Prompt · Son eklenen: **2026-09-09**
+**3** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotoğrafçılık
+
+<a name="prompt-2098364624613802381"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2098364624613802381)
+
+Fotoğrafçılık · Yayımlandı
+
+Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2098321856168398953)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098364624613802381.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="category-other"></a>
 

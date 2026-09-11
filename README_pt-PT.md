@@ -19,15 +19,43 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**2** Prompts · Adição mais recente: **2026-09-09**
+**3** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Outros](#category-other)
+[Fotografia](#category-photography) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotografia
+
+<a name="prompt-2098364624613802381"></a>
+
+### Tradução em curso
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2098364624613802381)
+
+Fotografia · Publicado
+
+Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2098321856168398953)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098364624613802381.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="category-other"></a>
 

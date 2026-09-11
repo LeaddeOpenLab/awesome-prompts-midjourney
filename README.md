@@ -19,15 +19,43 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**2** Prompts · Latest addition: **2026-09-09**
+**3** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Other](#category-other)
+[Photography](#category-photography) · [Other](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Photography
+
+<a name="prompt-2098364624613802381"></a>
+
+### The female protagonist looks back with a smile under the pear blossom tree and shyly turns away, as the wind blows petals, fluttering her clothes and hair.
+
+Author：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2098364624613802381)
+
+Photography · Published
+
+Source：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2098321856168398953)
+
+**Summary:** The female protagonist looks back with a smile under the pear blossom tree and shyly turns away, as the wind blows petals, fluttering her clothes and hair.
+
+<img src="covers/2098364624613802381.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+The female protagonist turns her head to look at the camera, gives a gentle smile, and then shyly turns away; the wind blows, pear blossoms drift in the air, and her hair and clothes flutter in the breeze.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="category-other"></a>
 

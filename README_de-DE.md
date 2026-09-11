@@ -19,15 +19,43 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**2** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**3** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Sonstige](#category-other)
+[Fotografie](#category-photography) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotografie
+
+<a name="prompt-2098364624613802381"></a>
+
+### Übersetzung läuft
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2098364624613802381)
+
+Fotografie · Veröffentlicht
+
+Originalbeitrag：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2098321856168398953)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098364624613802381.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="category-other"></a>
 

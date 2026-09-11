@@ -19,15 +19,43 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**2** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**3** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## การถ่ายภาพ
+
+<a name="prompt-2098364624613802381"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@PixelAigc](https://x.com/PixelAigc) · [โพสต์ต้นฉบับ](https://x.com/PixelAigc/status/2098364624613802381)
+
+การถ่ายภาพ · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@PixelAigc](https://x.com/PixelAigc) · [โพสต์ต้นฉบับ](https://x.com/PixelAigc/status/2098321856168398953)
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098364624613802381.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="category-other"></a>
 

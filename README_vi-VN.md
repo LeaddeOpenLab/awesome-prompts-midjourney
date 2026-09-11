@@ -19,15 +19,43 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**2** Prompt · Bổ sung mới nhất: **2026-09-09**
+**3** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Nhiếp ảnh
+
+<a name="prompt-2098364624613802381"></a>
+
+### Đang dịch
+
+Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2098364624613802381)
+
+Nhiếp ảnh · Đã xuất bản
+
+Bài gốc：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2098321856168398953)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098364624613802381.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="category-other"></a>
 

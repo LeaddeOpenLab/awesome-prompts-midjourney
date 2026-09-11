@@ -19,15 +19,43 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**2** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**3** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## फोटोग्राफी
+
+<a name="prompt-2098364624613802381"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@PixelAigc](https://x.com/PixelAigc) · [मूल पोस्ट](https://x.com/PixelAigc/status/2098364624613802381)
+
+फोटोग्राफी · प्रकाशित
+
+मूल पोस्ट：[@PixelAigc](https://x.com/PixelAigc) · [मूल पोस्ट](https://x.com/PixelAigc/status/2098321856168398953)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2098364624613802381.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="category-other"></a>
 

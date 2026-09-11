@@ -19,15 +19,43 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**2** 개 · 최근 추가: **2026-09-09**
+**3** 개 · 최근 추가: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[기타](#category-other)
+[사진술](#category-photography) · [기타](#category-other)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 사진술
+
+<a name="prompt-2098364624613802381"></a>
+
+### 번역 중
+
+작성자：[@PixelAigc](https://x.com/PixelAigc) · [원본 게시물](https://x.com/PixelAigc/status/2098364624613802381)
+
+사진술 · 배포 완료
+
+원본 게시물：[@PixelAigc](https://x.com/PixelAigc) · [원본 게시물](https://x.com/PixelAigc/status/2098321856168398953)
+
+**요약:** 번역 중
+
+<img src="covers/2098364624613802381.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="category-other"></a>
 
