@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:33:14.181Z",
+  "model": "midjourney",
+  "prompt": "A cinematic close-up portrait of a young East Asian woman with pale porcelain skin and long, straight, glossy black hair falling over the left side of her face, several strands partially covering her left eye. She gazes directly at the camera with a calm, slightly mysterious expression. Soft pink-red lips, defined dark brows, subtle makeup. She wears an elegant white satin or silk one-shoulder garment with delicate embroidered floral lace patterns that catch the light. A long dangling crystal or jeweled earring hangs from her visible right ear.\n\nDramatic high-contrast lighting (chiaroscuro / Rembrandt-style): a single directional light source from the left illuminates the right side of her face, the curve of her cheek, lips, and the sheen of her hair, while the rest of her face and the entire background fall into deep, velvety black shadow. Dark, almost obsidian-black background with no visible details. Moody, elegant, intimate atmosphere. Photorealistic, ultra-detailed skin texture, individual hair strands, fabric sheen and embroidery, cinematic color grading with cool shadows and warm highlights on the skin.\n\nStyle keywords: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.",
+  "promptTranslations": {
+    "en": "A cinematic close-up portrait of a young East Asian woman with pale porcelain skin and long, straight, glossy black hair falling over the left side of her face, several strands partially covering her left eye. She gazes directly at the camera with a calm, slightly mysterious expression. Soft pink-red lips, defined dark brows, subtle makeup. She wears an elegant white satin or silk one-shoulder garment with delicate embroidered floral lace patterns that catch the light. A long dangling crystal or jeweled earring hangs from her visible right ear.\\n\\nDramatic high-contrast lighting (chiaroscuro / Rembrandt-style): a single directional light source from the left illuminates the right side of her face, the curve of her cheek, lips, and the sheen of her hair, while the rest of her face and the entire background fall into deep, velvety black shadow. Dark, almost obsidian-black background with no visible details. Moody, elegant, intimate atmosphere. Photorealistic, ultra-detailed skin texture, individual hair strands, fabric sheen and embroidery, cinematic color grading with cool shadows and warm highlights on the skin.\\n\\nStyle keywords: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress.",
+  "summaryEn": "Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098392368487485484",
+    "canonicalUrl": "https://x.com/woleswoosh/status/2098392368487485484",
+    "author": {
+      "username": "woleswoosh",
+      "displayName": "Feyber",
+      "profileUrl": "https://x.com/woleswoosh"
+    },
+    "publishedAt": "2026-09-11T12:45:01.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "[Higgsfield Soul 2.0 Prompt] ar 9:16 2K\n\nA cinematic close-up portrait of a young East Asian woman with pale porcelain skin and long, straight, glossy black hair falling over the left side of her face, several strands partially covering her left eye. She gazes directly at the camera with a calm, slightly mysterious expression. Soft pink-red lips, defined dark brows, subtle makeup. She wears an elegant white satin or silk one-shoulder garment with delicate embroidered floral lace patterns that catch the light. A long dangling crystal or jeweled earring hangs from her visible right ear.\n\nDramatic high-contrast lighting (chiaroscuro / Rembrandt-style): a single directional light source from the left illuminates the right side of her face, the curve of her cheek, lips, and the sheen of her hair, while the rest of her face and the entire background fall into deep, velvety black shadow. Dark, almost obsidian-black background with no visible details. Moody, elegant, intimate atmosphere. Photorealistic, ultra-detailed skin texture, individual hair strands, fabric sheen and embroidery, cinematic color grading with cool shadows and warm highlights on the skin.\n\nStyle keywords: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.\n\nShorter / Midjourney-style version\n\nphotorealistic cinematic portrait of a beautiful young Asian woman with long black hair covering part of her face, pale skin, red lips, white embroidered silk off-shoulder top, dangling crystal earring, dramatic chiaroscuro lighting, half face in shadow, dark black background, moody elegant atmosphere, high contrast, ultra detailed --ar 1:1 --stylize 250\n\nYou can add --v 6 or your preferred model version, or adjust lighting/hair coverage as needed.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxBArLasAA6MC3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxBArLasAA6MC3.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxBArVaQAE09PI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxBArVaQAE09PI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxBArmbsAA8XGI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxBArmbsAA8XGI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxBArYaUAAarTC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxBArYaUAAarTC.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 3,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 670
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/woleswoosh/status/2098392368487485484",
+  "coverUrl": "https://pbs.twimg.com/media/HRxBArLasAA6MC3.jpg",
+  "coverPath": "images/2098392368487485484-1.jpg",
+  "imagePaths": [
+    "images/2098392368487485484-1.jpg",
+    "images/2098392368487485484-2.jpg",
+    "images/2098392368487485484-3.jpg",
+    "images/2098392368487485484-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxBArLasAA6MC3",
+    "x-image:/media/HRxBArVaQAE09PI",
+    "x-image:/media/HRxBArmbsAA8XGI",
+    "x-image:/media/HRxBArYaUAAarTC",
+    "x-post:2098392368487485484"
+  ],
+  "analysis": {
+    "summary": "Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress.",
+    "summaryEn": "Cinematic portrait of an East Asian woman with high-contrast chiaroscuro lighting and embroidered white silk dress.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images depict an East Asian woman in a white embroidered one-shoulder top, dangling crystal earring, low-key chiaroscuro lighting, and black background matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic close-up portrait of a young East Asian woman with pale porcelain skin and long, straight, glossy black hair falling over the left side of her face, several strands partially covering her left eye. She gazes directly at the camera with a calm, slightly mysterious expression. Soft pink-red lips, defined dark brows, subtle makeup. She wears an elegant white satin or silk one-shoulder garment with delicate embroidered floral lace patterns that catch the light. A long dangling crystal or jeweled earring hangs from her visible right ear.\n\nDramatic high-contrast lighting (chiaroscuro / Rembrandt-style): a single directional light source from the left illuminates the right side of her face, the curve of her cheek, lips, and the sheen of her hair, while the rest of her face and the entire background fall into deep, velvety black shadow. Dark, almost obsidian-black background with no visible details. Moody, elegant, intimate atmosphere. Photorealistic, ultra-detailed skin texture, individual hair strands, fabric sheen and embroidery, cinematic color grading with cool shadows and warm highlights on the skin.\n\nStyle keywords: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed.",
+    "sourceRange": {
+      "start": 41,
+      "end": 1337
+    },
+    "translations": {
+      "zh": "一位年轻东亚女性的电影质感特写肖像，皮肤白皙如瓷，黑色直发披散在左侧脸颊，遮挡了左眼。直视镜头，表情神秘。粉红唇色，精致眼妆。身穿白色丝绸单肩刺绣服饰，戴水晶吊坠耳环。采用强烈的明暗对比照明（伦勃朗光），纯黑背景，具有暗黑学院与时尚大片风格。",
+      "en": "A cinematic close-up portrait of a young East Asian woman with pale porcelain skin and long, straight, glossy black hair falling over the left side of her face, several strands partially covering her left eye. She gazes directly at the camera with a calm, slightly mysterious expression. Soft pink-red lips, defined dark brows, subtle makeup. She wears an elegant white satin or silk one-shoulder garment with delicate embroidered floral lace patterns that catch the light. A long dangling crystal or jeweled earring hangs from her visible right ear.\n\nDramatic high-contrast lighting (chiaroscuro / Rembrandt-style): a single directional light source from the left illuminates the right side of her face, the curve of her cheek, lips, and the sheen of her hair, while the rest of her face and the entire background fall into deep, velvety black shadow. Dark, almost obsidian-black background with no visible details. Moody, elegant, intimate atmosphere. Photorealistic, ultra-detailed skin texture, individual hair strands, fabric sheen and embroidery, cinematic color grading with cool shadows and warm highlights on the skin.\n\nStyle keywords: dark academia portrait, high-fashion editorial photography, low-key lighting, shallow depth of field, 85mm lens look, masterpiece, 8k, highly detailed."
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
