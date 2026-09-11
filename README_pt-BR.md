@@ -125,20 +125,20 @@ obra-prima do anime, cena de ação dinâmica, 2 irmãs deusas chinesas, corpo v
 
 <a name="prompt-2098456570678149630"></a>
 
-### Tradução em andamento
+### Prompt de ilustração com tema de setembro usando referências de estilo do Midjourney.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2098456570678149630)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de ilustração com tema de setembro usando referências de estilo do Midjourney.
 
 <img src="images/2098456570678149630-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Setembro --ar 16:9 --sref 153692563 1979431158 2653758855
 ```
 
 [↑ Voltar às categorias](#catalog)

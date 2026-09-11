@@ -125,20 +125,20 @@ chef-d'œuvre anime, plan d'action dynamique, 2 sœurs déesses chinoises, corps
 
 <a name="prompt-2098456570678149630"></a>
 
-### Traduction en cours
+### Prompt d'illustration sur le thème de septembre utilisant des références de style Midjourney.
 
 Auteur：[@airina\_xyz](https://x.com/airina_xyz) · [Publication originale](https://x.com/airina_xyz/status/2098456570678149630)
 
 Illustration · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'illustration sur le thème de septembre utilisant des références de style Midjourney.
 
 <img src="images/2098456570678149630-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Septembre --ar 16:9 --sref 153692563 1979431158 2653758855
 ```
 
 [↑ Retour aux catégories](#catalog)

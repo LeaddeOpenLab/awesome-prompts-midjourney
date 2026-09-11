@@ -125,20 +125,20 @@ Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schweste
 
 <a name="prompt-2098456570678149630"></a>
 
-### Übersetzung läuft
+### Illustrations-Prompt zum Thema September unter Verwendung von Midjourney-Stilreferenzen.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2098456570678149630)
 
 Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Illustrations-Prompt zum Thema September unter Verwendung von Midjourney-Stilreferenzen.
 
 <img src="images/2098456570678149630-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+September --ar 16:9 --sref 153692563 1979431158 2653758855
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

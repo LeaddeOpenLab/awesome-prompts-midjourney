@@ -125,20 +125,20 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 
 <a name="prompt-2098456570678149630"></a>
 
-### Đang dịch
+### Lời nhắc minh họa chủ đề tháng Chín sử dụng tài liệu tham khảo phong cách của Midjourney.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2098456570678149630)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc minh họa chủ đề tháng Chín sử dụng tài liệu tham khảo phong cách của Midjourney.
 
 <img src="images/2098456570678149630-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 153692563 1979431158 2653758855
 ```
 
 [↑ Về danh mục](#catalog)

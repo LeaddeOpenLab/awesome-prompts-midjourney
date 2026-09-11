@@ -125,20 +125,20 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 
 <a name="prompt-2098456570678149630"></a>
 
-### Traduzione in corso
+### Prompt di illustrazione a tema settembre che utilizza riferimenti di stile Midjourney.
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2098456570678149630)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di illustrazione a tema settembre che utilizza riferimenti di stile Midjourney.
 
 <img src="images/2098456570678149630-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 153692563 1979431158 2653758855
 ```
 
 [↑ Torna alle categorie](#catalog)
