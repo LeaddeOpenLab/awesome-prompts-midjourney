@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**6** Prompt · Son eklenen: **2026-09-11**
+**7** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -96,6 +96,28 @@ Stil anahtar kelimeleri: dark academia portrait, high-fashion editorial photogra
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2098818944673182032"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2098818944673182032)
+
+Anime / Manga · İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098818944673182032-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098385016896336030"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**6** Prompts · Latest addition: **2026-09-11**
+**7** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -92,6 +92,28 @@ A cinematic close-up portrait of a young East Asian woman with pale porcelain sk
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2098818944673182032"></a>
+
+### Generate early autumn anime illustrations using &quot;September&quot; as the core keyword combined with style reference codes.
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2098818944673182032)
+
+Anime / Manga · Illustration · Published
+
+**Summary:** Generate early autumn anime illustrations using &quot;September&quot; as the core keyword combined with style reference codes.
+
+<img src="images/2098818944673182032-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 1674635905 980814165 1931977838
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098385016896336030"></a>
 

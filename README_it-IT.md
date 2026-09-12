@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**6** Prompt · Ultima aggiunta: **2026-09-11**
+**7** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -96,6 +96,28 @@ Parole chiave di stile: dark academia portrait, high-fashion editorial photograp
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2098818944673182032"></a>
+
+### Traduzione in corso
+
+Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2098818944673182032)
+
+Anime / Manga · Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098818944673182032-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098385016896336030"></a>
 

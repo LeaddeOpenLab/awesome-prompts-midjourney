@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**6** Prompts · Última incorporación: **2026-09-11**
+**7** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -96,6 +96,28 @@ Palabras clave de estilo: dark academia portrait, high-fashion editorial photogr
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2098818944673182032"></a>
+
+### Traducción en curso
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2098818944673182032)
+
+Anime / Manga · Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098818944673182032-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098385016896336030"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**6** Prompts · Dernier ajout: **2026-09-11**
+**7** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -96,6 +96,28 @@ Mots-clés de style : dark academia portrait, high-fashion editorial photography
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2098818944673182032"></a>
+
+### Traduction en cours
+
+Auteur：[@airina\_xyz](https://x.com/airina_xyz) · [Publication originale](https://x.com/airina_xyz/status/2098818944673182032)
+
+Anime / Manga · Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098818944673182032-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098385016896336030"></a>
 
