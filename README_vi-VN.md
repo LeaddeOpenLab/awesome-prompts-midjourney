@@ -99,20 +99,20 @@ Từ khóa phong cách: chân dung dark academia, chụp ảnh thời trang cao 
 
 <a name="prompt-2098818944673182032"></a>
 
-### Đang dịch
+### Tạo hình minh họa anime đầu thu với từ khóa cốt lõi &quot;September&quot; kết hợp cùng mã tham chiếu phong cách.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Manga · Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo hình minh họa anime đầu thu với từ khóa cốt lõi &quot;September&quot; kết hợp cùng mã tham chiếu phong cách.
 
 <img src="images/2098818944673182032-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Về danh mục](#catalog)

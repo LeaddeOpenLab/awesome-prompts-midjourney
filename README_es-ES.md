@@ -99,20 +99,20 @@ Palabras clave de estilo: retrato dark academia, fotografía editorial de alta m
 
 <a name="prompt-2098818944673182032"></a>
 
-### Traducción en curso
+### Generar una ilustración de anime de principios de otoño con &quot;September&quot; como palabra clave y combinada con códigos de referencia de estilo.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Manga · Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar una ilustración de anime de principios de otoño con &quot;September&quot; como palabra clave y combinada con códigos de referencia de estilo.
 
 <img src="images/2098818944673182032-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Septiembre --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Volver a categorías](#catalog)

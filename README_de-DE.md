@@ -99,20 +99,20 @@ Stil-Schlüsselwörter: dark academia portrait, high-fashion editorial photograp
 
 <a name="prompt-2098818944673182032"></a>
 
-### Übersetzung läuft
+### Erstellung einer Anime-Illustration des Frühherbstes mit „September“ als Kernbegriff und kombiniert mit Stil-Referenzcodes.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Manga · Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstellung einer Anime-Illustration des Frühherbstes mit „September“ als Kernbegriff und kombiniert mit Stil-Referenzcodes.
 
 <img src="images/2098818944673182032-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+September --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

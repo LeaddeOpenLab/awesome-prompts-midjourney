@@ -99,20 +99,20 @@ Stil anahtar kelimeleri: dark academia portrait, high-fashion editorial photogra
 
 <a name="prompt-2098818944673182032"></a>
 
-### Çeviri sürüyor
+### Anahtar sözcük olarak &quot;September&quot; kullanılarak ve stil referans kodlarıyla birleştirilerek erken sonbahar anime illüstrasyonu oluşturma.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Manga · İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Anahtar sözcük olarak &quot;September&quot; kullanılarak ve stil referans kodlarıyla birleştirilerek erken sonbahar anime illüstrasyonu oluşturma.
 
 <img src="images/2098818944673182032-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Kategorilere dön](#catalog)

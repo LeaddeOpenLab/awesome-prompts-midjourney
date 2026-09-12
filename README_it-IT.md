@@ -99,20 +99,20 @@ Parole chiave di stile: dark academia portrait, high-fashion editorial photograp
 
 <a name="prompt-2098818944673182032"></a>
 
-### Traduzione in corso
+### Generare un'illustrazione anime di inizio autunno con &quot;September&quot; come parola chiave combinata con codici di riferimento di stile.
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Manga · Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generare un'illustrazione anime di inizio autunno con &quot;September&quot; come parola chiave combinata con codici di riferimento di stile.
 
 <img src="images/2098818944673182032-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Torna alle categorie](#catalog)

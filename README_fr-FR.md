@@ -99,20 +99,20 @@ Mots-clés de style : dark academia portrait, high-fashion editorial photography
 
 <a name="prompt-2098818944673182032"></a>
 
-### Traduction en cours
+### Génération d'une illustration d'anime de début d'automne avec « September » comme mot-clé associé à des codes de référence de style.
 
 Auteur：[@airina\_xyz](https://x.com/airina_xyz) · [Publication originale](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Manga · Illustration · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Génération d'une illustration d'anime de début d'automne avec « September » comme mot-clé associé à des codes de référence de style.
 
 <img src="images/2098818944673182032-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Septembre --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Retour aux catégories](#catalog)

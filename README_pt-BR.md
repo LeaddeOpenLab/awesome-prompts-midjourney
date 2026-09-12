@@ -99,20 +99,20 @@ Palavras-chave de estilo: dark academia portrait, high-fashion editorial photogr
 
 <a name="prompt-2098818944673182032"></a>
 
-### Tradução em andamento
+### Gerar ilustração em estilo anime do início do outono com &quot;September&quot; como palavra-chave combinada com códigos de referência de estilo.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2098818944673182032)
 
 Anime / Mangá · Ilustração · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gerar ilustração em estilo anime do início do outono com &quot;September&quot; como palavra-chave combinada com códigos de referência de estilo.
 
 <img src="images/2098818944673182032-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Setembro --ar 16:9 --sref 1674635905 980814165 1931977838
 ```
 
 [↑ Voltar às categorias](#catalog)
