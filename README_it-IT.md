@@ -169,20 +169,20 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 
 <a name="prompt-2099188369188372625"></a>
 
-### Traduzione in corso
+### Scena di illustrazione surrealista generata con il tema &quot;Settembre&quot; combinato con codici di riferimento di stile specifici.
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2099188369188372625)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena di illustrazione surrealista generata con il tema &quot;Settembre&quot; combinato con codici di riferimento di stile specifici.
 
 <img src="images/2099188369188372625-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 1750398336 2622495067 588281222
 ```
 
 [↑ Torna alle categorie](#catalog)

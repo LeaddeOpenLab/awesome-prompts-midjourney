@@ -169,20 +169,20 @@ obra-prima de anime, plano de ação dinâmico, 2 irmãs deusas chinesas, corpo 
 
 <a name="prompt-2099188369188372625"></a>
 
-### Tradução em curso
+### Cena de ilustração surrealista gerada com o tema &quot;Setembro&quot; combinada com códigos de referência de estilo específicos.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2099188369188372625)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena de ilustração surrealista gerada com o tema &quot;Setembro&quot; combinada com códigos de referência de estilo específicos.
 
 <img src="images/2099188369188372625-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Setembro --ar 16:9 --sref 1750398336 2622495067 588281222
 ```
 
 [↑ Voltar às categorias](#catalog)

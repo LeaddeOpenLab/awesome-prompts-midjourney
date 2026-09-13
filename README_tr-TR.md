@@ -169,20 +169,20 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 
 <a name="prompt-2099188369188372625"></a>
 
-### Çeviri sürüyor
+### Belirli stil referans kodlarıyla birleştirilmiş &quot;Eylül&quot; temasıyla oluşturulmuş gerçeküstü illüstrasyon sahnesi.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2099188369188372625)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Belirli stil referans kodlarıyla birleştirilmiş &quot;Eylül&quot; temasıyla oluşturulmuş gerçeküstü illüstrasyon sahnesi.
 
 <img src="images/2099188369188372625-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 1750398336 2622495067 588281222
 ```
 
 [↑ Kategorilere dön](#catalog)

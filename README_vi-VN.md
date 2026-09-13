@@ -169,20 +169,20 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 
 <a name="prompt-2099188369188372625"></a>
 
-### Đang dịch
+### Khung cảnh minh họa siêu thực được tạo theo chủ đề &quot;Tháng chín&quot; kết hợp với các mã tham chiếu phong cách cụ thể.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2099188369188372625)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khung cảnh minh họa siêu thực được tạo theo chủ đề &quot;Tháng chín&quot; kết hợp với các mã tham chiếu phong cách cụ thể.
 
 <img src="images/2099188369188372625-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng chín --ar 16:9 --sref 1750398336 2622495067 588281222
 ```
 
 [↑ Về danh mục](#catalog)

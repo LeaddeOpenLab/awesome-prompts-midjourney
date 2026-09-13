@@ -169,20 +169,20 @@ Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schweste
 
 <a name="prompt-2099188369188372625"></a>
 
-### Übersetzung läuft
+### Surrealistische Illustrationsszene, generiert zum Thema „September“ in Kombination mit spezifischen Stil-Referenzcodes.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2099188369188372625)
 
 Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Surrealistische Illustrationsszene, generiert zum Thema „September“ in Kombination mit spezifischen Stil-Referenzcodes.
 
 <img src="images/2099188369188372625-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+September --ar 16:9 --sref 1750398336 2622495067 588281222
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

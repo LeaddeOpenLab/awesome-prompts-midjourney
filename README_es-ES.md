@@ -169,20 +169,20 @@ obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuer
 
 <a name="prompt-2099188369188372625"></a>
 
-### Traducción en curso
+### Escena de ilustración surrealista generada con el tema &quot;Septiembre&quot; combinada con códigos de referencia de estilo específicos.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2099188369188372625)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena de ilustración surrealista generada con el tema &quot;Septiembre&quot; combinada con códigos de referencia de estilo específicos.
 
 <img src="images/2099188369188372625-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Septiembre --ar 16:9 --sref 1750398336 2622495067 588281222
 ```
 
 [↑ Volver a categorías](#catalog)
