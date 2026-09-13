@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**8** Prompts · Dernier ajout: **2026-09-13**
+**9** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -166,6 +166,28 @@ chef-d'œuvre anime, plan d'action dynamique, 2 sœurs déesses chinoises, corps
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099188369188372625"></a>
+
+### Traduction en cours
+
+Auteur：[@airina\_xyz](https://x.com/airina_xyz) · [Publication originale](https://x.com/airina_xyz/status/2099188369188372625)
+
+Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099188369188372625-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098456570678149630"></a>
 

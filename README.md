@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**8** Prompts · Latest addition: **2026-09-13**
+**9** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -162,6 +162,28 @@ anime masterpiece, dynamic action shot, 2 Chinese goddess sisters, voluptuous cu
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099188369188372625"></a>
+
+### Surreal illustration scene generated with the theme of &quot;September&quot; combined with specific style reference codes.
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2099188369188372625)
+
+Illustration · Published
+
+**Summary:** Surreal illustration scene generated with the theme of &quot;September&quot; combined with specific style reference codes.
+
+<img src="images/2099188369188372625-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 1750398336 2622495067 588281222
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098456570678149630"></a>
 

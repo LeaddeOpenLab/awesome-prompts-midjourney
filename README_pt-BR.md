@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**8** Prompts · Última adição: **2026-09-13**
+**9** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -166,6 +166,28 @@ obra-prima do anime, cena de ação dinâmica, 2 irmãs deusas chinesas, corpo v
 <a name="category-illustration"></a>
 
 ## Ilustração
+
+<a name="prompt-2099188369188372625"></a>
+
+### Tradução em andamento
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2099188369188372625)
+
+Ilustração · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099188369188372625-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098456570678149630"></a>
 
