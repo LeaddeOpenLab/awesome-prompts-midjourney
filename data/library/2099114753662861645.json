@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T14:00:08.743Z",
+  "model": "midjourney",
+  "prompt": "女主角对着镜头微微浅笑，向画面右边转过脸，眼睛看着前方，继续向右行走，她用左手抚一下头发，风吹过来头发飘扬，镜头跟拍，背景模糊",
+  "promptTranslations": {
+    "en": "The female protagonist smiles slightly at the camera, turns her face toward the right side of the frame, looks straight ahead, and continues walking to the right, she gently touches her hair with her left hand, the wind blows causing her hair to flutter, tracking camera shot, blurred background"
+  },
+  "summaryTranslations": {
+    "en": "Video prompt of a girl looking back with a smile, turning her head to walk to the right, and stroking her hair."
+  },
+  "translationVersion": 2,
+  "summary": "女孩回眸微笑并转头向右行走抚摸头发的视频提示词。",
+  "summaryEn": "Video prompt for a girl smiling, turning right, walking, and stroking her hair.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099114753662861645",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2099114753662861645",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-13T12:35:31.000Z",
+    "collectedAt": "2026-09-13T12:39:48.421Z",
+    "language": "zh",
+    "originalText": "秋天来了\n太阳照射过来已不太烫了\n下了几场雨，晚上已明显有了凉意\nH3非常精准地捕捉到了夕阳下女孩回眸的那一瞬间\nprompt 非常简单\n\n视频提示词：女主角对着镜头微微浅笑，向画面右边转过脸，眼睛看着前方，继续向右行走，她用左手抚一下头发，风吹过来头发飘扬，镜头跟拍，背景模糊\n\nMJ生图提示词：一个十八岁中国女性",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2099114753662861645",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099114560599031808/img/VbA6DYlIPp34j0dz.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2099114753662861645"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2099114753662861645",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099114560599031808/img/VbA6DYlIPp34j0dz.jpg",
+  "coverPath": "covers/2099114753662861645.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099114560599031808",
+    "x-post:2099114753662861645"
+  ],
+  "analysis": {
+    "summary": "女孩回眸微笑并转头向右行走抚摸头发的视频提示词。",
+    "summaryEn": "Video prompt for a girl smiling, turning right, walking, and stroking her hair.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中展示的女孩微笑、向右侧脸走动、左手拂发及发丝飘动与提示词完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "女主角对着镜头微微浅笑，向画面右边转过脸，眼睛看着前方，继续向右行走，她用左手抚一下头发，风吹过来头发飘扬，镜头跟拍，背景模糊",
+    "sourceRange": {
+      "start": 76,
+      "end": 139
+    },
+    "translations": {
+      "zh": "女主角对着镜头微微浅笑，向画面右边转过脸，眼睛看着前方，继续向右行走，她用左手抚一下头发，风吹过来头发飘扬，镜头跟拍，背景模糊",
+      "en": "The heroine smiles slightly at the camera, turns her face to the right, looks ahead, continues walking right, touches her hair with her left hand as the wind blows it, tracked by camera, blurred background."
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "image-to-video",
+    "useCase": "AI video generation workflow with character motion and tracking shot.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
