@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**7** Prompts · Adição mais recente: **2026-09-12**
+**8** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ A protagonista vira a cabeça para a câmara, dá um leve sorriso e volta-se de 
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2099114753662861645"></a>
+
+### Tradução em curso
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2099114753662861645)
+
+Cena de Cinema / Fotograma · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099114753662861645.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098392368487485484"></a>
 

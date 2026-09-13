@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**7** Prompts · Última incorporación: **2026-09-12**
+**8** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve t
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2099114753662861645"></a>
+
+### Traducción en curso
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2099114753662861645)
+
+Cine / Fotograma de película · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099114753662861645.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098392368487485484"></a>
 

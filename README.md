@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**7** Prompts · Latest addition: **2026-09-12**
+**8** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ The female protagonist turns her head to look at the camera, gives a gentle smil
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099114753662861645"></a>
+
+### Video prompt of a girl looking back with a smile, turning her head to walk to the right, and stroking her hair.
+
+Author：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2099114753662861645)
+
+Cinematic / Film Still · Character · Published
+
+**Summary:** Video prompt of a girl looking back with a smile, turning her head to walk to the right, and stroking her hair.
+
+<img src="covers/2099114753662861645.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+The female protagonist smiles slightly at the camera, turns her face toward the right side of the frame, looks straight ahead, and continues walking to the right, she gently touches her hair with her left hand, the wind blows causing her hair to flutter, tracking camera shot, blurred background
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098392368487485484"></a>
 

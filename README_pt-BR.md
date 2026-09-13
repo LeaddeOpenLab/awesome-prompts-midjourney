@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**7** Prompts · Última adição: **2026-09-12**
+**8** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ A protagonista vira a cabeça em direção à câmera, dá um leve sorriso e se 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2099114753662861645"></a>
+
+### Tradução em andamento
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2099114753662861645)
+
+Cinematográfico / Imagem de Filme · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099114753662861645.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098392368487485484"></a>
 
