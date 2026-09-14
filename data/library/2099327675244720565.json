@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T04:31:33.313Z",
+  "model": "midjourney",
+  "prompt": "Main subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil, her silver hair disheveled. The background is the ruins of a collapsed ancient Chinese building, under a grey sky with light rain falling.\nStory storyboard (0–15 seconds):\n0–5s — Close-up and struggle: Camera slowly pushes in on the woman's face in close-up. Her eyes are unfocused, tears mixing with rain as they slide down her cheeks, yet an eerie smile plays at the corner of her mouth — her expression twisting between anguish and madness.\n5–10s — Stumbling and shattering: Camera follows her footsteps as she staggers unsteadily through the ruins, the hem of her wedding gown sweeping over rubble and dead branches with a soft rustling sound.\n10–15s — Despair and descent: Wide-angle shot pulls back as she collapses into a sitting position amid the ruins, the red veil slipping off to reveal her pale face. She tilts her head back toward the grey sky, her laughter fading as tears continue to fall.\nStyle and atmosphere: Cinematic quality, dark gothic style, high contrast, striking red-and-black visual impact, oppressive, despairing, surrealist, 8K resolution, exquisite detail.\nNegative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.",
+  "promptTranslations": {
+    "en": "Main subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil, her silver hair disheveled. The background is the ruins of a collapsed ancient Chinese building, under a grey sky with light rain falling.\\nStory storyboard (0–15 seconds):\\n0–5s — Close-up and struggle: Camera slowly pushes in on the woman's face in close-up. Her eyes are unfocused, tears mixing with rain as they slide down her cheeks, yet an eerie smile plays at the corner of her mouth — her expression twisting between anguish and madness.\\n5–10s — Stumbling and shattering: Camera follows her footsteps as she staggers unsteadily through the ruins, the hem of her wedding gown sweeping over rubble and dead branches with a soft rustling sound.\\n10–15s — Despair and descent: Wide-angle shot pulls back as she collapses into a sitting position amid the ruins, the red veil slipping off to reveal her pale face. She tilts her head back toward the grey sky, her laughter fading as tears continue to fall.\\nStyle and atmosphere: Cinematic quality, dark gothic style, high contrast, striking red-and-black visual impact, oppressive, despairing, surrealist, 8K resolution, exquisite detail.\\nNegative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills."
+  },
+  "summaryTranslations": {
+    "en": "15-second dark gothic storyboard: An Eastern woman in a tattered red wedding dress cries, laughs, and collapses in despair amid ancient architectural ruins in the drizzle."
+  },
+  "translationVersion": 2,
+  "summary": "15秒暗黑哥特风分镜：身着破损红嫁衣的东方女子在古建筑废墟细雨中哭笑并绝望跌坐。",
+  "summaryEn": "A 15-second gothic storyboard depicting a disheveled bride in red stumbling and collapsing in ruins under light rain.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099327675244720565",
+    "canonicalUrl": "https://x.com/liluocheng13/status/2099327675244720565",
+    "author": {
+      "username": "liluocheng13",
+      "displayName": "Zidan 子丹",
+      "profileUrl": "https://x.com/liluocheng13"
+    },
+    "publishedAt": "2026-09-14T02:41:36.000Z",
+    "collectedAt": "2026-09-14T04:16:59.862Z",
+    "language": "en",
+    "originalText": "Image : Midjourney V6.1\nVideo : Seedance 2.0 1080p + Kling 3.0 1080p\n\nThe two 15-second clips below are excerpts from my music video Sisters. I used the same reference image and exactly the same prompt, running one through Seedance 2.0 and the other through Kling 3.0.\n\nThe version on the left was created with Seedance 2.0, and the one on the right with Kling 3.0.\n\nI think each version has its own strengths. What do you all think? Which one do you prefer?\n\nHere’s the prompt I used:\nMain subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil, her silver hair disheveled. The background is the ruins of a collapsed ancient Chinese building, under a grey sky with light rain falling.\nStory storyboard (0–15 seconds):\n0–5s — Close-up and struggle: Camera slowly pushes in on the woman's face in close-up. Her eyes are unfocused, tears mixing with rain as they slide down her cheeks, yet an eerie smile plays at the corner of her mouth — her expression twisting between anguish and madness.\n5–10s — Stumbling and shattering: Camera follows her footsteps as she staggers unsteadily through the ruins, the hem of her wedding gown sweeping over rubble and dead branches with a soft rustling sound.\n10–15s — Despair and descent: Wide-angle shot pulls back as she collapses into a sitting position amid the ruins, the red veil slipping off to reveal her pale face. She tilts her head back toward the grey sky, her laughter fading as tears continue to fall.\nStyle and atmosphere: Cinematic quality, dark gothic style, high contrast, striking red-and-black visual impact, oppressive, despairing, surrealist, 8K resolution, exquisite detail.\nNegative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/liluocheng13/status/2099327675244720565",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099327320666648576/img/IhX88LYqnukZgLDA.jpg",
+        "analysisUrl": "https://x.com/liluocheng13/status/2099327675244720565"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/liluocheng13/status/2099327675244720565",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099327320666636288/img/mvPPJS0jk3Pj_1cP.jpg",
+        "analysisUrl": "https://x.com/liluocheng13/status/2099327675244720565"
+      }
+    ],
+    "metrics": {
+      "likeCount": 35,
+      "repostCount": 4,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 461
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/liluocheng13/status/2099327675244720565",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099327320666648576/img/IhX88LYqnukZgLDA.jpg",
+  "coverPath": "covers/2099327675244720565.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099327320666648576",
+    "x-video:2099327320666636288",
+    "x-post:2099327675244720565"
+  ],
+  "analysis": {
+    "summary": "15秒暗黑哥特风分镜：身着破损红嫁衣的东方女子在古建筑废墟细雨中哭笑并绝望跌坐。",
+    "summaryEn": "A 15-second gothic storyboard depicting a disheveled bride in red stumbling and collapsing in ruins under light rain.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both video clips faithfully follow the three 5-second storyboard stages: facial close-up with unsettling smiling/tears, stumbling across ruins, and wide collapse while laughing."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Main subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil, her silver hair disheveled. The background is the ruins of a collapsed ancient Chinese building, under a grey sky with light rain falling.\nStory storyboard (0–15 seconds):\n0–5s — Close-up and struggle: Camera slowly pushes in on the woman's face in close-up. Her eyes are unfocused, tears mixing with rain as they slide down her cheeks, yet an eerie smile plays at the corner of her mouth — her expression twisting between anguish and madness.\n5–10s — Stumbling and shattering: Camera follows her footsteps as she staggers unsteadily through the ruins, the hem of her wedding gown sweeping over rubble and dead branches with a soft rustling sound.\n10–15s — Despair and descent: Wide-angle shot pulls back as she collapses into a sitting position amid the ruins, the red veil slipping off to reveal her pale face. She tilts her head back toward the grey sky, her laughter fading as tears continue to fall.\nStyle and atmosphere: Cinematic quality, dark gothic style, high contrast, striking red-and-black visual impact, oppressive, despairing, surrealist, 8K resolution, exquisite detail.\nNegative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.",
+    "sourceRange": {
+      "start": 486,
+      "end": 1860
+    },
+    "translations": {
+      "zh": "主体：废墟残垣与细雨灰天下，一位身着残破深红嫁衣与红盖头、银发凌乱且神情在痛苦与疯狂间撕裂的东方女子。包含0至15秒镜头分镜（推镜头特写面部、跟随踉跄步伐、广角拉出跌坐狂笑）及暗黑哥特高反差电影感风格设定与负向词。",
+      "en": "Main subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil amid Chinese building ruins in rain. Includes a 15-second storyboard (facial close-up push, tracking stumbling steps, wide pullback sitting and laughing) in a dark gothic cinematic style with negative prompts."
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "image-to-video",
+    "useCase": "Cinematic music video narrative clip",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
