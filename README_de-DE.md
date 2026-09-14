@@ -63,20 +63,26 @@ Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet si
 
 <a name="prompt-2099327675244720565"></a>
 
-### Übersetzung läuft
+### 15-sekündiges Storyboard im Dark-Gothic-Stil: Eine fernöstliche Frau in einem zerfetzten roten Brautkleid weint, lacht und bricht verzweifelt in antiken Gebäuderuinen im leichten Nieselregen zusammen.
 
 Autor：[@liluocheng13](https://x.com/liluocheng13) · [Originalbeitrag](https://x.com/liluocheng13/status/2099327675244720565)
 
 Comic / Storyboard · Kinematisch / Filmstill · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiges Storyboard im Dark-Gothic-Stil: Eine fernöstliche Frau in einem zerfetzten roten Brautkleid weint, lacht und bricht verzweifelt in antiken Gebäuderuinen im leichten Nieselregen zusammen.
 
 <img src="covers/2099327675244720565.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hauptmotiv: Eine unheimlich schöne fernöstliche Frau in einem zerfetzten karmesinroten Brautkleid und rotem Schleier, ihr silbernes Haar zerzaust. Der Hintergrund sind die Ruinen eines eingestürzten antiken chinesischen Gebäudes unter einem grauen Himmel bei leichtem Regen.
+Story-Storyboard (0–15 Sekunden):
+0–5s — Nahaufnahme und innerer Kampf: Die Kamera fährt in einer Nahaufnahme langsam an das Gesicht der Frau heran. Ihre Augen sind unruhig, Tränen vermischen sich mit dem Regen, während sie über ihre Wangen rinnen, doch ein unheimliches Lächeln umspielt ihren Mundwinkel – ihr Ausdruck schwankt zwischen Verzweiflung und Wahnsinn.
+5–10s — Stolpern und Zerbrechen: Die Kamera folgt ihren Schritten, wie sie unsicher durch die Ruinen taumelt, während der Saum ihres Brautkleides mit einem leisen Rascheln über Schutt und tote Äste streift.
+10–15s — Verzweiflung und Niedergang: Die Weitwinkelaufnahme zieht sich zurück, als sie inmitten der Ruinen in sich zusammensackt, während der rote Schleier herabgleitet und ihr blasses Gesicht enthüllt. Sie legt den Kopf in den Nacken zum grauen Himmel, ihr Lachen verblasst, während die Tränen weiter fließen.
+Stil und Atmosphäre: Filmische Qualität, düsterer Gothic-Stil, hoher Kontrast, markante visuelle Wirkung in Rot und Schwarz, beklemmend, verzweifelt, surrealistisch, 8K-Auflösung, exquisite Details.
+Negativ: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

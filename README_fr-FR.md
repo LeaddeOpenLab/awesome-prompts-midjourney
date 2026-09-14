@@ -63,20 +63,26 @@ L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se
 
 <a name="prompt-2099327675244720565"></a>
 
-### Traduction en cours
+### Story-board de 15 secondes au style gothique sombre : une femme orientale vêtue d'une robe de mariée rouge déchirée pleure, rit et s'effondre de désespoir dans les ruines d'un ancien bâtiment sous une pluie fine.
 
 Auteur：[@liluocheng13](https://x.com/liluocheng13) · [Publication originale](https://x.com/liluocheng13/status/2099327675244720565)
 
 Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Story-board de 15 secondes au style gothique sombre : une femme orientale vêtue d'une robe de mariée rouge déchirée pleure, rit et s'effondre de désespoir dans les ruines d'un ancien bâtiment sous une pluie fine.
 
 <img src="covers/2099327675244720565.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sujet principal : Une femme orientale à la beauté envoûtante vêtue d'une robe de mariée cramoisie en lambeaux et d'un voile rouge, ses cheveux argentés ébouriffés. En arrière-plan, les ruines d'un ancien bâtiment chinois effondré, sous un ciel gris avec une pluie fine qui tombe.
+Story-board narratif (0–15 secondes) :
+0–5s — Gros plan et tourment : La caméra avance lentement sur le visage de la femme en gros plan. Son regard est vague, les larmes se mêlent à la pluie en glissant sur ses joues, pourtant un sourire troublant se dessine au coin de ses lèvres — son expression oscillant entre angoisse et folie.
+5–10s — Trébuchement et brisement : La caméra suit ses pas alors qu'elle chancelle d'un pas mal assuré à travers les ruines, l'ourlet de sa robe de mariée balayant les décombres et les branches mortes dans un léger froissement.
+10–15s — Désespoir et effondrement : Le plan large recule alors qu'elle s'effondre en position assise au milieu des ruines, le voile rouge glissant pour dévoiler son visage pâle. Elle renverse la tête vers le ciel gris, son rire s'estompant tandis que les larmes continuent de couler.
+Style et atmosphère : Qualité cinématographique, style gothique sombre, contraste élevé, impact visuel saisissant en rouge et noir, oppressant, désespéré, surréaliste, résolution 8K, détails exquis.
+Négatif : Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
 ```
 
 [↑ Retour aux catégories](#catalog)

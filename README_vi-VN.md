@@ -63,20 +63,26 @@ Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi 
 
 <a name="prompt-2099327675244720565"></a>
 
-### Đang dịch
+### Bảng phân cảnh phong cách dark gothic 15 giây: Nàng thiếu nữ phương Đông trong bộ hỷ phục đỏ rách nát vừa khóc vừa cười và tuyệt vọng ngã quỵ giữa tàn tích kiến trúc cổ dưới mưa phùn.
 
 Tác giả：[@liluocheng13](https://x.com/liluocheng13) · [Bài gốc](https://x.com/liluocheng13/status/2099327675244720565)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bảng phân cảnh phong cách dark gothic 15 giây: Nàng thiếu nữ phương Đông trong bộ hỷ phục đỏ rách nát vừa khóc vừa cười và tuyệt vọng ngã quỵ giữa tàn tích kiến trúc cổ dưới mưa phùn.
 
 <img src="covers/2099327675244720565.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ thể chính: Một người phụ nữ phương Đông đẹp ma mị trong bộ váy cưới màu đỏ thẫm rách rưới cùng khăn trùm đầu màu đỏ, mái tóc bạc rối bời. Bối cảnh là tàn tích của một tòa kiến trúc Trung hoa cổ đại đổ nát, dưới bầu trời xám xịt với làn mưa phùn rơi lất phất.
+Bảng phân cảnh câu chuyện (0–15 giây):
+0–5 giây — Cận cảnh và giằng xé: Máy quay từ từ tiến sát vào gương mặt người phụ nữ ở góc cận cảnh. Đôi mắt nàng vô hồn, nước mắt hòa cùng nước mưa lăn dài trên má, nhưng nơi khóe miệng lại nở một nụ cười ma quái — biểu cảm vặn vẹo giữa nỗi thống khổ và điên loạn.
+5–10 giây — Lảo đảo và tan vỡ: Máy quay dõi theo từng bước chân khi nàng loạng choạng bước đi không vững giữa đống đổ nát, tà váy cưới quét qua gạch đá vụn và cành cây khô phát ra tiếng sột soạt khẽ khàng.
+10–15 giây — Tuyệt vọng và lụi tàn: Góc máy rộng lùi dần ra xa khi nàng sụp đổ ngồi bệt xuống giữa tàn tích, chiếc khăn trùm đầu màu đỏ tuột rơi để lộ gương mặt nhợt nhạt. Nàng ngửa đầu lên nhìn bầu trời xám xịt, tiếng cười dần tắt lịm trong khi nước mắt vẫn không ngừng tuôn rơi.
+Phong cách và bầu không khí: Chất lượng điện ảnh, phong cách gothic đen tối, độ tương phản cao, tác động thị giác đỏ-đen nổi bật, ngột ngạt, tuyệt vọng, siêu thực, độ phân giải 8K, chi tiết tinh xảo.
+Phủ định (Negative): Chất lượng thấp, giật lag, biến dạng khuôn mặt/cơ thể, quá sáng, quá nhiều máu me, chuyển động đơ cứng, hình mờ, tư thế chữ T, bảng màu sáng, kỹ xảo hào nhoáng, góc máy cứng nhắc, thiếu tốc độ/mờ nhòe chuyển động, cảnh tiêu diệt yếu ớt.
 ```
 
 [↑ Về danh mục](#catalog)

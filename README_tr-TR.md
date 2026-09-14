@@ -63,20 +63,26 @@ Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından
 
 <a name="prompt-2099327675244720565"></a>
 
-### Çeviri sürüyor
+### 15 saniyelik karanlık gotik görsel senaryo: Yırtık kırmızı gelinlik içindeki Doğulu bir kadın, çiseleyen yağmur altında antik bina kalıntılarında ağlayıp gülerek çaresizlik içinde yere yığılır.
 
 Yazar：[@liluocheng13](https://x.com/liluocheng13) · [Orijinal gönderi](https://x.com/liluocheng13/status/2099327675244720565)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 15 saniyelik karanlık gotik görsel senaryo: Yırtık kırmızı gelinlik içindeki Doğulu bir kadın, çiseleyen yağmur altında antik bina kalıntılarında ağlayıp gülerek çaresizlik içinde yere yığılır.
 
 <img src="covers/2099327675244720565.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ana özne: Dağınık gümüş rengi saçları, yırtık pırtık kızıla çalan kırmızı gelinliği ve kırmızı duvağıyla tekinsiz bir güzelliğe sahip Doğulu bir kadın. Arka planda, hafif yağmurun yağdığı gri bir gökyüzü altında yıkılmış antik bir Çin binasının kalıntıları yer alıyor.
+Hikaye görsel senaryosu (0–15 saniye):
+0–5 sn — Yakın çekim ve mücadele: Kamera yakın çekimde yavaşça kadının yüzüne doğru yaklaşır. Bakışları odaksızdır, yanaklarından süzülen gözyaşları yağmura karışır, ancak dudaklarının kenarında tekinsiz bir gülümseme belirir — ifadesi acı ile delilik arasında gidip gelir.
+5–10 sn — Tökezleme ve parçalanma: Yıkıntılar arasında dengesizce sendelerken kamera adımlarını takip eder; gelinliğinin etekleri hafif bir hışırtıyla molozların ve kuru dalların üzerinden sürüklenir.
+10–15 sn — Çaresizlik ve çöküş: Kadın yıkıntıların arasına diz çöküp oturur vaziyette çökerken geniş açılı çekim geri çekilir; kırmızı duvak kayarak solgun yüzünü ortaya çıkarır. Başını gri gökyüzüne doğru geriye eğer, gözyaşları akmaya devam ederken kahkahası yavaşça söner.
+Tarz ve atmosfer: Sinematik kalite, karanlık gotik tarz, yüksek kontrast, çarpıcı kırmızı ve siyah görsel etki, kasvetli, umutsuz, sürrealist, 8K çözünürlük, kusursuz ayrıntılar.
+Olumsuz: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
 ```
 
 [↑ Kategorilere dön](#catalog)

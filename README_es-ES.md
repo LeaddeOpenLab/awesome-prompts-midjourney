@@ -63,20 +63,26 @@ La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve t
 
 <a name="prompt-2099327675244720565"></a>
 
-### Traducción en curso
+### Storyboard gótico oscuro de 15 segundos: mujer oriental con vestido de novia rojo desgarrado llora, ríe y cae sentada en desesperación entre ruinas antiguas bajo una fina lluvia.
 
 Autor：[@liluocheng13](https://x.com/liluocheng13) · [Publicación original](https://x.com/liluocheng13/status/2099327675244720565)
 
 Cómic / Guion gráfico · Cine / Fotograma de película · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Storyboard gótico oscuro de 15 segundos: mujer oriental con vestido de novia rojo desgarrado llora, ríe y cae sentada en desesperación entre ruinas antiguas bajo una fina lluvia.
 
 <img src="covers/2099327675244720565.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sujeto principal: Una mujer oriental de una belleza inquietante con un vestido de novia carmesí desgarrado y un velo rojo, con su cabello plateado despeinado. El fondo son las ruinas de un edificio antiguo chino derrumbado, bajo un cielo gris con una ligera llovizna cayendo.
+Guion gráfico narrativo (0–15 segundos):
+0–5s — Primer plano y lucha: La cámara se acerca lentamente al rostro de la mujer en un primer plano. Sus ojos están desenfocados, las lágrimas se mezclan con la lluvia mientras resbalan por sus mejillas, pero una sonrisa espeluznante se dibuja en la comisura de sus labios; su expresión se retuerce entre la angustia y la locura.
+5–10s — Tropezón y quebranto: La cámara sigue sus pasos mientras se tambalea insegura a través de las ruinas, el dobladillo de su vestido de novia barre los escombros y las ramas secas con un suave susurro.
+10–15s — Desesperación y caída: El plano general se abre hacia atrás mientras ella se desploma sentada en medio de las ruinas, deslizándose el velo rojo para revelar su rostro pálido. Inclina la cabeza hacia atrás mirando al cielo gris, su risa se apaga mientras las lágrimas continúan cayendo.
+Estilo y atmósfera: Calidad cinematográfica, estilo gótico oscuro, alto contraste, impactante efecto visual en rojo y negro, opresivo, desesperanzador, surrealista, resolución 8K, detalles exquisitos.
+Negativo: Baja calidad, tirones, deformación de rostro/cuerpo, brillo excesivo, gore excesivo, movimiento rígido, marca de agua, postura en T, paleta brillante, efectos visuales llamativos, cámara rígida, falta de velocidad/desenfoque, remates débiles.
 ```
 
 [↑ Volver a categorías](#catalog)

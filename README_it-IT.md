@@ -63,20 +63,26 @@ La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si v
 
 <a name="prompt-2099327675244720565"></a>
 
-### Traduzione in corso
+### Storyboard in stile dark gothic di 15 secondi: una donna orientale in un abito da sposa rosso strappato piange, ride e crolla a terra disperata tra le rovine di un antico edificio sotto una leggera pioggia.
 
 Autore：[@liluocheng13](https://x.com/liluocheng13) · [Post originale](https://x.com/liluocheng13/status/2099327675244720565)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Storyboard in stile dark gothic di 15 secondi: una donna orientale in un abito da sposa rosso strappato piange, ride e crolla a terra disperata tra le rovine di un antico edificio sotto una leggera pioggia.
 
 <img src="covers/2099327675244720565.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Soggetto principale: Una donna orientale dalla bellezza inquietante con un abito da sposa cremisi a brandelli e un velo rosso, i suoi capelli argentei spettinati. Lo sfondo è costituito dalle rovine di un antico edificio cinese crollato, sotto un cielo grigio con una leggera pioggia che cade.
+Storyboard narrativo (0–15 secondi):
+0–5s — Primo piano e tormento: La telecamera si avvicina lentamente al volto della donna in primo piano. I suoi occhi sono persi nel vuoto, le lacrime si mescolano alla pioggia scivolando lungo le guance, eppure un sorriso inquietante aleggia all'angolo della bocca — la sua espressione è contorta tra angoscia e follia.
+5–10s — Inciampo e frantumazione: La telecamera segue i suoi passi mentre incespica insicura tra le rovine, con l'orlo del suo abito da sposa che sfiora macerie e rami secchi con un fruscio sommesso.
+10–15s — Disperazione e rovina: L'inquadratura a grandangolo si allontana mentre lei crolla a terra seduta tra le rovine, con il velo rosso che scivola via rivelando il suo viso pallido. Reclina la testa all'indietro verso il cielo grigio, la sua risata si spegne mentre le lacrime continuano a scorrere.
+Stile e atmosfera: Qualità cinematografica, stile gotico oscuro, contrasto elevato, impatto visivo sorprendente in rosso e nero, oppressivo, disperato, surrealista, risoluzione 8K, dettagli squisiti.
+Negativo: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
 ```
 
 [↑ Torna alle categorie](#catalog)
