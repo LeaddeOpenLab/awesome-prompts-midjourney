@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T20:17:31.610Z",
+  "model": "midjourney",
+  "prompt": "September --ar 16:9 --sref 3063123838 538684311 4236559069",
+  "promptTranslations": {
+    "en": "September --ar 16:9 --sref 3063123838 538684311 4236559069"
+  },
+  "summaryTranslations": {
+    "en": "September --ar 16:9 --sref 3063123838 538684311 4236559069"
+  },
+  "translationVersion": 2,
+  "summary": "September --ar 16:9 --sref 3063123838 538684311 4236559069",
+  "summaryEn": "September --ar 16:9 --sref 3063123838 538684311 4236559069",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099543459707392043",
+    "canonicalUrl": "https://x.com/airina_xyz/status/2099543459707392043",
+    "author": {
+      "username": "airina_xyz",
+      "displayName": "AIrina (Virtual Media Net)",
+      "profileUrl": "https://x.com/airina_xyz"
+    },
+    "publishedAt": "2026-09-14T16:59:03.000Z",
+    "collectedAt": "2026-09-14T20:16:41.527Z",
+    "language": "fr",
+    "originalText": "Midjourney prompt:\n\nSeptember --ar 16:9 --sref 3063123838 538684311 4236559069 https://t.co/UY32bKRyuj",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMTpj8bMAA40Gx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMTpj8bMAA40Gx.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 42
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/airina_xyz/status/2099543459707392043",
+  "coverUrl": "https://pbs.twimg.com/media/HSMTpj8bMAA40Gx.jpg",
+  "coverPath": "images/2099543459707392043-1.jpg",
+  "imagePaths": [
+    "images/2099543459707392043-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSMTpj8bMAA40Gx",
+    "x-post:2099543459707392043"
+  ],
+  "analysis": {
+    "summary": "September --ar 16:9 --sref 3063123838 538684311 4236559069",
+    "summaryEn": "September --ar 16:9 --sref 3063123838 538684311 4236559069",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match stylized 'September' illustration theme with sref aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "September --ar 16:9 --sref 3063123838 538684311 4236559069",
+    "sourceRange": {
+      "start": 20,
+      "end": 78
+    },
+    "translations": {
+      "zh": "九月 --ar 16:9 --sref 3063123838 538684311 4236559069",
+      "en": "September --ar 16:9 --sref 3063123838 538684311 4236559069"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "Illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
