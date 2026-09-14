@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-14**
+**12** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -184,6 +184,28 @@ anime masterpiece, dynamic action shot, 2 Chinese goddess sisters, voluptuous cu
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099543459707392043"></a>
+
+### September --ar 16:9 --sref 3063123838 538684311 4236559069
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2099543459707392043)
+
+Illustration · Published
+
+**Summary:** September --ar 16:9 --sref 3063123838 538684311 4236559069
+
+<img src="images/2099543459707392043-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 3063123838 538684311 4236559069
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099188369188372625"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**11** Prompt · Son eklenen: **2026-09-14**
+**12** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -194,6 +194,28 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
+
+<a name="prompt-2099543459707392043"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2099543459707392043)
+
+İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099543459707392043-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099188369188372625"></a>
 
