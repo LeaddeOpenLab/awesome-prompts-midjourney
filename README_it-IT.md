@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**9** Prompt · Ultima aggiunta: **2026-09-13**
+**10** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si v
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2099327675244720565"></a>
+
+### Traduzione in corso
+
+Autore：[@liluocheng13](https://x.com/liluocheng13) · [Post originale](https://x.com/liluocheng13/status/2099327675244720565)
+
+Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099327675244720565.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099114753662861645"></a>
 

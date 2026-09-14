@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**9** Prompt · Son eklenen: **2026-09-13**
+**10** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2099327675244720565"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@liluocheng13](https://x.com/liluocheng13) · [Orijinal gönderi](https://x.com/liluocheng13/status/2099327675244720565)
+
+Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099327675244720565.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099114753662861645"></a>
 

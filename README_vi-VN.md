@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**9** Prompt · Bổ sung mới nhất: **2026-09-13**
+**10** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi 
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2099327675244720565"></a>
+
+### Đang dịch
+
+Tác giả：[@liluocheng13](https://x.com/liluocheng13) · [Bài gốc](https://x.com/liluocheng13/status/2099327675244720565)
+
+Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099327675244720565.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099114753662861645"></a>
 

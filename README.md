@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-13**
+**10** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ The female protagonist turns her head to look at the camera, gives a gentle smil
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099327675244720565"></a>
+
+### 15-second dark gothic storyboard: An Eastern woman in a tattered red wedding dress cries, laughs, and collapses in despair amid ancient architectural ruins in the drizzle.
+
+Author：[@liluocheng13](https://x.com/liluocheng13) · [Source](https://x.com/liluocheng13/status/2099327675244720565)
+
+Comic / Storyboard · Cinematic / Film Still · Architecture / Interior · Published
+
+**Summary:** 15-second dark gothic storyboard: An Eastern woman in a tattered red wedding dress cries, laughs, and collapses in despair amid ancient architectural ruins in the drizzle.
+
+<img src="covers/2099327675244720565.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Main subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil, her silver hair disheveled. The background is the ruins of a collapsed ancient Chinese building, under a grey sky with light rain falling.\nStory storyboard (0–15 seconds):\n0–5s — Close-up and struggle: Camera slowly pushes in on the woman's face in close-up. Her eyes are unfocused, tears mixing with rain as they slide down her cheeks, yet an eerie smile plays at the corner of her mouth — her expression twisting between anguish and madness.\n5–10s — Stumbling and shattering: Camera follows her footsteps as she staggers unsteadily through the ruins, the hem of her wedding gown sweeping over rubble and dead branches with a soft rustling sound.\n10–15s — Despair and descent: Wide-angle shot pulls back as she collapses into a sitting position amid the ruins, the red veil slipping off to reveal her pale face. She tilts her head back toward the grey sky, her laughter fading as tears continue to fall.\nStyle and atmosphere: Cinematic quality, dark gothic style, high contrast, striking red-and-black visual impact, oppressive, despairing, surrealist, 8K resolution, exquisite detail.\nNegative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099114753662861645"></a>
 

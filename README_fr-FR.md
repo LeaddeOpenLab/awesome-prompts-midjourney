@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**9** Prompts · Dernier ajout: **2026-09-13**
+**10** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -60,6 +60,28 @@ L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099327675244720565"></a>
+
+### Traduction en cours
+
+Auteur：[@liluocheng13](https://x.com/liluocheng13) · [Publication originale](https://x.com/liluocheng13/status/2099327675244720565)
+
+Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099327675244720565.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099114753662861645"></a>
 
