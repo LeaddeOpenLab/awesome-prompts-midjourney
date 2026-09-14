@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:27:07.935Z",
+  "model": "midjourney",
+  "prompt": "一镜到底，镜头推进，镜头环绕，风吹过来，衣服飘动，云雾翻腾，一条巨大的粒子效果的鲸鱼从云雾中跃出，然后又潜入云海，镜头掠过鲸鱼，最后定格在宫殿特写上",
+  "promptTranslations": {
+    "en": "One-shot sequence, the camera pushes in, orbital camera movement, wind blows over, clothes fluttering, clouds churning, a massive particle-effect whale leaps out from the clouds and mist, then dives back into the sea of clouds, the camera sweeps past the whale, and finally freezes on a close-up of the palace"
+  },
+  "summaryTranslations": {
+    "en": "One-shot sequence prompt of a particle giant whale leaping before a sea of clouds fairy palace and camera movement closing up on the palace."
+  },
+  "translationVersion": 2,
+  "summary": "云海仙宫前粒子巨鲸跃出并运镜特写宫殿的一镜到底提示词。",
+  "summaryEn": "A one-take prompt featuring a particle whale leaping from clouds before a celestial palace.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099521272413909034",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2099521272413909034",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-14T15:30:53.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "zh",
+    "originalText": "太震撼了！\n巨大的鲸鱼从云雾里跃出，又潜入云海\n巍峨的山峦，高大的宫殿，神仙在古松峭壁之间\n太阳升起，光芒照亮天庭\nH3终端生成的视频充满浓厚的东方神秘氛围\n\nprompt 视频提示词如下：\n\n一镜到底，镜头推进，镜头环绕，风吹过来，衣服飘动，云雾翻腾，一条巨大的粒子效果的鲸鱼从云雾中跃出，然后又潜入云海，镜头掠过鲸鱼，最后定格在宫殿特写上\n\nMJ 生图提示词：",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2099521272413909034",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099520888114958337/img/_0lPXco_rQize1R-.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2099521272413909034"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 263
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2099521272413909034",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099520888114958337/img/_0lPXco_rQize1R-.jpg",
+  "coverPath": "covers/2099521272413909034.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099520888114958337",
+    "x-post:2099521272413909034"
+  ],
+  "analysis": {
+    "summary": "云海仙宫前粒子巨鲸跃出并运镜特写宫殿的一镜到底提示词。",
+    "summaryEn": "A one-take prompt featuring a particle whale leaping from clouds before a celestial palace.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频动态精准呈现了运镜环绕推进、粒子巨鲸腾跃云海及最后定格在宫殿的完整过程。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "一镜到底，镜头推进，镜头环绕，风吹过来，衣服飘动，云雾翻腾，一条巨大的粒子效果的鲸鱼从云雾中跃出，然后又潜入云海，镜头掠过鲸鱼，最后定格在宫殿特写上",
+    "sourceRange": {
+      "start": 97,
+      "end": 171
+    },
+    "translations": {
+      "zh": "一镜到底，镜头推进，镜头环绕，风吹过来，衣服飘动，云雾翻腾，一条巨大的粒子效果的鲸鱼从云雾中跃出，然后又潜入云海，镜头掠过鲸鱼，最后定格在宫殿特写上",
+      "en": "One-take shot, camera pushes forward and orbits, wind blowing, clothes fluttering, churning clouds. A gigantic particle-effect whale leaps from the clouds and dives back into the cloud sea, with the camera sweeping past the whale to settle on a palace close-up."
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "image-to-video",
+    "useCase": "东方玄幻仙境巨鲸跃云动画运镜",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
