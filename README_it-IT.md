@@ -197,20 +197,20 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 
 <a name="prompt-2099543459707392043"></a>
 
-### Traduzione in corso
+### Settembre --ar 16:9 --sref 3063123838 538684311 4236559069
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2099543459707392043)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Settembre --ar 16:9 --sref 3063123838 538684311 4236559069
 
 <img src="images/2099543459707392043-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 3063123838 538684311 4236559069
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -197,20 +197,20 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 
 <a name="prompt-2099543459707392043"></a>
 
-### Đang dịch
+### Tháng Chín --ar 16:9 --sref 3063123838 538684311 4236559069
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2099543459707392043)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tháng Chín --ar 16:9 --sref 3063123838 538684311 4236559069
 
 <img src="images/2099543459707392043-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 3063123838 538684311 4236559069
 ```
 
 [↑ Về danh mục](#catalog)
