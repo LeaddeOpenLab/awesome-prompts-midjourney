@@ -245,20 +245,20 @@ Setembro --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Tradução em andamento
+### Prompt de plano-sequência de uma baleia gigante de partículas saltando diante de um palácio celestial em um mar de nuvens com movimento de câmera em close do palácio.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2099521272413909034)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de plano-sequência de uma baleia gigante de partículas saltando diante de um palácio celestial em um mar de nuvens com movimento de câmera em close do palácio.
 
 <img src="covers/2099521272413909034.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Plano-sequência contínuo, a câmera avança, a câmera orbita ao redor, o vento sopra, as roupas esvoaçam, nuvens e névoa se agitam, uma baleia gigante com efeito de partículas salta para fora da névoa e depois mergulha novamente no mar de nuvens, a câmera passa raspando pela baleia e finalmente congela em um close do palácio
 ```
 
 [↑ Voltar às categorias](#catalog)

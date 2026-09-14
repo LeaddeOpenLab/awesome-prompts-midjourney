@@ -245,20 +245,20 @@ Tháng Chín --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Đang dịch
+### Từ khóa một cú máy liên tục về cá voi hạt khổng lồ nhảy vọt trước tiên cung giữa biển mây và chuyển động máy quay cận cảnh cung điện.
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2099521272413909034)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Từ khóa một cú máy liên tục về cá voi hạt khổng lồ nhảy vọt trước tiên cung giữa biển mây và chuyển động máy quay cận cảnh cung điện.
 
 <img src="covers/2099521272413909034.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một cú máy liên tục không cắt (one-shot), máy quay tiến lại gần, máy quay xoay vòng quanh, gió thổi qua, vạt áo tung bay, mây mù cuồn cuộn, một con cá voi khổng lồ hiệu ứng hạt (particle effect) nhảy vọt ra từ làn mây rồi lại lặn sâu vào biển mây, máy quay lướt qua con cá voi, cuối cùng dừng lại ở cảnh cận cảnh cung điện
 ```
 
 [↑ Về danh mục](#catalog)

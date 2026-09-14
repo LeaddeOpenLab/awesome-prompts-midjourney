@@ -245,20 +245,20 @@ September --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Übersetzung läuft
+### One-Shot-Prompt mit einem riesigen Partikelwal, der vor einem Himmelspalast aus dem Wolkenmeer springt, mit Kamerafahrt zur Nahaufnahme des Palastes.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2099521272413909034)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** One-Shot-Prompt mit einem riesigen Partikelwal, der vor einem Himmelspalast aus dem Wolkenmeer springt, mit Kamerafahrt zur Nahaufnahme des Palastes.
 
 <img src="covers/2099521272413909034.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+One-Shot, Kamera fährt vor, Kamera umkreist, Wind weht, Kleidung flattert, Wolken und Nebel wogen, ein riesiger Wal mit Partikeleffekt springt aus dem Nebel empor und taucht dann wieder in das Wolkenmeer ein, die Kamera gleitet am Wal vorbei und friert schließlich in einer Nahaufnahme des Palastes ein
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -245,20 +245,20 @@ Eylül --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Çeviri sürüyor
+### Bulut denizi göksel sarayının önünde parçacık dev balinanın sıçradığı ve kamera hareketiyle sarayın yakın çekimine odaklanan tek çekim komutu.
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2099521272413909034)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bulut denizi göksel sarayının önünde parçacık dev balinanın sıçradığı ve kamera hareketiyle sarayın yakın çekimine odaklanan tek çekim komutu.
 
 <img src="covers/2099521272413909034.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tek çekim (one-shot), kamera ileriye doğru hareket ediyor, kamera etrafta dönüyor, rüzgar esiyor, kıyafetler dalgalanıyor, bulutlar ve sisler kabarıp dalgalanıyor, parçacık efektli devasa bir balina sisin içinden sıçrayıp ardından tekrar bulut denizine dalıyor, kamera balinanın yanından süzülüp geçiyor ve sonunda sarayın yakın çekiminde sabitleniyor
 ```
 
 [↑ Kategorilere dön](#catalog)

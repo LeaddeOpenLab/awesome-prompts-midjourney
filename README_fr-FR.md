@@ -245,20 +245,20 @@ Septembre --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Traduction en cours
+### Prompt en plan-séquence d'une baleine géante de particules sautant devant un palais céleste dans une mer de nuages avec travelling vers un gros plan du palais.
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2099521272413909034)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt en plan-séquence d'une baleine géante de particules sautant devant un palais céleste dans une mer de nuages avec travelling vers un gros plan du palais.
 
 <img src="covers/2099521272413909034.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Plan-séquence, la caméra avance, la caméra tourne autour, le vent souffle, les vêtements flottent, les nuages et la brume tourbillonnent, une baleine géante à effet de particules bondit hors de la brume puis plonge à nouveau dans la mer de nuages, la caméra frôle la baleine et se fige finalement sur un gros plan du palais
 ```
 
 [↑ Retour aux catégories](#catalog)

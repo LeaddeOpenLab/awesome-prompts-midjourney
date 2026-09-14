@@ -245,20 +245,20 @@ Settembre --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Traduzione in corso
+### Prompt in piano sequenza continuo di una balena gigante particellare che salta davanti a un palazzo celeste nel mare di nuvole con movimento di camera e primo piano del palazzo.
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2099521272413909034)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt in piano sequenza continuo di una balena gigante particellare che salta davanti a un palazzo celeste nel mare di nuvole con movimento di camera e primo piano del palazzo.
 
 <img src="covers/2099521272413909034.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Piano sequenza continuo, la telecamera avanza, la telecamera compie una rotazione orbitale, soffia il vento, i vestiti fluttuano, nubi e nebbia si agitano vorticosamente, una gigantesca balena con effetto particellare balza fuori dalla nebbia per poi reimmergersi nel mare di nuvole, la telecamera sfiora la balena e infine si fissa su un primo piano del palazzo
 ```
 
 [↑ Torna alle categorie](#catalog)

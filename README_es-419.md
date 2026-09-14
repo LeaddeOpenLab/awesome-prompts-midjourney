@@ -245,20 +245,20 @@ Septiembre --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2099521272413909034"></a>
 
-### Traducción en curso
+### Prompt de plano secuencia de una ballena gigante de partículas saltando frente a un palacio celestial en un mar de nubes y movimiento de cámara a primer plano del palacio.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2099521272413909034)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de plano secuencia de una ballena gigante de partículas saltando frente a un palacio celestial en un mar de nubes y movimiento de cámara a primer plano del palacio.
 
 <img src="covers/2099521272413909034.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Plano secuencia continuo, la cámara avanza, la cámara se mueve alrededor, sopla el viento, la ropa ondea, las nubes y la niebla se agitan, una ballena gigante con efecto de partículas salta de entre la niebla y luego se sumerge de nuevo en el mar de nubes, la cámara pasa rozando a la ballena y finalmente se detiene en un primer plano del palacio
 ```
 
 [↑ Volver a categorías](#catalog)
