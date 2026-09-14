@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**10** Prompt · Son eklenen: **2026-09-14**
+**11** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -242,6 +242,28 @@ Eylül --ar 16:9 --sref 153692563 1979431158 2653758855
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099521272413909034"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2099521272413909034)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099521272413909034.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097086370301042925"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**10** Prompts · Última adição: **2026-09-14**
+**11** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -242,6 +242,28 @@ Setembro --ar 16:9 --sref 153692563 1979431158 2653758855
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099521272413909034"></a>
+
+### Tradução em andamento
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2099521272413909034)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099521272413909034.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097086370301042925"></a>
 

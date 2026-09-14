@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**10** Prompts · Latest addition: **2026-09-14**
+**11** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -232,6 +232,28 @@ September --ar 16:9 --sref 153692563 1979431158 2653758855
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099521272413909034"></a>
+
+### One-shot sequence prompt of a particle giant whale leaping before a sea of clouds fairy palace and camera movement closing up on the palace.
+
+Author：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2099521272413909034)
+
+Other · Published
+
+**Summary:** One-shot sequence prompt of a particle giant whale leaping before a sea of clouds fairy palace and camera movement closing up on the palace.
+
+<img src="covers/2099521272413909034.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+One-shot sequence, the camera pushes in, orbital camera movement, wind blows over, clothes fluttering, clouds churning, a massive particle-effect whale leaps out from the clouds and mist, then dives back into the sea of clouds, the camera sweeps past the whale, and finally freezes on a close-up of the palace
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097086370301042925"></a>
 
