@@ -197,20 +197,20 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 
 <a name="prompt-2100269243774435679"></a>
 
-### Đang dịch
+### Lời nhắc minh họa Midjourney theo chủ đề tháng 9 có kèm tham chiếu phong cách.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2100269243774435679)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc minh họa Midjourney theo chủ đề tháng 9 có kèm tham chiếu phong cách.
 
 <img src="images/2100269243774435679-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng 9 --ar 16:9 --sref 1095039279 3527724752 2108669540
 ```
 
 [↑ Về danh mục](#catalog)

@@ -197,20 +197,20 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 
 <a name="prompt-2100269243774435679"></a>
 
-### Çeviri sürüyor
+### Stil referansları içeren Eylül temalı Midjourney illüstrasyon istemi.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2100269243774435679)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Stil referansları içeren Eylül temalı Midjourney illüstrasyon istemi.
 
 <img src="images/2100269243774435679-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 1095039279 3527724752 2108669540
 ```
 
 [↑ Kategorilere dön](#catalog)

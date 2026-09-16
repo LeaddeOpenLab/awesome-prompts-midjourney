@@ -197,20 +197,20 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2100269243774435679"></a>
 
-### 翻譯中
+### 帶有風格參考的九月主題 Midjourney 插圖提示詞。
 
 作者：[@airina\_xyz](https://x.com/airina_xyz) · [查看 X 原帖](https://x.com/airina_xyz/status/2100269243774435679)
 
 插圖 · 已推流
 
-**概括:** 翻譯中
+**概括:** 帶有風格參考的九月主題 Midjourney 插圖提示詞。
 
 <img src="images/2100269243774435679-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+九月 --ar 16:9 --sref 1095039279 3527724752 2108669540
 ```
 
 [↑ 返回分類目錄](#catalog)

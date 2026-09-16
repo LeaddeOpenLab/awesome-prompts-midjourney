@@ -197,20 +197,20 @@ obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuer
 
 <a name="prompt-2100269243774435679"></a>
 
-### Traducción en curso
+### Prompt de ilustración de Midjourney con temática de septiembre y referencias de estilo.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2100269243774435679)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de ilustración de Midjourney con temática de septiembre y referencias de estilo.
 
 <img src="images/2100269243774435679-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Septiembre --ar 16:9 --sref 1095039279 3527724752 2108669540
 ```
 
 [↑ Volver a categorías](#catalog)
