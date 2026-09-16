@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**12** Prompt · Ultima aggiunta: **2026-09-14**
+**13** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -194,6 +194,28 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 <a name="category-illustration"></a>
 
 ## Illustrazione
+
+<a name="prompt-2100269243774435679"></a>
+
+### Traduzione in corso
+
+Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2100269243774435679)
+
+Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100269243774435679-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099543459707392043"></a>
 
