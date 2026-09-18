@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**14** Prompts · Última adição: **2026-09-18**
+**15** Prompts · Última adição: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Quadrinhos / Graphic Novel](#category-comic-graphic-novel) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Ilustração · Publicado
 
 ```text
 Setembro --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Quadrinhos / Graphic Novel
+
+<a name="prompt-2100931328422396328"></a>
+
+### Tradução em andamento
+
+Autor：[@iX00AI2](https://x.com/iX00AI2) · [Publicação original](https://x.com/iX00AI2/status/2100931328422396328)
+
+Quadrinhos / Graphic Novel · Personagem · Publicado
+
+Publicação original：[@SREFCLUB](https://x.com/SREFCLUB) · [Publicação original](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100931328422396328.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

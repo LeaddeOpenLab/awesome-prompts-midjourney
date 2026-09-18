@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**14** 筆內容 · 最新收錄: **2026-09-18**
+**15** 筆內容 · 最新收錄: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [漫畫 / 圖像小說](#category-comic-graphic-novel) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 九月 --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## 漫畫 / 圖像小說
+
+<a name="prompt-2100931328422396328"></a>
+
+### 翻譯中
+
+作者：[@iX00AI2](https://x.com/iX00AI2) · [查看 X 原帖](https://x.com/iX00AI2/status/2100931328422396328)
+
+漫畫 / 圖像小說 · 角色 · 已推流
+
+查看 X 原帖：[@SREFCLUB](https://x.com/SREFCLUB) · [查看 X 原帖](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**概括:** 翻譯中
+
+<img src="covers/2100931328422396328.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

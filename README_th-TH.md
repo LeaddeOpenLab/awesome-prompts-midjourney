@@ -19,13 +19,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**14** รายการ · เพิ่มล่าสุด: **2026-09-18**
+**15** รายการ · เพิ่มล่าสุด: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [อนิเมะ / มังงะ](#category-anime-manga) · [ภาพประกอบ](#category-illustration) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [อนิเมะ / มังงะ](#category-anime-manga) · [ภาพประกอบ](#category-illustration) · [การ์ตูน / นิยายภาพ](#category-comic-graphic-novel) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ```text
 กันยายน --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## การ์ตูน / นิยายภาพ
+
+<a name="prompt-2100931328422396328"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@iX00AI2](https://x.com/iX00AI2) · [โพสต์ต้นฉบับ](https://x.com/iX00AI2/status/2100931328422396328)
+
+การ์ตูน / นิยายภาพ · ตัวละคร · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@SREFCLUB](https://x.com/SREFCLUB) · [โพสต์ต้นฉบับ](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2100931328422396328.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

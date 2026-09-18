@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**14** Prompts · Zuletzt hinzugefügt: **2026-09-18**
+**15** Prompts · Zuletzt hinzugefügt: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Illustration · Veröffentlicht
 
 ```text
 September --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Comic / Graphic Novel
+
+<a name="prompt-2100931328422396328"></a>
+
+### Übersetzung läuft
+
+Autor：[@iX00AI2](https://x.com/iX00AI2) · [Originalbeitrag](https://x.com/iX00AI2/status/2100931328422396328)
+
+Comic / Graphic Novel · Charakter · Veröffentlicht
+
+Originalbeitrag：[@SREFCLUB](https://x.com/SREFCLUB) · [Originalbeitrag](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100931328422396328.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

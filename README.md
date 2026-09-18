@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**14** Prompts · Latest addition: **2026-09-18**
+**15** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -267,6 +267,34 @@ Illustration · Published
 
 ```text
 September --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Comic / Graphic Novel
+
+<a name="prompt-2100931328422396328"></a>
+
+### Generate an American comic graffiti style character using a specific sref style code.
+
+Author：[@iX00AI2](https://x.com/iX00AI2) · [Source](https://x.com/iX00AI2/status/2100931328422396328)
+
+Comic / Graphic Novel · Character · Published
+
+Source：[@SREFCLUB](https://x.com/SREFCLUB) · [Source](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**Summary:** Generate an American comic graffiti style character using a specific sref style code.
+
+<img src="covers/2100931328422396328.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Character --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Back to categories](#catalog)

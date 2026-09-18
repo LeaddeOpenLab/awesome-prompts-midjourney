@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T16:48:32.898Z",
+  "model": "midjourney",
+  "prompt": "Character --ar 3:4 --p --sref 2463148926",
+  "promptTranslations": {
+    "en": "Character --ar 3:4 --p --sref 2463148926"
+  },
+  "summaryTranslations": {
+    "en": "Generate an American comic graffiti style character using a specific sref style code."
+  },
+  "translationVersion": 2,
+  "summary": "使用特定 sref 样式代码生成美漫涂鸦风角色。",
+  "summaryEn": "Generates a comic graffiti-style character using a specific sref code.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100890349929464237",
+      "canonicalUrl": "https://x.com/SREFCLUB/status/2100890349929464237",
+      "author": {
+        "username": "SREFCLUB",
+        "displayName": "SREF CLUB",
+        "profileUrl": "https://x.com/SREFCLUB"
+      },
+      "originalText": "【sref code drop】 --sref 2463148926\n✨New V8.x sref 🌞今日のシェア\n🐾ブックマークして試してみて🐾\n\n太い主線と極彩色のネオンカラーが弾ける、アメコミ・グラフィティ調イラストSREF。画面を埋め尽くす高密度なトイポップ世界が魅力です。デフォルメされたSDキャラやポップなモンスター、Y2K風アートにおすすめ。\n\n◇特徴\n🖌️イラスト（アメコミ・ストリートグラフィティ調）\n⚡️描画タッチ・質感\n太くくっきりとした黒のアウトライン（主線）\nツヤのあるハイライトとセル調の陰影\n👩‍🎨キャラクター造形・デフォルメ傾向\n2〜3頭身のSD（ちびキャラ）化\n誇張された特徴的な顔立ち（人物・アップ時）\n🎨色彩（カラーパレット）\n極彩色・ネオンカラーのマルチ配色\nマーブル・タイダイ風の混色表現\n🖼️背景・画面構成（密度感）\n画面を埋め尽くす高密度なオブジェクト配置\nポップな液体・スモークエフェクト\n\n⛵️#Midjourney v8.x \n【prompt】\n[Your prompt] --ar 3:4 --p --sref 2463148926 \n例：Character・Anime・Woman\n\n #Nijijourneyは、若干特性が違う可能性があります。"
+    },
+    "id": "2100931328422396328",
+    "canonicalUrl": "https://x.com/iX00AI2/status/2100931328422396328",
+    "author": {
+      "username": "iX00AI2",
+      "displayName": "iX｜AIART/AIMOVIE【2nd】",
+      "profileUrl": "https://x.com/iX00AI2"
+    },
+    "publishedAt": "2026-09-18T12:53:56.000Z",
+    "collectedAt": "2026-09-18T16:16:16.321Z",
+    "language": "ja",
+    "originalText": "QT： --sref 2463148926\nMidjourney V8\n\n[prompt]\nCharacter --ar 3:4 --p --sref 2463148926\n\n太い黒のアウトライン（主線）と強い陰影・ツヤを伴う、アメリカン・コミック（アメコミ）やカートゥーン、ストリートアート（グラフィティ／ポップアート）寄りのイラストSREF https://t.co/T0b7BZnitA",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/iX00AI2/status/2100931328422396328",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100930847922913280/img/t6HS_fei9QGO11_0.jpg",
+        "analysisUrl": "https://x.com/iX00AI2/status/2100931328422396328"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSfYmQqaUAApsU1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSfYmQqaUAApsU1.jpg",
+        "sourcePostId": "2100890349929464237"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSfYqgEawAAyayK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSfYqgEawAAyayK.jpg",
+        "sourcePostId": "2100890349929464237"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSfYuPzbQAA1srH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSfYuPzbQAA1srH.jpg",
+        "sourcePostId": "2100890349929464237"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSfY2zYbEAAgHMI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSfY2zYbEAAgHMI.jpg",
+        "sourcePostId": "2100890349929464237"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 5,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 247
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/iX00AI2/status/2100931328422396328",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100930847922913280/img/t6HS_fei9QGO11_0.jpg",
+  "coverPath": "covers/2100931328422396328.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100930847922913280",
+    "x-image:/media/HSfYmQqaUAApsU1",
+    "x-image:/media/HSfYqgEawAAyayK",
+    "x-image:/media/HSfYuPzbQAA1srH",
+    "x-image:/media/HSfY2zYbEAAgHMI",
+    "x-post:2100931328422396328",
+    "x-post:2100890349929464237"
+  ],
+  "analysis": {
+    "summary": "使用特定 sref 样式代码生成美漫涂鸦风角色。",
+    "summaryEn": "Generates a comic graffiti-style character using a specific sref code.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成画面的粗黑勾边、亮色涂鸦风和卡通角色造型与指定的 sref 风格完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Character --ar 3:4 --p --sref 2463148926",
+    "sourceRange": {
+      "start": 46,
+      "end": 86
+    },
+    "translations": {
+      "zh": "角色 --ar 3:4 --p --sref 2463148926",
+      "en": "Character --ar 3:4 --p --sref 2463148926"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "美漫涂鸦风格角色生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

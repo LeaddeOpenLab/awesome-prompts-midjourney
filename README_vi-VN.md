@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**14** Prompt · Bổ sung mới nhất: **2026-09-18**
+**15** Prompt · Bổ sung mới nhất: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Minh họa · Đã xuất bản
 
 ```text
 Tháng Chín --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Truyện tranh / Tiểu thuyết đồ họa
+
+<a name="prompt-2100931328422396328"></a>
+
+### Đang dịch
+
+Tác giả：[@iX00AI2](https://x.com/iX00AI2) · [Bài gốc](https://x.com/iX00AI2/status/2100931328422396328)
+
+Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
+
+Bài gốc：[@SREFCLUB](https://x.com/SREFCLUB) · [Bài gốc](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100931328422396328.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

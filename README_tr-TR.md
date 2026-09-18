@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**14** Prompt · Son eklenen: **2026-09-18**
+**15** Prompt · Son eklenen: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://
 
 ```text
 Eylül --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Çizgi Roman / Grafik Roman
+
+<a name="prompt-2100931328422396328"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@iX00AI2](https://x.com/iX00AI2) · [Orijinal gönderi](https://x.com/iX00AI2/status/2100931328422396328)
+
+Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
+
+Orijinal gönderi：[@SREFCLUB](https://x.com/SREFCLUB) · [Orijinal gönderi](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100931328422396328.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

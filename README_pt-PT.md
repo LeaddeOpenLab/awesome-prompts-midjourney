@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**14** Prompts · Adição mais recente: **2026-09-18**
+**15** Prompts · Adição mais recente: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Banda Desenhada / Romance Gráfico](#category-comic-graphic-novel) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Ilustração · Publicado
 
 ```text
 Setembro --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Banda Desenhada / Romance Gráfico
+
+<a name="prompt-2100931328422396328"></a>
+
+### Tradução em curso
+
+Autor：[@iX00AI2](https://x.com/iX00AI2) · [Publicação original](https://x.com/iX00AI2/status/2100931328422396328)
+
+Banda Desenhada / Romance Gráfico · Personagem · Publicado
+
+Publicação original：[@SREFCLUB](https://x.com/SREFCLUB) · [Publicação original](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100931328422396328.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**14** 개 · 최근 추가: **2026-09-18**
+**15** 개 · 최근 추가: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ```text
 9월 --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## 만화 / 그래픽 노블
+
+<a name="prompt-2100931328422396328"></a>
+
+### 번역 중
+
+작성자：[@iX00AI2](https://x.com/iX00AI2) · [원본 게시물](https://x.com/iX00AI2/status/2100931328422396328)
+
+만화 / 그래픽 노블 · 캐릭터 · 배포 완료
+
+원본 게시물：[@SREFCLUB](https://x.com/SREFCLUB) · [원본 게시물](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**요약:** 번역 중
+
+<img src="covers/2100931328422396328.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

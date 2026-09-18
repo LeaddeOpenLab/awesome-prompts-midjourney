@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**14** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-18**
+**15** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [एनिमे / मंगा](#category-anime-manga) · [चित्रण](#category-illustration) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [एनिमे / मंगा](#category-anime-manga) · [चित्रण](#category-illustration) · [कॉमिक / ग्राफिक नॉवेल](#category-comic-graphic-novel) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 ```text
 सितंबर --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## कॉमिक / ग्राफिक नॉवेल
+
+<a name="prompt-2100931328422396328"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@iX00AI2](https://x.com/iX00AI2) · [मूल पोस्ट](https://x.com/iX00AI2/status/2100931328422396328)
+
+कॉमिक / ग्राफिक नॉवेल · कैरेक्टर · प्रकाशित
+
+मूल पोस्ट：[@SREFCLUB](https://x.com/SREFCLUB) · [मूल पोस्ट](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2100931328422396328.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

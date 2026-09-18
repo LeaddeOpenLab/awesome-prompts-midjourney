@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**14** 条内容 · 最新收录: **2026-09-18**
+**15** 条内容 · 最新收录: **2026-09-18**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [漫画 / 图画小说](#category-comic-graphic-novel) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -277,6 +277,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 九月 --ar 16:9 --sref 153692563 1979431158 2653758855
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## 漫画 / 图画小说
+
+<a name="prompt-2100931328422396328"></a>
+
+### 翻译中
+
+作者：[@iX00AI2](https://x.com/iX00AI2) · [查看 X 原帖](https://x.com/iX00AI2/status/2100931328422396328)
+
+漫画 / 图画小说 · 角色 · 已推流
+
+查看 X 原帖：[@SREFCLUB](https://x.com/SREFCLUB) · [查看 X 原帖](https://x.com/SREFCLUB/status/2100890349929464237)
+
+**概括:** 翻译中
+
+<img src="covers/2100931328422396328.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)
