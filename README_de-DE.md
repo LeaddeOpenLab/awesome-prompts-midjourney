@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**13** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**14** Prompts · Zuletzt hinzugefügt: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -286,6 +286,28 @@ September --ar 16:9 --sref 153692563 1979431158 2653758855
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2100630123099930945"></a>
+
+### Übersetzung läuft
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2100630123099930945)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100630123099930945-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099521272413909034"></a>
 

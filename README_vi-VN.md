@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**13** Prompt · Bổ sung mới nhất: **2026-09-16**
+**14** Prompt · Bổ sung mới nhất: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -286,6 +286,28 @@ Tháng Chín --ar 16:9 --sref 153692563 1979431158 2653758855
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2100630123099930945"></a>
+
+### Đang dịch
+
+Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2100630123099930945)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100630123099930945-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099521272413909034"></a>
 
