@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**15** Prompts · Latest addition: **2026-09-18**
+**16** Prompts · Latest addition: **2026-09-18**
 
 <a name="catalog"></a>
 
@@ -304,6 +304,28 @@ Character --ar 3:4 --p --sref 2463148926
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101004838989631816"></a>
+
+### Midjourney image generation prompt based on the &quot;September&quot; theme combined with specific style reference codes.
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2101004838989631816)
+
+Other · Published
+
+**Summary:** Midjourney image generation prompt based on the &quot;September&quot; theme combined with specific style reference codes.
+
+<img src="images/2101004838989631816-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 1724923212 2901535857 1855620567
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100630123099930945"></a>
 
