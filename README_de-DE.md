@@ -317,20 +317,20 @@ Charakter --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101004838989631816"></a>
 
-### Übersetzung läuft
+### Midjourney-Bildgenerierungs-Prompt basierend auf dem Thema „September“ in Kombination mit spezifischen Stil-Referenzcodes.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2101004838989631816)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Midjourney-Bildgenerierungs-Prompt basierend auf dem Thema „September“ in Kombination mit spezifischen Stil-Referenzcodes.
 
 <img src="images/2101004838989631816-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+September --ar 16:9 --sref 1724923212 2901535857 1855620567
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

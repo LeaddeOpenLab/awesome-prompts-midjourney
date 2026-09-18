@@ -317,20 +317,20 @@ Nhân vật --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101004838989631816"></a>
 
-### Đang dịch
+### Lời nhắc tạo hình ảnh Midjourney dựa trên chủ đề &quot;Tháng Chín&quot; kết hợp với các mã tham chiếu phong cách cụ thể.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2101004838989631816)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo hình ảnh Midjourney dựa trên chủ đề &quot;Tháng Chín&quot; kết hợp với các mã tham chiếu phong cách cụ thể.
 
 <img src="images/2101004838989631816-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 1724923212 2901535857 1855620567
 ```
 
 [↑ Về danh mục](#catalog)

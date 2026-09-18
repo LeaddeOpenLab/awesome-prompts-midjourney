@@ -317,20 +317,20 @@ Personaje --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101004838989631816"></a>
 
-### Traducción en curso
+### Prompt de generación de imágenes de Midjourney basado en el tema &quot;septiembre&quot; combinado con códigos de referencia de estilo específicos.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2101004838989631816)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de imágenes de Midjourney basado en el tema &quot;septiembre&quot; combinado con códigos de referencia de estilo específicos.
 
 <img src="images/2101004838989631816-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Septiembre --ar 16:9 --sref 1724923212 2901535857 1855620567
 ```
 
 [↑ Volver a categorías](#catalog)

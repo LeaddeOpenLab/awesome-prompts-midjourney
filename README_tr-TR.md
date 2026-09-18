@@ -317,20 +317,20 @@ Karakter --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101004838989631816"></a>
 
-### Çeviri sürüyor
+### Belirli stil referans kodlarıyla birleştirilmiş &quot;Eylül&quot; temalı Midjourney görsel oluşturma istemi.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2101004838989631816)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Belirli stil referans kodlarıyla birleştirilmiş &quot;Eylül&quot; temalı Midjourney görsel oluşturma istemi.
 
 <img src="images/2101004838989631816-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 1724923212 2901535857 1855620567
 ```
 
 [↑ Kategorilere dön](#catalog)
