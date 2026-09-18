@@ -289,20 +289,20 @@ Septembre --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100630123099930945"></a>
 
-### Traduction en cours
+### Prompt Midjourney sur le thème de septembre avec des identifiants de référence de style.
 
 Auteur：[@airina\_xyz](https://x.com/airina_xyz) · [Publication originale](https://x.com/airina_xyz/status/2100630123099930945)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt Midjourney sur le thème de septembre avec des identifiants de référence de style.
 
 <img src="images/2100630123099930945-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Septembre --ar 16:9 --sref 1603183707 2430795563 3477797524
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -289,20 +289,20 @@ Tháng Chín --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100630123099930945"></a>
 
-### Đang dịch
+### Lời nhắc Midjourney theo chủ đề tháng Chín với ID tham chiếu phong cách.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2100630123099930945)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc Midjourney theo chủ đề tháng Chín với ID tham chiếu phong cách.
 
 <img src="images/2100630123099930945-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 1603183707 2430795563 3477797524
 ```
 
 [↑ Về danh mục](#catalog)

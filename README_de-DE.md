@@ -289,20 +289,20 @@ September --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100630123099930945"></a>
 
-### Übersetzung läuft
+### Midjourney-Prompt zum Thema September mit Stilreferenz-IDs.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2100630123099930945)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Midjourney-Prompt zum Thema September mit Stilreferenz-IDs.
 
 <img src="images/2100630123099930945-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+September --ar 16:9 --sref 1603183707 2430795563 3477797524
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

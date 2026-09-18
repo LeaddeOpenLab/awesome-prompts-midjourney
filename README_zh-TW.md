@@ -289,20 +289,20 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2100630123099930945"></a>
 
-### 翻譯中
+### 以九月為主題並帶有風格參考 ID 的 Midjourney 提示詞。
 
 作者：[@airina\_xyz](https://x.com/airina_xyz) · [查看 X 原帖](https://x.com/airina_xyz/status/2100630123099930945)
 
 其他 · 已推流
 
-**概括:** 翻譯中
+**概括:** 以九月為主題並帶有風格參考 ID 的 Midjourney 提示詞。
 
 <img src="images/2100630123099930945-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+九月 --ar 16:9 --sref 1603183707 2430795563 3477797524
 ```
 
 [↑ 返回分類目錄](#catalog)

@@ -289,20 +289,20 @@ Eylül --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100630123099930945"></a>
 
-### Çeviri sürüyor
+### Stil referans kimliklerine sahip Eylül temalı Midjourney istemi.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2100630123099930945)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Stil referans kimliklerine sahip Eylül temalı Midjourney istemi.
 
 <img src="images/2100630123099930945-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 1603183707 2430795563 3477797524
 ```
 
 [↑ Kategorilere dön](#catalog)
