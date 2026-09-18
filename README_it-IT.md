@@ -289,7 +289,7 @@ Settembre --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100931328422396328"></a>
 
-### Traduzione in corso
+### Genera un personaggio in stile graffiti di fumetti americani utilizzando uno specifico codice di stile sref.
 
 Autore：[@iX00AI2](https://x.com/iX00AI2) · [Post originale](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Fumetto / Graphic Novel · Personaggio · Pubblicato
 
 Post originale：[@SREFCLUB](https://x.com/SREFCLUB) · [Post originale](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera un personaggio in stile graffiti di fumetti americani utilizzando uno specifico codice di stile sref.
 
 <img src="covers/2100931328422396328.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Personaggio --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -289,7 +289,7 @@ September --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100931328422396328"></a>
 
-### Übersetzung läuft
+### Generiere einen Charakter im US-Comic-Graffiti-Stil mithilfe eines bestimmten sref-Stilcodes.
 
 Autor：[@iX00AI2](https://x.com/iX00AI2) · [Originalbeitrag](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Comic / Graphic Novel · Charakter · Veröffentlicht
 
 Originalbeitrag：[@SREFCLUB](https://x.com/SREFCLUB) · [Originalbeitrag](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generiere einen Charakter im US-Comic-Graffiti-Stil mithilfe eines bestimmten sref-Stilcodes.
 
 <img src="covers/2100931328422396328.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Charakter --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

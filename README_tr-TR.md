@@ -289,7 +289,7 @@ Eylül --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100931328422396328"></a>
 
-### Çeviri sürüyor
+### Belirli bir sref stil kodu kullanarak Amerikan çizgi romanı grafiti tarzı karakter oluşturun.
 
 Yazar：[@iX00AI2](https://x.com/iX00AI2) · [Orijinal gönderi](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Yazar：[@iX00AI2](https://x.com/iX00AI2) · [Orijinal gönderi](https://x.com/i
 
 Orijinal gönderi：[@SREFCLUB](https://x.com/SREFCLUB) · [Orijinal gönderi](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Belirli bir sref stil kodu kullanarak Amerikan çizgi romanı grafiti tarzı karakter oluşturun.
 
 <img src="covers/2100931328422396328.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Karakter --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Kategorilere dön](#catalog)

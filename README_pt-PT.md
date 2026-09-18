@@ -289,7 +289,7 @@ Setembro --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100931328422396328"></a>
 
-### Tradução em curso
+### Gera uma personagem com estilo graffiti de banda desenhada americana utilizando um código de estilo sref específico.
 
 Autor：[@iX00AI2](https://x.com/iX00AI2) · [Publicação original](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Banda Desenhada / Romance Gráfico · Personagem · Publicado
 
 Publicação original：[@SREFCLUB](https://x.com/SREFCLUB) · [Publicação original](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**Resumo:** Tradução em curso
+**Resumo:** Gera uma personagem com estilo graffiti de banda desenhada americana utilizando um código de estilo sref específico.
 
 <img src="covers/2100931328422396328.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Personagem --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -289,7 +289,7 @@ Septiembre --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100931328422396328"></a>
 
-### Traducción en curso
+### Genera un personaje con estilo de grafiti de cómic estadounidense utilizando un código de estilo sref específico.
 
 Autor：[@iX00AI2](https://x.com/iX00AI2) · [Publicación original](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Cómic / Novela gráfica · Personaje · Publicado
 
 Publicación original：[@SREFCLUB](https://x.com/SREFCLUB) · [Publicación original](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera un personaje con estilo de grafiti de cómic estadounidense utilizando un código de estilo sref específico.
 
 <img src="covers/2100931328422396328.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Personaje --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Volver a categorías](#catalog)

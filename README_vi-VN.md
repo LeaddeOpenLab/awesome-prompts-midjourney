@@ -289,7 +289,7 @@ Tháng Chín --ar 16:9 --sref 153692563 1979431158 2653758855
 
 <a name="prompt-2100931328422396328"></a>
 
-### Đang dịch
+### Sử dụng mã phong cách sref cụ thể để tạo nhân vật mang phong cách graffiti truyện tranh Mỹ.
 
 Tác giả：[@iX00AI2](https://x.com/iX00AI2) · [Bài gốc](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
 
 Bài gốc：[@SREFCLUB](https://x.com/SREFCLUB) · [Bài gốc](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Sử dụng mã phong cách sref cụ thể để tạo nhân vật mang phong cách graffiti truyện tranh Mỹ.
 
 <img src="covers/2100931328422396328.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nhân vật --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ Về danh mục](#catalog)

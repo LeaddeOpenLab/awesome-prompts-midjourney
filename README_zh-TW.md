@@ -289,7 +289,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2100931328422396328"></a>
 
-### 翻譯中
+### 使用特定 sref 樣式代碼生成美漫塗鴉風角色。
 
 作者：[@iX00AI2](https://x.com/iX00AI2) · [查看 X 原帖](https://x.com/iX00AI2/status/2100931328422396328)
 
@@ -297,14 +297,14 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 查看 X 原帖：[@SREFCLUB](https://x.com/SREFCLUB) · [查看 X 原帖](https://x.com/SREFCLUB/status/2100890349929464237)
 
-**概括:** 翻譯中
+**概括:** 使用特定 sref 樣式代碼生成美漫塗鴉風角色。
 
 <img src="covers/2100931328422396328.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+角色 --ar 3:4 --p --sref 2463148926
 ```
 
 [↑ 返回分類目錄](#catalog)
