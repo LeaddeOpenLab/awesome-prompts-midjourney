@@ -317,20 +317,20 @@ Nhân vật --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101717035042615509"></a>
 
-### Đang dịch
+### Tháng Chín --ar 16:9 --sref 809527168 805544143 3641850946
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2101717035042615509)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tháng Chín --ar 16:9 --sref 809527168 805544143 3641850946
 
 <img src="images/2101717035042615509-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 809527168 805544143 3641850946
 ```
 
 [↑ Về danh mục](#catalog)

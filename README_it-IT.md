@@ -317,20 +317,20 @@ Personaggio --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101717035042615509"></a>
 
-### Traduzione in corso
+### Settembre --ar 16:9 --sref 809527168 805544143 3641850946
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2101717035042615509)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Settembre --ar 16:9 --sref 809527168 805544143 3641850946
 
 <img src="images/2101717035042615509-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 809527168 805544143 3641850946
 ```
 
 [↑ Torna alle categorie](#catalog)

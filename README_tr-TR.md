@@ -317,20 +317,20 @@ Karakter --ar 3:4 --p --sref 2463148926
 
 <a name="prompt-2101717035042615509"></a>
 
-### Çeviri sürüyor
+### Eylül --ar 16:9 --sref 809527168 805544143 3641850946
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2101717035042615509)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eylül --ar 16:9 --sref 809527168 805544143 3641850946
 
 <img src="images/2101717035042615509-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 809527168 805544143 3641850946
 ```
 
 [↑ Kategorilere dön](#catalog)
