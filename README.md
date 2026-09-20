@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**16** Prompts · Latest addition: **2026-09-18**
+**17** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -304,6 +304,28 @@ Character --ar 3:4 --p --sref 2463148926
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101717035042615509"></a>
+
+### September --ar 16:9 --sref 809527168 805544143 3641850946
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2101717035042615509)
+
+Other · Published
+
+**Summary:** September --ar 16:9 --sref 809527168 805544143 3641850946
+
+<img src="images/2101717035042615509-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 809527168 805544143 3641850946
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101004838989631816"></a>
 

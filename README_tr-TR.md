@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**16** Prompt · Son eklenen: **2026-09-18**
+**17** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -314,6 +314,28 @@ Karakter --ar 3:4 --p --sref 2463148926
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2101717035042615509"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2101717035042615509)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101717035042615509-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101004838989631816"></a>
 
