@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**17** Prompts · Latest addition: **2026-09-20**
+**18** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -184,6 +184,28 @@ anime masterpiece, dynamic action shot, 2 Chinese goddess sisters, voluptuous cu
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2102080930697613758"></a>
+
+### Midjourney prompt using keyword 'September' and style reference seeds.
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2102080930697613758)
+
+Illustration · Published
+
+**Summary:** Midjourney prompt using keyword 'September' and style reference seeds.
+
+<img src="images/2102080930697613758-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 2504006135 1902225729 461375124
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100269243774435679"></a>
 

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:24:06.771Z",
+  "model": "midjourney",
+  "prompt": "September --ar 16:9 --sref 2504006135 1902225729 461375124",
+  "promptTranslations": {
+    "en": "September --ar 16:9 --sref 2504006135 1902225729 461375124"
+  },
+  "summaryTranslations": {
+    "en": "Midjourney prompt using keyword 'September' and style reference seeds."
+  },
+  "translationVersion": 2,
+  "summary": "Midjourney prompt using keyword 'September' and style reference seeds.",
+  "summaryEn": "Midjourney prompt using keyword 'September' and style reference seeds.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102080930697613758",
+    "canonicalUrl": "https://x.com/airina_xyz/status/2102080930697613758",
+    "author": {
+      "username": "airina_xyz",
+      "displayName": "AIrina (Virtual Media Net)",
+      "profileUrl": "https://x.com/airina_xyz"
+    },
+    "publishedAt": "2026-09-21T17:02:03.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "fr",
+    "originalText": "Midjourney prompt:\n\nSeptember --ar 16:9 --sref 2504006135 1902225729 461375124 https://t.co/d1cdLM7XFu",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSwXdx7a4AAW7SM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSwXdx7a4AAW7SM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 33
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/airina_xyz/status/2102080930697613758",
+  "coverUrl": "https://pbs.twimg.com/media/HSwXdx7a4AAW7SM.jpg",
+  "coverPath": "images/2102080930697613758-1.jpg",
+  "imagePaths": [
+    "images/2102080930697613758-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSwXdx7a4AAW7SM",
+    "x-post:2102080930697613758"
+  ],
+  "analysis": {
+    "summary": "Midjourney prompt using keyword 'September' and style reference seeds.",
+    "summaryEn": "Midjourney prompt using keyword 'September' and style reference seeds.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt text 'September' matches the 'SEPTEMBER' lettering and seasonal autumn aesthetic depicted across the 4 image panels."
+    },
+    "videoQuality": null,
+    "originalPrompt": "September --ar 16:9 --sref 2504006135 1902225729 461375124",
+    "sourceRange": {
+      "start": 20,
+      "end": 78
+    },
+    "translations": {
+      "zh": "九月 --ar 16:9 --sref 2504006135 1902225729 461375124",
+      "en": "September --ar 16:9 --sref 2504006135 1902225729 461375124"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "Illustration generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
