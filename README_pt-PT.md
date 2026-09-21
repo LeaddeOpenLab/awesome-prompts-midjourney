@@ -197,20 +197,20 @@ obra-prima de anime, plano de ação dinâmico, 2 irmãs deusas chinesas, corpo 
 
 <a name="prompt-2102080930697613758"></a>
 
-### Tradução em curso
+### Prompt do Midjourney utilizando a palavra-chave 'September' e sementes de referência de estilo.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2102080930697613758)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt do Midjourney utilizando a palavra-chave 'September' e sementes de referência de estilo.
 
 <img src="images/2102080930697613758-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Setembro --ar 16:9 --sref 2504006135 1902225729 461375124
 ```
 
 [↑ Voltar às categorias](#catalog)

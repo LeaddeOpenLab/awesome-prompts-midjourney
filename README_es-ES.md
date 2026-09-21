@@ -197,20 +197,20 @@ obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuer
 
 <a name="prompt-2102080930697613758"></a>
 
-### Traducción en curso
+### Prompt de Midjourney que utiliza la palabra clave 'September' y semillas de referencia de estilo.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2102080930697613758)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de Midjourney que utiliza la palabra clave 'September' y semillas de referencia de estilo.
 
 <img src="images/2102080930697613758-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Septiembre --ar 16:9 --sref 2504006135 1902225729 461375124
 ```
 
 [↑ Volver a categorías](#catalog)

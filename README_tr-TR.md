@@ -197,20 +197,20 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 
 <a name="prompt-2102080930697613758"></a>
 
-### Çeviri sürüyor
+### 'September' anahtar kelimesini ve stil referans tohumlarını kullanan Midjourney istemi.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2102080930697613758)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 'September' anahtar kelimesini ve stil referans tohumlarını kullanan Midjourney istemi.
 
 <img src="images/2102080930697613758-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 2504006135 1902225729 461375124
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -197,20 +197,20 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 
 <a name="prompt-2102080930697613758"></a>
 
-### Traduzione in corso
+### Prompt Midjourney che utilizza la parola chiave 'September' e seed di riferimento di stile.
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2102080930697613758)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt Midjourney che utilizza la parola chiave 'September' e seed di riferimento di stile.
 
 <img src="images/2102080930697613758-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 2504006135 1902225729 461375124
 ```
 
 [↑ Torna alle categorie](#catalog)

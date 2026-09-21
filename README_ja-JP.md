@@ -197,20 +197,20 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2102080930697613758"></a>
 
-### 翻訳中
+### キーワード「September」とスタイルリファレンスシードを使用したMidjourneyプロンプト。
 
 作者：[@airina\_xyz](https://x.com/airina_xyz) · [元の投稿](https://x.com/airina_xyz/status/2102080930697613758)
 
 イラスト · 配信済み
 
-**概要:** 翻訳中
+**概要:** キーワード「September」とスタイルリファレンスシードを使用したMidjourneyプロンプト。
 
 <img src="images/2102080930697613758-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+9月 --ar 16:9 --sref 2504006135 1902225729 461375124
 ```
 
 [↑ カテゴリに戻る](#catalog)

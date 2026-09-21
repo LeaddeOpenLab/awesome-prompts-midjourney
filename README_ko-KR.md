@@ -197,20 +197,20 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2102080930697613758"></a>
 
-### 번역 중
+### 키워드 'September'와 스타일 참조 시드를 사용한 Midjourney 프롬프트.
 
 작성자：[@airina\_xyz](https://x.com/airina_xyz) · [원본 게시물](https://x.com/airina_xyz/status/2102080930697613758)
 
 일러스트레이션 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 키워드 'September'와 스타일 참조 시드를 사용한 Midjourney 프롬프트.
 
 <img src="images/2102080930697613758-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+9월 --ar 16:9 --sref 2504006135 1902225729 461375124
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
