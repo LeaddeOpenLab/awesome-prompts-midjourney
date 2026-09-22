@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T20:25:34.113Z",
+  "model": "midjourney",
+  "prompt": "September --ar 16:9 --sref 4092060438 4141357725 1621964383",
+  "promptTranslations": {
+    "en": "September --ar 16:9 --sref 4092060438 4141357725 1621964383"
+  },
+  "summaryTranslations": {
+    "en": "An illustration prompt themed on September, containing specific style reference codes and an aspect ratio."
+  },
+  "translationVersion": 2,
+  "summary": "以九月为主题的插画提示词，包含特定风格参考代码及画幅比例。",
+  "summaryEn": "September-themed illustration prompt with style reference codes and aspect ratio.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102443819786809559",
+    "canonicalUrl": "https://x.com/airina_xyz/status/2102443819786809559",
+    "author": {
+      "username": "airina_xyz",
+      "displayName": "AIrina (Virtual Media Net)",
+      "profileUrl": "https://x.com/airina_xyz"
+    },
+    "publishedAt": "2026-09-22T17:04:02.000Z",
+    "collectedAt": "2026-09-22T20:16:59.664Z",
+    "language": "fr",
+    "originalText": "Midjourney prompt:\n\nSeptember --ar 16:9 --sref 4092060438 4141357725 1621964383 https://t.co/bHAOAmLyTj",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1hgpQa8AEyyAE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1hgpQa8AEyyAE.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 42
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/airina_xyz/status/2102443819786809559",
+  "coverUrl": "https://pbs.twimg.com/media/HS1hgpQa8AEyyAE.jpg",
+  "coverPath": "images/2102443819786809559-1.jpg",
+  "imagePaths": [
+    "images/2102443819786809559-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1hgpQa8AEyyAE",
+    "x-post:2102443819786809559"
+  ],
+  "analysis": {
+    "summary": "以九月为主题的插画提示词，包含特定风格参考代码及画幅比例。",
+    "summaryEn": "September-themed illustration prompt with style reference codes and aspect ratio.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了带有 September 字样的秋季治愈系插画，与提示词主题和 sref 风格完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "September --ar 16:9 --sref 4092060438 4141357725 1621964383",
+    "sourceRange": {
+      "start": 20,
+      "end": 79
+    },
+    "translations": {
+      "zh": "九月 --ar 16:9 --sref 4092060438 4141357725 1621964383",
+      "en": "September --ar 16:9 --sref 4092060438 4141357725 1621964383"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

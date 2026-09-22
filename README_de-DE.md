@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**19** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**20** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -218,6 +218,28 @@ Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schweste
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2102443819786809559"></a>
+
+### Übersetzung läuft
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2102443819786809559)
+
+Illustration · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102443819786809559-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2102080930697613758"></a>
 

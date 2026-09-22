@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**19** Prompts · Última incorporación: **2026-09-22**
+**20** Prompts · Última incorporación: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -218,6 +218,28 @@ obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuer
 <a name="category-illustration"></a>
 
 ## Ilustración
+
+<a name="prompt-2102443819786809559"></a>
+
+### Traducción en curso
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2102443819786809559)
+
+Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102443819786809559-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2102080930697613758"></a>
 
