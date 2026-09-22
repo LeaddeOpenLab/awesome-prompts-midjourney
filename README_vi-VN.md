@@ -221,20 +221,20 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 
 <a name="prompt-2102443819786809559"></a>
 
-### Đang dịch
+### Lời nhắc minh họa theo chủ đề tháng 9, bao gồm các mã tham chiếu phong cách cụ thể và tỷ lệ khung hình.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2102443819786809559)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc minh họa theo chủ đề tháng 9, bao gồm các mã tham chiếu phong cách cụ thể và tỷ lệ khung hình.
 
 <img src="images/2102443819786809559-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 4092060438 4141357725 1621964383
 ```
 
 [↑ Về danh mục](#catalog)

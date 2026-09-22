@@ -221,20 +221,20 @@ obra-prima de anime, plano de ação dinâmico, 2 irmãs deusas chinesas, corpo 
 
 <a name="prompt-2102443819786809559"></a>
 
-### Tradução em curso
+### Prompt de ilustração com tema de setembro, contendo códigos de referência de estilo específicos e proporção de tela.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2102443819786809559)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de ilustração com tema de setembro, contendo códigos de referência de estilo específicos e proporção de tela.
 
 <img src="images/2102443819786809559-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Setembro --ar 16:9 --sref 4092060438 4141357725 1621964383
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -221,20 +221,20 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 
 <a name="prompt-2102443819786809559"></a>
 
-### Çeviri sürüyor
+### Belirli stil referans kodları ve en boy oranı içeren Eylül temalı illüstrasyon istemi.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2102443819786809559)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Belirli stil referans kodları ve en boy oranı içeren Eylül temalı illüstrasyon istemi.
 
 <img src="images/2102443819786809559-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 4092060438 4141357725 1621964383
 ```
 
 [↑ Kategorilere dön](#catalog)

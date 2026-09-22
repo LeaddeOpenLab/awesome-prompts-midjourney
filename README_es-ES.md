@@ -221,20 +221,20 @@ obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuer
 
 <a name="prompt-2102443819786809559"></a>
 
-### Traducción en curso
+### Prompt de ilustración con temática de septiembre, que incluye códigos de referencia de estilo específicos y relación de aspecto.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2102443819786809559)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de ilustración con temática de septiembre, que incluye códigos de referencia de estilo específicos y relación de aspecto.
 
 <img src="images/2102443819786809559-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Septiembre --ar 16:9 --sref 4092060438 4141357725 1621964383
 ```
 
 [↑ Volver a categorías](#catalog)

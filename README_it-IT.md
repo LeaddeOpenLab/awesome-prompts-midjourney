@@ -221,20 +221,20 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 
 <a name="prompt-2102443819786809559"></a>
 
-### Traduzione in corso
+### Prompt di illustrazione a tema settembre, inclusi codici di riferimento di stile specifici e proporzioni.
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2102443819786809559)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di illustrazione a tema settembre, inclusi codici di riferimento di stile specifici e proporzioni.
 
 <img src="images/2102443819786809559-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 4092060438 4141357725 1621964383
 ```
 
 [↑ Torna alle categorie](#catalog)
