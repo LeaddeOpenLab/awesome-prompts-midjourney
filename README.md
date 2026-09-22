@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**18** Prompts · Latest addition: **2026-09-21**
+**19** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2102248515355505134"></a>
+
+### Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot, Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16
+
+Author：[@BubbleBrain](https://x.com/BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2102248515355505134)
+
+Photography · Portrait / Selfie · Published
+
+**Summary:** Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot, Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16
+
+<img src="images/2102248515355505134-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102248515355505134-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot, Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098364624613802381"></a>
 

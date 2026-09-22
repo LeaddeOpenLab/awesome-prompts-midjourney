@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**18** Prompts · Última incorporación: **2026-09-21**
+**19** Prompts · Última incorporación: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2102248515355505134"></a>
+
+### Traducción en curso
+
+Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicación original](https://x.com/BubbleBrain/status/2102248515355505134)
+
+Fotografía · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2102248515355505134-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2102248515355505134-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098364624613802381"></a>
 

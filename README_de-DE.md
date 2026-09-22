@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**18** Prompts · Zuletzt hinzugefügt: **2026-09-21**
+**19** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2102248515355505134"></a>
+
+### Übersetzung läuft
+
+Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Originalbeitrag](https://x.com/BubbleBrain/status/2102248515355505134)
+
+Fotografie · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102248515355505134-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102248515355505134-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098364624613802381"></a>
 

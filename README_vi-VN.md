@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**18** Prompt · Bổ sung mới nhất: **2026-09-21**
+**19** Prompt · Bổ sung mới nhất: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2102248515355505134"></a>
+
+### Đang dịch
+
+Tác giả：[@BubbleBrain](https://x.com/BubbleBrain) · [Bài gốc](https://x.com/BubbleBrain/status/2102248515355505134)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102248515355505134-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102248515355505134-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098364624613802381"></a>
 

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:27:14.523Z",
+  "model": "midjourney",
+  "prompt": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+  "promptTranslations": {
+    "en": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot, Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16"
+  },
+  "summaryTranslations": {
+    "en": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot, Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16"
+  },
+  "translationVersion": 2,
+  "summary": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+  "summaryEn": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102248515355505134",
+    "canonicalUrl": "https://x.com/BubbleBrain/status/2102248515355505134",
+    "author": {
+      "username": "BubbleBrain",
+      "displayName": "BubbleBrain",
+      "profileUrl": "https://x.com/BubbleBrain"
+    },
+    "publishedAt": "2026-09-22T04:07:58.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "Portrait by Midjourney V8.2 \n\n---prompt---\nPrivate boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16 https://t.co/gO9YzWiSC3",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyvavjbcAATSNj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyvavjbcAATSNj.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyvavhbkAAmkCf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyvavhbkAAmkCf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 91
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/BubbleBrain/status/2102248515355505134",
+  "coverUrl": "https://pbs.twimg.com/media/HSyvavjbcAATSNj.jpg",
+  "coverPath": "images/2102248515355505134-1.jpg",
+  "imagePaths": [
+    "images/2102248515355505134-1.jpg",
+    "images/2102248515355505134-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSyvavjbcAATSNj",
+    "x-image:/media/HSyvavhbkAAmkCf",
+    "x-post:2102248515355505134"
+  ],
+  "analysis": {
+    "summary": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+    "summaryEn": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the soft CCD aesthetic, blur, and ancient Chinese styling seen in the generated images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+    "sourceRange": {
+      "start": 43,
+      "end": 270
+    },
+    "translations": {
+      "zh": "闺房内室；柔光CCD，高光过曝，重度模糊；全身镜头，宋代古风；朱唇皓齿，摇曳生姿；美人在骨不在皮。9:16",
+      "en": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "Ancient style portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**18** Prompts · Dernier ajout: **2026-09-21**
+**19** Prompts · Dernier ajout: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2102248515355505134"></a>
+
+### Traduction en cours
+
+Auteur：[@BubbleBrain](https://x.com/BubbleBrain) · [Publication originale](https://x.com/BubbleBrain/status/2102248515355505134)
+
+Photographie · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102248515355505134-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102248515355505134-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098364624613802381"></a>
 
