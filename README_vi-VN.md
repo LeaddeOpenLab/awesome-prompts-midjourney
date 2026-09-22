@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2102248515355505134"></a>
 
-### Đang dịch
+### Khuê phòng kín đáo nơi thâm cung; máy ảnh CCD ánh sáng dịu, cháy sáng nổi bật, làm mờ mạnh; ảnh toàn thân, phong cách cổ trang triều Tống; môi đỏ răng ngọc, thướt tha duyên dáng; mỹ nhân cốt cách tại xương chứ không ở da. 9:16
 
 Tác giả：[@BubbleBrain](https://x.com/BubbleBrain) · [Bài gốc](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khuê phòng kín đáo nơi thâm cung; máy ảnh CCD ánh sáng dịu, cháy sáng nổi bật, làm mờ mạnh; ảnh toàn thân, phong cách cổ trang triều Tống; môi đỏ răng ngọc, thướt tha duyên dáng; mỹ nhân cốt cách tại xương chứ không ở da. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +50,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Khuê phòng kín đáo nơi thâm cung; máy ảnh CCD ánh sáng dịu, cháy sáng nổi bật, làm mờ mạnh; ảnh toàn thân, phong cách cổ trang triều Tống; môi đỏ răng ngọc, thướt tha duyên dáng; mỹ nhân cốt cách tại xương chứ không ở da. 9:16
 ```
 
 [↑ Về danh mục](#catalog)

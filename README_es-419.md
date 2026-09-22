@@ -35,13 +35,13 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2102248515355505134"></a>
 
-### Traducción en curso
+### Tocador privado en las habitaciones interiores; CCD de luz suave, luces sobreexpuestas, desenfoque pronunciado; toma de cuerpo entero, estilo antiguo de la dinastía Song; labios bermellón y dientes perlados, grácil y ondulante; la belleza vive en los huesos, no en la piel. 9:16
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicación original](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Fotografía · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Tocador privado en las habitaciones interiores; CCD de luz suave, luces sobreexpuestas, desenfoque pronunciado; toma de cuerpo entero, estilo antiguo de la dinastía Song; labios bermellón y dientes perlados, grácil y ondulante; la belleza vive en los huesos, no en la piel. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografía · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Tocador privado en las habitaciones interiores; CCD de luz suave, luces sobreexpuestas, desenfoque pronunciado; toma de cuerpo entero, estilo antiguo de la dinastía Song; labios bermellón y dientes perlados, grácil y ondulante; la belleza vive en los huesos, no en la piel. 9:16
 ```
 
 [↑ Volver a categorías](#catalog)

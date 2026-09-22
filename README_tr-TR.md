@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2102248515355505134"></a>
 
-### Çeviri sürüyor
+### İç odalardaki özel kadın odası; yumuşak ışıklı CCD, patlamış parlak noktalar, yoğun bulanıklık; tam boy çekim, Song Hanedanı antik tarzı; al dudaklar ve inci dişler, salınan ve zarif; güzellik tende değil kemiktedir. 9:16
 
 Yazar：[@BubbleBrain](https://x.com/BubbleBrain) · [Orijinal gönderi](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Fotoğrafçılık · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İç odalardaki özel kadın odası; yumuşak ışıklı CCD, patlamış parlak noktalar, yoğun bulanıklık; tam boy çekim, Song Hanedanı antik tarzı; al dudaklar ve inci dişler, salınan ve zarif; güzellik tende değil kemiktedir. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotoğrafçılık · Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+İç odalardaki özel kadın odası; yumuşak ışıklı CCD, patlamış parlak noktalar, yoğun bulanıklık; tam boy çekim, Song Hanedanı antik tarzı; al dudaklar ve inci dişler, salınan ve zarif; güzellik tende değil kemiktedir. 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)

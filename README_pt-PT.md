@@ -35,13 +35,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2102248515355505134"></a>
 
-### Tradução em curso
+### Boudoir privado nos aposentos interiores; CCD de luz suave, realces estourados, desfoque intenso; plano de corpo inteiro, estilo antigo da dinastia Song; lábios de vermelhão e dentes perolados, oscilante e graciosa; a beleza reside nos ossos, não na pele. 9:16
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicação original](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Boudoir privado nos aposentos interiores; CCD de luz suave, realces estourados, desfoque intenso; plano de corpo inteiro, estilo antigo da dinastia Song; lábios de vermelhão e dentes perolados, oscilante e graciosa; a beleza reside nos ossos, não na pele. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Boudoir privado nos aposentos interiores; CCD de luz suave, realces estourados, desfoque intenso; plano de corpo inteiro, estilo antigo da dinastia Song; lábios de vermelhão e dentes perolados, oscilante e graciosa; a beleza reside nos ossos, não na pele. 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

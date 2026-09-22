@@ -35,13 +35,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2102248515355505134"></a>
 
-### Traduzione in corso
+### Boudoir privato nelle stanze interne; CCD a luce morbida, alte luci bruciate, sfocatura intensa; ripresa a figura intera, stile antico della dinastia Song; labbra vermiglie e denti di perla, flessuosa e aggraziata; la bellezza risiede nelle ossa, non nella pelle. 9:16
 
 Autore：[@BubbleBrain](https://x.com/BubbleBrain) · [Post originale](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Fotografia · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Boudoir privato nelle stanze interne; CCD a luce morbida, alte luci bruciate, sfocatura intensa; ripresa a figura intera, stile antico della dinastia Song; labbra vermiglie e denti di perla, flessuosa e aggraziata; la bellezza risiede nelle ossa, non nella pelle. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Boudoir privato nelle stanze interne; CCD a luce morbida, alte luci bruciate, sfocatura intensa; ripresa a figura intera, stile antico della dinastia Song; labbra vermiglie e denti di perla, flessuosa e aggraziata; la bellezza risiede nelle ossa, non nella pelle. 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)

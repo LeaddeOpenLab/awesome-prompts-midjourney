@@ -35,13 +35,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2102248515355505134"></a>
 
-### Traducción en curso
+### Tocador privado en los aposentos interiores; CCD de luz suave, luces quemadas, desenfoque pronunciado; plano de cuerpo entero, estilo antiguo de la dinastía Song; labios de bermellón y dientes nacarados, balanceante y grácil; la belleza reside en los huesos, no en la piel. 9:16
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicación original](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Fotografía · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Tocador privado en los aposentos interiores; CCD de luz suave, luces quemadas, desenfoque pronunciado; plano de cuerpo entero, estilo antiguo de la dinastía Song; labios de bermellón y dientes nacarados, balanceante y grácil; la belleza reside en los huesos, no en la piel. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografía · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Tocador privado en los aposentos interiores; CCD de luz suave, luces quemadas, desenfoque pronunciado; plano de cuerpo entero, estilo antiguo de la dinastía Song; labios de bermellón y dientes nacarados, balanceante y grácil; la belleza reside en los huesos, no en la piel. 9:16
 ```
 
 [↑ Volver a categorías](#catalog)

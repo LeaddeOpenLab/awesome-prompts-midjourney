@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2102248515355505134"></a>
 
-### Übersetzung läuft
+### Privates Boudoir in den inneren Gemächern; Weichlicht-CCD, überstrahlte Lichter, starke Unschärfe; Ganzkörperaufnahme, antiker Stil der Song-Dynastie; zinnoberrote Lippen und perlweiße Zähne, wiegend und anmutig; Schönheit liegt in den Knochen, nicht auf der Haut. 9:16
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Originalbeitrag](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Fotografie · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Privates Boudoir in den inneren Gemächern; Weichlicht-CCD, überstrahlte Lichter, starke Unschärfe; Ganzkörperaufnahme, antiker Stil der Song-Dynastie; zinnoberrote Lippen und perlweiße Zähne, wiegend und anmutig; Schönheit liegt in den Knochen, nicht auf der Haut. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografie · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Privates Boudoir in den inneren Gemächern; Weichlicht-CCD, überstrahlte Lichter, starke Unschärfe; Ganzkörperaufnahme, antiker Stil der Song-Dynastie; zinnoberrote Lippen und perlweiße Zähne, wiegend und anmutig; Schönheit liegt in den Knochen, nicht auf der Haut. 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

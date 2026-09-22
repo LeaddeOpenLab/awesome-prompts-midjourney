@@ -35,13 +35,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2102248515355505134"></a>
 
-### Traduction en cours
+### Boudoir intime dans les appartements intérieurs ; CCD à lumière douce, hautes lumières brûlées, fort flou ; plan en pied, style ancien de la dynastie Song ; lèvres vermillon et dents de nacre, ondoyante et gracieuse ; la beauté réside dans les os, pas dans la peau. 9:16
 
 Auteur：[@BubbleBrain](https://x.com/BubbleBrain) · [Publication originale](https://x.com/BubbleBrain/status/2102248515355505134)
 
 Photographie · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Boudoir intime dans les appartements intérieurs ; CCD à lumière douce, hautes lumières brûlées, fort flou ; plan en pied, style ancien de la dynastie Song ; lèvres vermillon et dents de nacre, ondoyante et gracieuse ; la beauté réside dans les os, pas dans la peau. 9:16
 
 <img src="images/2102248515355505134-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +50,7 @@ Photographie · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Boudoir intime dans les appartements intérieurs ; CCD à lumière douce, hautes lumières brûlées, fort flou ; plan en pied, style ancien de la dynastie Song ; lèvres vermillon et dents de nacre, ondoyante et gracieuse ; la beauté réside dans les os, pas dans la peau. 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)
