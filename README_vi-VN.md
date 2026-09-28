@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**20** Prompt · Bổ sung mới nhất: **2026-09-22**
+**22** Prompt · Bổ sung mới nhất: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi 
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2104211929661423830"></a>
+
+### Đang dịch
+
+Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2104211929661423830)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Động vật / Sinh vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2104211929661423830.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 <a name="category-illustration"></a>
 
 ## Minh họa
+
+<a name="prompt-2104254254013894934"></a>
+
+### Đang dịch
+
+Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2104254254013894934)
+
+Minh họa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2104254254013894934-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

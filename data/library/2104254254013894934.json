@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:31:07.046Z",
+  "model": "midjourney",
+  "prompt": "September --ar 16:9 --sref 1824944380 955009645 3366301105",
+  "promptTranslations": {
+    "en": "September --ar 16:9 --sref 1824944380 955009645 3366301105"
+  },
+  "summaryTranslations": {
+    "en": "A lyrical illustration generated with the theme of \"September\" combined with specific style reference codes."
+  },
+  "translationVersion": 2,
+  "summary": "以“September”为主题结合特定风格参考代码生成的抒情插画。",
+  "summaryEn": "Stylized artistic illustrations generated with the prompt 'September' using specific style reference codes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104254254013894934",
+    "canonicalUrl": "https://x.com/airina_xyz/status/2104254254013894934",
+    "author": {
+      "username": "airina_xyz",
+      "displayName": "AIrina (Virtual Media Net)",
+      "profileUrl": "https://x.com/airina_xyz"
+    },
+    "publishedAt": "2026-09-27T16:58:03.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "fr",
+    "originalText": "Midjourney prompt:\n\nSeptember --ar 16:9 --sref 1824944380 955009645 3366301105 https://t.co/ixLFMm2o9t",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTPQF0PaMAEQmB3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTPQF0PaMAEQmB3.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 118
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/airina_xyz/status/2104254254013894934",
+  "coverUrl": "https://pbs.twimg.com/media/HTPQF0PaMAEQmB3.jpg",
+  "coverPath": "images/2104254254013894934-1.jpg",
+  "imagePaths": [
+    "images/2104254254013894934-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTPQF0PaMAEQmB3",
+    "x-post:2104254254013894934"
+  ],
+  "analysis": {
+    "summary": "以“September”为主题结合特定风格参考代码生成的抒情插画。",
+    "summaryEn": "Stylized artistic illustrations generated with the prompt 'September' using specific style reference codes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt text, aspect ratio, and style reference codes correspond to the stylized four-panel output containing autumn/September aesthetic elements."
+    },
+    "videoQuality": null,
+    "originalPrompt": "September --ar 16:9 --sref 1824944380 955009645 3366301105",
+    "sourceRange": {
+      "start": 20,
+      "end": 78
+    },
+    "translations": {
+      "zh": "九月 --ar 16:9 --sref 1824944380 955009645 3366301105",
+      "en": "September --ar 16:9 --sref 1824944380 955009645 3366301105"
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "text-to-image",
+    "useCase": "Artistic illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

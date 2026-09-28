@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**20** 筆內容 · 最新收錄: **2026-09-22**
+**22** 筆內容 · 最新收錄: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2104211929661423830"></a>
+
+### 翻譯中
+
+作者：[@PixelAigc](https://x.com/PixelAigc) · [查看 X 原帖](https://x.com/PixelAigc/status/2104211929661423830)
+
+電影感 / 電影劇照 · 角色 · 動物 / 生物 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2104211929661423830.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-illustration"></a>
 
 ## 插圖
+
+<a name="prompt-2104254254013894934"></a>
+
+### 翻譯中
+
+作者：[@airina\_xyz](https://x.com/airina_xyz) · [查看 X 原帖](https://x.com/airina_xyz/status/2104254254013894934)
+
+插圖 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2104254254013894934-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

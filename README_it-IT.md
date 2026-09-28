@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**20** Prompt · Ultima aggiunta: **2026-09-22**
+**22** Prompt · Ultima aggiunta: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si v
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2104211929661423830"></a>
+
+### Traduzione in corso
+
+Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2104211929661423830)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2104211929661423830.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 <a name="category-illustration"></a>
 
 ## Illustrazione
+
+<a name="prompt-2104254254013894934"></a>
+
+### Traduzione in corso
+
+Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2104254254013894934)
+
+Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2104254254013894934-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

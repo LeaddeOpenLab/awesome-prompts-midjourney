@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**20** Prompt · Son eklenen: **2026-09-22**
+**22** Prompt · Son eklenen: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2104211929661423830"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2104211929661423830)
+
+Sinematik / Film Karesi · Karakter · Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2104211929661423830.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
+
+<a name="prompt-2104254254013894934"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2104254254013894934)
+
+İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2104254254013894934-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

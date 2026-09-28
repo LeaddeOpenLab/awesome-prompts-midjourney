@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**20** Prompts · Última adição: **2026-09-22**
+**22** Prompts · Última adição: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ A protagonista vira a cabeça em direção à câmera, dá um leve sorriso e se 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2104211929661423830"></a>
+
+### Tradução em andamento
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2104211929661423830)
+
+Cinematográfico / Imagem de Filme · Personagem · Animal / Criatura · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2104211929661423830.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ obra-prima do anime, cena de ação dinâmica, 2 irmãs deusas chinesas, corpo v
 <a name="category-illustration"></a>
 
 ## Ilustração
+
+<a name="prompt-2104254254013894934"></a>
+
+### Tradução em andamento
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2104254254013894934)
+
+Ilustração · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2104254254013894934-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

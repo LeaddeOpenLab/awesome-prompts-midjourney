@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:31:32.881Z",
+  "model": "midjourney",
+  "prompt": "无音频。镜头慢慢推进， 镜头慢慢环绕，镜头从第0帧起先沿浅水广台边缘做一次极轻微的顺时针弧移，同时向后下方微退半步，让人物、反射、井壁楼层和盘井而下的应龙形成旋转式透视变化，但严格不做Orbit。应龙从上方极慢下探:龙头先向下送出，颈部随之形成一段柔和弧线，力量沿胸段缓慢传递；近前龙爪略微张开后再收紧。盘绕在井壁上的后半龙身不是静止背景，而是存在极慢的S形延迟波动，从高处一节一节把力量传递下来。翼根附近的膜翼仅轻轻颤动一下，像在狭窄井中保持平衡，不展开扑翼。长须、耳后鬃与腹侧毛束被自上而下的气流层层后掠，龙口微张吐出少量寒雾。井中薄雾持续盘旋式下坠，浅水表面出现缓慢外扩的细纹。绛衣人物不动，衣摆与长发被压风后拂。建筑绝对稳定。最后定格在女子与龙面对面的特写",
+  "promptTranslations": {
+    "en": "No audio. The camera pushes in slowly, revolves slowly. From frame 0, the camera first executes an extremely subtle clockwise arc movement along the edge of the shallow water wide platform, while slightly retreating half a step backward and downward, creating a rotational perspective shift among the figure, reflections, well-wall floor levels, and the Yinglong descending along the shaft, yet strictly without doing an Orbit. The Yinglong slowly reaches downward from above: the dragon's head lowers forward first, the neck follows forming a gentle arc, and force is slowly transmitted along the chest segment; the foreground dragon claw opens slightly and then tightens. The posterior dragon body coiled around the well walls is not a static background, but possesses an extremely slow S-shaped delayed undulation, transmitting power downward segment by segment from high above. The membrane wings near the wing roots merely tremble slightly, as if maintaining balance inside the narrow well, without unfolding to flap. The long whiskers, manes behind the ears, and fur tufts along the flank are swept backward layer by layer by the downward airflow, and the dragon's mouth parts slightly to exhale a small amount of cold mist. Thin mist inside the well continuously swirls downward, and fine ripples slowly expand outward across the shallow water surface. The crimson-robed figure remains still, the robe hem and long hair swept back by the downdraft. The architecture remains absolutely stable. Finally, the shot freezes on a face-to-face close-up of the woman and the dragon."
+  },
+  "summaryTranslations": {
+    "en": "Slow push-in shot description of a giant dragon slowly descending into an Eastern fantasy ancient-style lightwell to confront a woman in red."
+  },
+  "translationVersion": 2,
+  "summary": "东方玄幻古风天井中巨龙缓慢降下与红衣女子对峙的慢速推进镜头描述。",
+  "summaryEn": "A slow-push cinematic description of a giant Chinese dragon descending inside a cylindrical structure to face a red-robed woman.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104211929661423830",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2104211929661423830",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-27T14:09:53.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "zh",
+    "originalText": "逛了一下INS\n刷到一个发东方传统文化视频的号\n上面有分享提示词\n让Mj + H3 照着做稍微修改了一下\n效果很震撼！\n\nprompt 视频提示词：\n\n无音频。镜头慢慢推进， 镜头慢慢环绕，镜头从第0帧起先沿浅水广台边缘做一次极轻微的顺时针弧移，同时向后下方微退半步，让人物、反射、井壁楼层和盘井而下的应龙形成旋转式透视变化，但严格不做Orbit。应龙从上方极慢下探:龙头先向下送出，颈部随之形成一段柔和弧线，力量沿胸段缓慢传递；近前龙爪略微张开后再收紧。盘绕在井壁上的后半龙身不是静止背景，而是存在极慢的S形延迟波动，从高处一节一节把力量传递下来。翼根附近的膜翼仅轻轻颤动一下，像在狭窄井中保持平衡，不展开扑翼。长须、耳后鬃与腹侧毛束被自上而下的气流层层后掠，龙口微张吐出少量寒雾。井中薄雾持续盘旋式下坠，浅水表面出现缓慢外扩的细纹。绛衣人物不动，衣摆与长发被压风后拂。建筑绝对稳定。最后定格在女子与龙面对面的特写",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2104211929661423830",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104211781061357568/img/mgsGFtfghWFdZfQu.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2104211929661423830"
+      }
+    ],
+    "metrics": {
+      "likeCount": 39,
+      "repostCount": 5,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 3895
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2104211929661423830",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104211781061357568/img/mgsGFtfghWFdZfQu.jpg",
+  "coverPath": "covers/2104211929661423830.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104211781061357568",
+    "x-post:2104211929661423830"
+  ],
+  "analysis": {
+    "summary": "东方玄幻古风天井中巨龙缓慢降下与红衣女子对峙的慢速推进镜头描述。",
+    "summaryEn": "A slow-push cinematic description of a giant Chinese dragon descending inside a cylindrical structure to face a red-robed woman.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现了圆形天井建筑、水面反射、红衣女子与盘旋而下的巨龙，运镜缓慢推近并定格在女子与龙头面对面的特写，与提示词高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "无音频。镜头慢慢推进， 镜头慢慢环绕，镜头从第0帧起先沿浅水广台边缘做一次极轻微的顺时针弧移，同时向后下方微退半步，让人物、反射、井壁楼层和盘井而下的应龙形成旋转式透视变化，但严格不做Orbit。应龙从上方极慢下探:龙头先向下送出，颈部随之形成一段柔和弧线，力量沿胸段缓慢传递；近前龙爪略微张开后再收紧。盘绕在井壁上的后半龙身不是静止背景，而是存在极慢的S形延迟波动，从高处一节一节把力量传递下来。翼根附近的膜翼仅轻轻颤动一下，像在狭窄井中保持平衡，不展开扑翼。长须、耳后鬃与腹侧毛束被自上而下的气流层层后掠，龙口微张吐出少量寒雾。井中薄雾持续盘旋式下坠，浅水表面出现缓慢外扩的细纹。绛衣人物不动，衣摆与长发被压风后拂。建筑绝对稳定。最后定格在女子与龙面对面的特写",
+    "sourceRange": {
+      "start": 76,
+      "end": 408
+    },
+    "translations": {
+      "zh": "无音频。镜头慢慢推进， 镜头慢慢环绕，镜头从第0帧起先沿浅水广台边缘做一次极轻微的顺时针弧移，同时向后下方微退半步，让人物、反射、井壁楼层和盘井而下的应龙形成旋转式透视变化，但严格不做Orbit。应龙从上方极慢下探:龙头先向下送出，颈部随之形成一段柔和弧线，力量沿胸段缓慢传递；近前龙爪略微张开后再收紧。盘绕在井壁上的后半龙身不是静止背景，而是存在极慢的S形延迟波动，从高处一节一节把力量传递下来。翼根附近的膜翼仅轻轻颤动一下，像在狭窄井中保持平衡，不展开扑翼。长须、耳后鬃与腹侧毛束被自上而下的气流层层后掠，龙口微张吐出少量寒雾。井中薄雾持续盘旋式下坠，浅水表面出现缓慢外扩的细纹。绛衣人物不动，衣摆与长发被压风后拂。建筑绝对稳定。最后定格在女子与龙面对面的特写",
+      "en": "No audio. The camera slowly pushes in and circles around, beginning at frame 0 with a very slight clockwise arc along the edge of the shallow water platform while stepping back slightly, creating dynamic perspective with the figure, reflection, tiered walls, and descending dragon without doing a full orbit. The winged dragon descends slowly from above: head first, neck curving softly, claws opening slightly then tightening. The body coiled on the walls ripples in an S-wave. Whispers of mist drift down as the red-robed figure stands still, ending in a close-up standoff between the woman and dragon."
+    },
+    "targetModels": [
+      "midjourney"
+    ],
+    "category": "image-to-video",
+    "useCase": "东方玄幻古风视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

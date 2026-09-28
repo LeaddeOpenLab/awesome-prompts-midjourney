@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**20** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**22** Prompts · Zuletzt hinzugefügt: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet si
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2104211929661423830"></a>
+
+### Übersetzung läuft
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2104211929661423830)
+
+Kinematisch / Filmstill · Charakter · Tier / Kreatur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2104211929661423830.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schweste
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2104254254013894934"></a>
+
+### Übersetzung läuft
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2104254254013894934)
+
+Illustration · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2104254254013894934-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

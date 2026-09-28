@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**20** Prompts · Última incorporación: **2026-09-22**
+**22** Prompts · Última incorporación: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve t
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2104211929661423830"></a>
+
+### Traducción en curso
+
+Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2104211929661423830)
+
+Cine / Fotograma · Personaje · Animal / Criatura · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2104211929661423830.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ obra maestra de anime, toma de acción dinámica, 2 hermanas diosas chinas, cuer
 <a name="category-illustration"></a>
 
 ## Ilustración
+
+<a name="prompt-2104254254013894934"></a>
+
+### Traducción en curso
+
+Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicación original](https://x.com/airina_xyz/status/2104254254013894934)
+
+Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2104254254013894934-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

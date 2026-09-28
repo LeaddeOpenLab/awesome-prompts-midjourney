@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**20** Prompts · Latest addition: **2026-09-22**
+**22** Prompts · Latest addition: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ The female protagonist turns her head to look at the camera, gives a gentle smil
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2104211929661423830"></a>
+
+### Slow push-in shot description of a giant dragon slowly descending into an Eastern fantasy ancient-style lightwell to confront a woman in red.
+
+Author：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2104211929661423830)
+
+Cinematic / Film Still · Character · Animal / Creature · Published
+
+**Summary:** Slow push-in shot description of a giant dragon slowly descending into an Eastern fantasy ancient-style lightwell to confront a woman in red.
+
+<img src="covers/2104211929661423830.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+No audio. The camera pushes in slowly, revolves slowly. From frame 0, the camera first executes an extremely subtle clockwise arc movement along the edge of the shallow water wide platform, while slightly retreating half a step backward and downward, creating a rotational perspective shift among the figure, reflections, well-wall floor levels, and the Yinglong descending along the shaft, yet strictly without doing an Orbit. The Yinglong slowly reaches downward from above: the dragon's head lowers forward first, the neck follows forming a gentle arc, and force is slowly transmitted along the chest segment; the foreground dragon claw opens slightly and then tightens. The posterior dragon body coiled around the well walls is not a static background, but possesses an extremely slow S-shaped delayed undulation, transmitting power downward segment by segment from high above. The membrane wings near the wing roots merely tremble slightly, as if maintaining balance inside the narrow well, without unfolding to flap. The long whiskers, manes behind the ears, and fur tufts along the flank are swept backward layer by layer by the downward airflow, and the dragon's mouth parts slightly to exhale a small amount of cold mist. Thin mist inside the well continuously swirls downward, and fine ripples slowly expand outward across the shallow water surface. The crimson-robed figure remains still, the robe hem and long hair swept back by the downdraft. The architecture remains absolutely stable. Finally, the shot freezes on a face-to-face close-up of the woman and the dragon.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -208,6 +230,28 @@ anime masterpiece, dynamic action shot, 2 Chinese goddess sisters, voluptuous cu
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2104254254013894934"></a>
+
+### A lyrical illustration generated with the theme of &quot;September&quot; combined with specific style reference codes.
+
+Author：[@airina\_xyz](https://x.com/airina_xyz) · [Source](https://x.com/airina_xyz/status/2104254254013894934)
+
+Illustration · Published
+
+**Summary:** A lyrical illustration generated with the theme of &quot;September&quot; combined with specific style reference codes.
+
+<img src="images/2104254254013894934-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+September --ar 16:9 --sref 1824944380 955009645 3366301105
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 

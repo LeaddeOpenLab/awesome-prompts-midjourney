@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**20** Prompts · Dernier ajout: **2026-09-22**
+**22** Prompts · Dernier ajout: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -84,6 +84,28 @@ L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2104211929661423830"></a>
+
+### Traduction en cours
+
+Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2104211929661423830)
+
+Image cinématographique / Photogramme de film · Personnage · Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2104211929661423830.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099327675244720565"></a>
 
@@ -218,6 +240,28 @@ chef-d'œuvre anime, plan d'action dynamique, 2 sœurs déesses chinoises, corps
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2104254254013894934"></a>
+
+### Traduction en cours
+
+Auteur：[@airina\_xyz](https://x.com/airina_xyz) · [Publication originale](https://x.com/airina_xyz/status/2104254254013894934)
+
+Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2104254254013894934-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2102443819786809559"></a>
 
