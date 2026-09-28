@@ -243,20 +243,20 @@ obra-prima de anime, plano de ação dinâmico, 2 irmãs deusas chinesas, corpo 
 
 <a name="prompt-2104254254013894934"></a>
 
-### Tradução em curso
+### Ilustração lírica gerada com o tema &quot;September&quot; combinada com códigos de referência de estilo específicos.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Publicação original](https://x.com/airina_xyz/status/2104254254013894934)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração lírica gerada com o tema &quot;September&quot; combinada com códigos de referência de estilo específicos.
 
 <img src="images/2104254254013894934-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Setembro --ar 16:9 --sref 1824944380 955009645 3366301105
 ```
 
 [↑ Voltar às categorias](#catalog)

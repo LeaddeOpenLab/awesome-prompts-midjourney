@@ -243,20 +243,20 @@ kiệt tác anime, cảnh hành động động lực, 2 chị em nữ thần Tr
 
 <a name="prompt-2104254254013894934"></a>
 
-### Đang dịch
+### Hình minh họa trữ tình được tạo ra với chủ đề &quot;September&quot; kết hợp với các mã tham chiếu phong cách cụ thể.
 
 Tác giả：[@airina\_xyz](https://x.com/airina_xyz) · [Bài gốc](https://x.com/airina_xyz/status/2104254254013894934)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hình minh họa trữ tình được tạo ra với chủ đề &quot;September&quot; kết hợp với các mã tham chiếu phong cách cụ thể.
 
 <img src="images/2104254254013894934-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng Chín --ar 16:9 --sref 1824944380 955009645 3366301105
 ```
 
 [↑ Về danh mục](#catalog)

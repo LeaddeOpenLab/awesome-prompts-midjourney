@@ -243,20 +243,20 @@ anime başyapıtı, dinamik aksiyon çekimi, 2 Çinli tanrıça kız kardeş, k�
 
 <a name="prompt-2104254254013894934"></a>
 
-### Çeviri sürüyor
+### Belirli stil referans kodlarıyla birleştirilmiş &quot;September&quot; temasıyla oluşturulmuş lirik illüstrasyon.
 
 Yazar：[@airina\_xyz](https://x.com/airina_xyz) · [Orijinal gönderi](https://x.com/airina_xyz/status/2104254254013894934)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Belirli stil referans kodlarıyla birleştirilmiş &quot;September&quot; temasıyla oluşturulmuş lirik illüstrasyon.
 
 <img src="images/2104254254013894934-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Eylül --ar 16:9 --sref 1824944380 955009645 3366301105
 ```
 
 [↑ Kategorilere dön](#catalog)

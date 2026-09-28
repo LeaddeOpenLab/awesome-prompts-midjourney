@@ -243,20 +243,20 @@ Anime-Meisterwerk, dynamische Action-Aufnahme, 2 chinesische Göttinnen-Schweste
 
 <a name="prompt-2104254254013894934"></a>
 
-### Übersetzung läuft
+### Lyrische Illustration, die zum Thema „September“ in Kombination mit spezifischen Stilreferenzcodes generiert wurde.
 
 Autor：[@airina\_xyz](https://x.com/airina_xyz) · [Originalbeitrag](https://x.com/airina_xyz/status/2104254254013894934)
 
 Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Lyrische Illustration, die zum Thema „September“ in Kombination mit spezifischen Stilreferenzcodes generiert wurde.
 
 <img src="images/2104254254013894934-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+September --ar 16:9 --sref 1824944380 955009645 3366301105
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

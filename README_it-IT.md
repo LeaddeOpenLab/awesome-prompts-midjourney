@@ -243,20 +243,20 @@ capolavoro anime, inquadratura d'azione dinamica, 2 sorelle dee cinesi, corpo vo
 
 <a name="prompt-2104254254013894934"></a>
 
-### Traduzione in corso
+### Illustrazione lirica generata con il tema &quot;September&quot; combinato con codici di riferimento di stile specifici.
 
 Autore：[@airina\_xyz](https://x.com/airina_xyz) · [Post originale](https://x.com/airina_xyz/status/2104254254013894934)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione lirica generata con il tema &quot;September&quot; combinato con codici di riferimento di stile specifici.
 
 <img src="images/2104254254013894934-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Settembre --ar 16:9 --sref 1824944380 955009645 3366301105
 ```
 
 [↑ Torna alle categorie](#catalog)
