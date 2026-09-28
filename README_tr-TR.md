@@ -87,20 +87,20 @@ Kadın başrol kameraya doğru başını çevirip hafifçe gülümser, ardından
 
 <a name="prompt-2104211929661423830"></a>
 
-### Çeviri sürüyor
+### Doğu fantezisi antik tarzı bir iç avluda devasa bir ejderhanın yavaşça alçalarak kırmızı elbiseli bir kadınla yüzleştiği yavaş yaklaşma çekiminin betimlemesi.
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2104211929661423830)
 
 Sinematik / Film Karesi · Karakter · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Doğu fantezisi antik tarzı bir iç avluda devasa bir ejderhanın yavaşça alçalarak kırmızı elbiseli bir kadınla yüzleştiği yavaş yaklaşma çekiminin betimlemesi.
 
 <img src="covers/2104211929661423830.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ses yok. Kamera yavaşça ileri doğru yaklaşır, kamera yavaşça etrafta döner; 0. kareden itibaren kamera önce sığ su geniş platformunun kenarı boyunca saat yönünde son derece hafif bir kavis çizer ve aynı zamanda geriye ve aşağıya doğru yarım adım çekilerek karakterin, yansımanın, kuyu duvarı katlarının ve kuyu boyunca kıvrılarak inen Yinglong ejderhasının dönel bir perspektif değişimi oluşturmasını sağlar, ancak kesinlikle Orbit yapmaz. Yinglong yukarıdan son derece yavaş bir şekilde aşağı doğru uzanır: Önce ejderha başı aşağıya doğru uzatılır, ardından boyun yumuşak bir kavis oluşturur ve güç göğüs kısmı boyunca yavaşça iletilir; öndeki ejderha pençeleri hafifçe açılır ve sonra tekrar kapanır. Kuyu duvarına sarılmış ejderha gövdesinin arka yarısı hareketsiz bir arka plan değildir; yükseklerden boğum boğum gücü aşağı ileten, son derece yavaş, S şeklinde gecikmeli bir dalgalanma barındırır. Kanat köküne yakın zar kanatlar, dar kuyu içinde dengede duruyormuş gibi yalnızca hafifçe titrer, kanat çırpmak için açılmaz. Uzun bıyıklar, kulak arkası yelesi ve karın tarafındaki kıl demetleri yukarıdan aşağıya inen hava akımıyla katman katman geriye savrulur; ejderhanın ağzı hafifçe açılarak az miktarda soğuk sis püskürtür. Kuyudaki ince sis sürekli helezonik biçimde aşağı doğru iner ve sığ su yüzeyinde yavaşça dışa doğru genişleyen ince dalgalanmalar belirir. Koyu kırmızı giysili figür hareketsizdir, etekleri ve uzun saçları rüzgârın basıncıyla geriye doğru savrulur. Mimari yapı kesinlikle sabittir. Sonunda kadın ile ejderhanın yüz yüze geldiği bir yakın çekimde donar.
 ```
 
 [↑ Kategorilere dön](#catalog)

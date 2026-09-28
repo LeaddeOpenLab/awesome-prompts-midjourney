@@ -87,20 +87,20 @@ La protagonista gira la testa verso la telecamera, sorride dolcemente e poi si v
 
 <a name="prompt-2104211929661423830"></a>
 
-### Traduzione in corso
+### Descrizione di un'inquadratura in lento avanzamento in un pozzo di luce in stile fantasy orientale antico, dove un drago gigante scende lentamente a fronteggiare una donna vestita di rosso.
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2104211929661423830)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Descrizione di un'inquadratura in lento avanzamento in un pozzo di luce in stile fantasy orientale antico, dove un drago gigante scende lentamente a fronteggiare una donna vestita di rosso.
 
 <img src="covers/2104211929661423830.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Senza audio. La cinepresa avanza lentamente, la cinepresa si muove lentamente ad arco; a partire dal fotogramma 0, la cinepresa compie prima un leggerissimo movimento ad arco in senso orario lungo il bordo dell'ampia piattaforma in acque basse, mentre arretra di mezzo passo verso il basso e all'indietro, facendo sì che il personaggio, i riflessi, i livelli della parete del pozzo e il drago Yinglong che scende avvolgendosi lungo il pozzo creino una variazione prospettica rotatoria, ma rigorosamente senza eseguire un Orbit. Lo Yinglong scende dall'alto con estrema lentezza: la testa del drago si protende prima verso il basso, il collo forma quindi una morbida curva e la forza si trasmette lentamente lungo la sezione del torace; gli artigli anteriori si aprono leggermente per poi richiudersi. La metà posteriore del corpo del drago avvolta alla parete del pozzo non è uno sfondo statico, ma presenta un'ondulazione sinusoidale ritardata estremamente lenta, che trasmette la forza segmento per segmento dall'alto verso il basso. Le ali membranose vicino all'attaccatura tremano appena impercettibilmente, come per mantenere l'equilibrio nello stretto pozzo, senza aprirsi né battere. I lunghi baffi, la criniera dietro le orecchie e i ciuffi di pelo sul ventre vengono spazzati all'indietro a strati dal flusso d'aria discendente, mentre la bocca del drago si schiude appena esalando una sottile nebbia gelida. La tenue bruma nel pozzo continua a scendere spiraleggiando e sulla superficie dell'acqua bassa compaiono sottili increspature che si allargano lentamente verso l'esterno. Il personaggio vestito di cremisi resta immobile, con i lembi dell'abito e i lunghi capelli respinti all'indietro dalla pressione del vento. L'architettura è assolutamente stabile. Infine, l'immagine si fissa su un primo piano faccia a faccia tra la donna e il drago.
 ```
 
 [↑ Torna alle categorie](#catalog)

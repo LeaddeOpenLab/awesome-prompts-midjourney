@@ -87,20 +87,20 @@ La protagonista gira la cabeza hacia la cámara, sonríe levemente y se vuelve t
 
 <a name="prompt-2104211929661423830"></a>
 
-### Traducción en curso
+### Descripción de una toma de avance lento en la que un dragón gigante desciende lentamente para confrontar a una mujer vestida de rojo en un patio interior de fantasía oriental de estilo antiguo.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2104211929661423830)
 
 Cine / Fotograma de película · Personaje · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Descripción de una toma de avance lento en la que un dragón gigante desciende lentamente para confrontar a una mujer vestida de rojo en un patio interior de fantasía oriental de estilo antiguo.
 
 <img src="covers/2104211929661423830.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sin audio. La cámara avanza lentamente, la cámara gira lentamente en arco; desde el fotograma 0, la cámara realiza primero un movimiento en arco en el sentido de las agujas del reloj extremadamente sutil a lo largo del borde de la amplia plataforma de aguas poco profundas, mientras retrocede medio paso hacia atrás y hacia abajo, haciendo que el personaje, el reflejo, los niveles de las paredes del pozo y el dragón Yinglong que desciende enrollándose por el pozo formen un cambio de perspectiva rotacional, pero estrictamente sin hacer Orbit. El Yinglong desciende muy lentamente desde arriba: la cabeza del dragón se adelanta primero hacia abajo, el cuello forma una curva suave a continuación y la fuerza se transmite lentamente a lo largo de la sección del pecho; las garras delanteras del dragón se abren ligeramente y luego se contraen. La mitad posterior del cuerpo del dragón enrollada en la pared del pozo no es un fondo estático, sino que presenta una ondulación retardada en forma de S extremadamente lenta, transmitiendo la fuerza tramo a tramo desde lo alto. Las alas membranosas cerca de la base apenas tiemblan levemente, como manteniendo el equilibrio en el estrecho pozo, sin desplegarse ni aletear. Los largos bigotes, la melena detrás de las orejas y los mechones de pelo en el abdomen son empujados en capas hacia atrás por el flujo de aire descendente, y las fauces del dragón se abren levemente exhalando una fina niebla gélida. La densa bruma del pozo continúa descendiendo en espiral y aparecen finas ondas que se expanden lentamente sobre la superficie del agua poco profunda. El personaje vestido de rojo carmesí permanece inmóvil, mientras los dobladillos de su vestidura y su larga melena ondean hacia atrás por la presión del aire. La arquitectura permanece absolutamente inmóvil. Finalmente, se congela en un primer plano cara a cara entre la mujer y el dragón.
 ```
 
 [↑ Volver a categorías](#catalog)

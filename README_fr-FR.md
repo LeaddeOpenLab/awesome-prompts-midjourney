@@ -87,20 +87,20 @@ L'héroïne tourne la tête vers la caméra, esquisse un léger sourire, puis se
 
 <a name="prompt-2104211929661423830"></a>
 
-### Traduction en cours
+### Description d'un plan traveling avant lent dans un puits de lumière de style fantastique oriental ancien où un dragon géant descend lentement pour faire face à une femme vêtue de rouge.
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2104211929661423830)
 
 Image cinématographique / Photogramme de film · Personnage · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Description d'un plan traveling avant lent dans un puits de lumière de style fantastique oriental ancien où un dragon géant descend lentement pour faire face à une femme vêtue de rouge.
 
 <img src="covers/2104211929661423830.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sans audio. La caméra avance lentement, la caméra pivote lentement ; dès la frame 0, la caméra effectue d'abord un mouvement en arc de cercle dans le sens horaire extrêmement subtil le long du bord de la large plate-forme d'eau peu profonde, tout en reculant d'un demi-pas vers l'arrière et vers le bas, permettant au personnage, aux reflets, aux étages de la paroi du puits et au dragon Yinglong descendant en s'enroulant de créer une variation de perspective en rotation, mais strictement sans faire d'Orbit. Le Yinglong descend extrêmement lentement depuis le haut : la tête du dragon s'avance d'abord vers le bas, le cou formant ensuite une courbe douce, et la puissance se transmet lentement le long du thorax ; les griffes avant s'ouvrent légèrement puis se resserrent. La moitié arrière du corps du dragon enroulée autour de la paroi n'est pas un arrière-plan statique, mais présente une ondulation différée en S extrêmement lente, transmettant l'énergie segment par segment depuis la hauteur. Les ailes membraneuses près de leur base ne font que frémir très légèrement, comme pour maintenir l'équilibre dans le puits étroit, sans s'ouvrir ni battre des ailes. Les longues moustaches, la crinière derrière les oreilles et les touffes de poils ventrales sont rejetées vers l'arrière par couches sous le flux d'air descendant, et la gueule du dragon s'entrouvre pour expirer une légère brume glaciale. La fine brume dans le puits continue de descendre en tourbillonnant, tandis que de fines ondulations s'élargissant lentement apparaissent à la surface de l'eau peu profonde. Le personnage en robe pourpre reste immobile, les pans de son vêtement et ses longs cheveux étant repoussés vers l'arrière par la pression de l'air. L'architecture est d'une stabilité absolue. Le plan se fige enfin sur un gros plan face à face entre la femme et le dragon.
 ```
 
 [↑ Retour aux catégories](#catalog)

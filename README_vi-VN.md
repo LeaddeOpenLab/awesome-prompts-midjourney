@@ -87,20 +87,20 @@ Nữ chính quay đầu nhìn về phía ống kính, mỉm cười nhẹ rồi 
 
 <a name="prompt-2104211929661423830"></a>
 
-### Đang dịch
+### Mô tả cảnh quay đẩy chậm ghi lại khoảnh khắc rồng khổng lồ từ từ hạ xuống đối đầu với cô gái áo đỏ trong giếng trời phong cách huyền huyễn phương Đông.
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2104211929661423830)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mô tả cảnh quay đẩy chậm ghi lại khoảnh khắc rồng khổng lồ từ từ hạ xuống đối đầu với cô gái áo đỏ trong giếng trời phong cách huyền huyễn phương Đông.
 
 <img src="covers/2104211929661423830.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Không có âm thanh. Máy quay từ từ tiến tới, máy quay từ từ lượn quanh, từ khung hình số 0 máy quay bắt đầu lướt một đường cong cực nhẹ theo chiều kim đồng hồ dọc theo mép bệ rộng mặt nước nông, đồng thời hơi lùi lại nửa bước về phía sau bên dưới, khiến nhân vật, hình ảnh phản chiếu, các tầng tường giếng và Ứng Long đang cuộn mình trườn xuống tạo nên sự thay đổi phối cảnh xoay tròn, nhưng tuyệt đối không thực hiện Orbit. Ứng Long cực kỳ chậm rãi dò đầu xuống từ phía trên: đầu rồng vươn xuống trước, cổ uốn theo một đường cong mềm mại, lực truyền chậm rãi dọc theo phần ngực; móng rồng phía trước hơi xòe ra rồi siết chặt lại. Nửa thân rồng phía sau quấn quanh tường giếng không phải là phông nền tĩnh mà có những đợt sóng hình chữ S chuyển động cực chậm với độ trễ, truyền lực từng đốt một từ trên cao xuống. Cánh màng gần gốc cánh chỉ hơi rung nhẹ như để giữ thăng bằng trong giếng hẹp, không xòe rộng vỗ cánh. Râu dài, bờm sau tai và búi lông bên hông bị luồng khí từ trên xuống thổi dạt từng lớp về phía sau, miệng rồng hơi mở phả ra một làn sương lạnh mỏng. Làn sương mù trong giếng liên tục xoay tròn rơi xuống, trên mặt nước nông xuất hiện những gợn sóng nhỏ từ từ lan rộng ra ngoài. Nhân vật mặc áo màu đỏ thẫm đứng yên, vạt áo và mái tóc dài bị áp lực gió thổi bay về phía sau. Kiến trúc hoàn toàn tĩnh lặng kiên cố. Cuối cùng đóng khung ở cảnh cận cảnh mặt đối mặt giữa cô gái và rồng.
 ```
 
 [↑ Về danh mục](#catalog)

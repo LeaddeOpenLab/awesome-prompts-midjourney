@@ -87,20 +87,20 @@ Die weibliche Hauptfigur dreht den Kopf zur Kamera, lächelt sanft und wendet si
 
 <a name="prompt-2104211929661423830"></a>
 
-### Übersetzung läuft
+### Beschreibung einer langsamen Vorwärtsfahrt, bei der ein riesiger Drache in einem Innenhof im alten orientalischen Fantasy-Stil langsam herabsteigt und einer rot gekleideten Frau gegenübertritt.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2104211929661423830)
 
 Kinematisch / Filmstill · Charakter · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Beschreibung einer langsamen Vorwärtsfahrt, bei der ein riesiger Drache in einem Innenhof im alten orientalischen Fantasy-Stil langsam herabsteigt und einer rot gekleideten Frau gegenübertritt.
 
 <img src="covers/2104211929661423830.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Kein Ton. Die Kamera fährt langsam vor, die Kamera kreist langsam; ab Frame 0 vollzieht die Kamera zunächst eine extrem sanfte Bogenbewegung im Uhrzeigersinn entlang des Randes der breiten Plattform im seichten Wasser und weicht gleichzeitig einen halben Schritt nach hinten und unten zurück, wodurch die Figur, die Reflexionen, die Stockwerke der Schachtwand und der sich herabwindende Yinglong-Drache eine rotierende perspektivische Veränderung bilden, jedoch streng ohne Orbit. Der Yinglong senkt sich von oben extrem langsam herab: Zuerst schiebt sich der Drachenkopf nach unten, der Hals bildet daraufhin einen weichen Bogen, und die Kraft überträgt sich langsam entlang der Brustpartie; die vorderen Drachenkrallen öffnen sich leicht und schließen sich dann wieder. Die um die Schachtwand gewickelte hintere Körperhälfte des Drachen ist kein statischer Hintergrund, sondern weist eine extrem langsame, S-förmig verzögerte Wellenbewegung auf, die die Kraft von oben Glied für Glied nach unten überträgt. Die membranartigen Flügel nahe dem Flügelansatz zittern nur ganz leicht, als hielten sie im engen Schacht das Gleichgewicht, ohne sich zum Flügelschlag auszubreiten. Die langen Barteln, die Mähne hinter den Ohren und die Haarbüschel an den Flanken werden durch den von oben nach unten gerichteten Luftstrom schichtweise nach hinten geweht, und das Drachenmaul öffnet sich leicht und stößt etwas kalten Nebel aus. Der feine Nebel im Schacht sinkt kontinuierlich spiralförmig ab, und auf der Oberfläche des seichten Wassers entstehen feine, sich langsam ausbreitende Wellen. Die in Karmesinrot gekleidete Gestalt bleibt unbewegt, während Gewandsaum und langes Haar vom Winddruck nach hinten geweht werden. Die Architektur ist absolut stabil. Am Ende friert das Bild in einer Nahaufnahme ein, in der sich die Frau und der Drache von Angesicht zu Angesicht gegenüberstehen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

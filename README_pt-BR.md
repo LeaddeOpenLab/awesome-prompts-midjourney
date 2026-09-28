@@ -87,20 +87,20 @@ A protagonista vira a cabeça em direção à câmera, dá um leve sorriso e se 
 
 <a name="prompt-2104211929661423830"></a>
 
-### Tradução em andamento
+### Descrição de uma tomada com aproximação lenta em um pátio de luz em estilo de fantasia oriental antiga, com um dragão gigante descendo devagar para confrontar uma mulher de vermelho.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2104211929661423830)
 
 Cinematográfico / Imagem de Filme · Personagem · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Descrição de uma tomada com aproximação lenta em um pátio de luz em estilo de fantasia oriental antiga, com um dragão gigante descendo devagar para confrontar uma mulher de vermelho.
 
 <img src="covers/2104211929661423830.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Sem áudio. A câmera avança lentamente, a câmera faz um arco suave ao redor; a partir do quadro 0, a câmera primeiro realiza um movimento em arco no sentido horário extremamente sutil ao longo da borda da ampla plataforma de águas rasas, enquanto recua meio passo para trás e para baixo, fazendo com que o personagem, os reflexos, os andares das paredes do poço e o dragão Yinglong que desce serpenteando criem uma mudança de perspectiva rotacional, mas estritamente sem fazer Orbit. O Yinglong desce do alto de forma extremamente lenta: a cabeça do dragão se projeta primeiro para baixo, o pescoço logo forma uma curva suave e a força se transmite lentamente ao longo da região do peito; as garras dianteiras do dragão se abrem ligeiramente e voltam a se fechar. A metade posterior do corpo do dragão enrolada na parede do poço não é um fundo estático, apresentando uma ondulação retardada em forma de S extremamente lenta, transmitindo a força gomo a gomo a partir do topo. As asas membranosas perto da base apenas tremem de leve, como se equilibrando no poço estreito, sem se abrir para bater asas. Os longos bigodes, a crina atrás das orelhas e os tufos de pelos ventrais são varridos para trás em camadas pelo fluxo de ar de cima para baixo, e a boca do dragão se entreabre soltando uma tênue névoa gélida. A névoa fina dentro do poço continua descendo em espiral, e na superfície da água rasa surgem pequenas ondulações que se expandem devagar. A figura em vestes carmesim permanece imóvel, com a barra da roupa e os longos cabelos jogados para trás pela pressão do vento. A arquitetura permanece absolutamente estável. No final, a cena congela em um close-up frente a frente entre a mulher e o dragão.
 ```
 
 [↑ Voltar às categorias](#catalog)
